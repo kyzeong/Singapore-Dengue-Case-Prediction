@@ -1,0 +1,5395 @@
+region,date,recent_cases
+Admiralty,2013-05-23,-1
+Admiralty,2013-05-27,-1
+Admiralty,2013-06-11,-1
+Admiralty,2013-06-24,-3
+Admiralty,2013-07-08,-5
+Admiralty,2013-07-18,-2
+Admiralty,2013-09-06,-3
+Admiralty,2013-09-13,-6
+Admiralty,2013-10-30,-4
+Admiralty,2013-11-04,-5
+Admiralty,2013-11-11,-1
+Admiralty,2013-11-18,-3
+Admiralty,2013-11-25,5
+Admiralty,2013-12-02,6
+Admiralty,2013-12-16,8
+Admiralty,2013-12-24,5
+Admiralty,2013-12-31,3
+Admiralty,2014-01-06,3
+Admiralty,2014-01-10,8
+Admiralty,2014-01-17,22
+Admiralty,2014-02-04,17
+Admiralty,2014-02-14,7
+Admiralty,2014-03-04,2
+Admiralty,2014-03-14,4
+Admiralty,2014-04-04,1
+Admiralty,2014-04-14,3
+Admiralty,2014-06-03,2
+Admiralty,2014-07-14,3
+Admiralty,2014-07-21,3
+Admiralty,2014-07-25,5
+Admiralty,2014-07-29,3
+Admiralty,2014-08-01,2
+Admiralty,2014-08-05,4
+Admiralty,2014-08-08,5
+Admiralty,2014-08-12,5
+Admiralty,2014-08-15,6
+Admiralty,2014-09-22,5
+Admiralty,2014-09-26,6
+Admiralty,2014-09-29,2
+Admiralty,2014-10-03,2
+Admiralty,2014-10-07,2
+Admiralty,2014-10-10,1
+Admiralty,2014-10-13,1
+Admiralty,2014-10-17,3
+Admiralty,2015-01-02,1
+Admiralty,2015-01-07,8
+Admiralty,2015-01-09,4
+Admiralty,2015-01-12,3
+Admiralty,2015-02-16,1
+Admiralty,2015-03-06,1
+Admiralty,2015-03-16,1
+Admiralty,2015-03-20,2
+Admiralty,2015-03-23,3
+Admiralty,2015-03-27,2
+Admiralty,2015-03-30,1
+Admiralty,2015-04-02,4
+Admiralty,2015-04-06,2
+Admiralty,2015-04-10,2
+Admiralty,2015-04-13,4
+Admiralty,2015-07-03,3
+Admiralty,2015-07-16,10
+Admiralty,2015-08-06,4
+Admiralty,2015-08-11,5
+Admiralty,2015-08-14,5
+Admiralty,2015-08-17,3
+Admiralty,2015-08-21,2
+Admiralty,2015-08-25,2
+Admiralty,2015-08-28,6
+Admiralty,2015-08-31,7
+Admiralty,2015-09-04,3
+Admiralty,2015-09-07,1
+Admiralty,2015-09-10,4
+Admiralty,2015-09-14,4
+Admiralty,2015-09-22,2
+Admiralty,2015-09-25,2
+Admiralty,2015-09-28,1
+Admiralty,2015-10-02,8
+Admiralty,2015-10-05,4
+Admiralty,2015-10-09,3
+Admiralty,2015-10-12,3
+Admiralty,2015-10-19,5
+Admiralty,2015-10-26,1
+Admiralty,2015-11-09,5
+Admiralty,2015-11-16,2
+Admiralty,2015-11-23,3
+Admiralty,2015-11-30,3
+Admiralty,2015-12-07,2
+Admiralty,2015-12-14,2
+Admiralty,2015-12-21,10
+Admiralty,2015-12-28,14
+Admiralty,2016-01-04,14
+Admiralty,2016-01-11,16
+Admiralty,2016-01-18,12
+Admiralty,2016-01-26,32
+Admiralty,2016-02-01,28
+Admiralty,2016-02-10,7
+Admiralty,2016-02-15,18
+Admiralty,2016-02-23,31
+Admiralty,2016-03-01,27
+Admiralty,2016-03-07,18
+Admiralty,2016-03-14,5
+Admiralty,2016-03-22,11
+Admiralty,2016-03-29,4
+Admiralty,2016-04-04,2
+Admiralty,2016-04-11,6
+Admiralty,2016-04-18,1
+Admiralty,2016-05-03,3
+Admiralty,2016-05-09,1
+Admiralty,2016-05-24,2
+Admiralty,2016-05-30,1
+Admiralty,2016-06-06,2
+Admiralty,2016-06-13,13
+Admiralty,2016-06-20,8
+Admiralty,2016-06-30,8
+Admiralty,2016-07-04,8
+Admiralty,2016-07-12,6
+Admiralty,2016-07-18,4
+Admiralty,2016-07-26,2
+Admiralty,2016-08-01,4
+Admiralty,2016-08-23,2
+Admiralty,2016-09-05,1
+Admiralty,2016-09-13,3
+Admiralty,2016-09-26,2
+Admiralty,2016-10-03,1
+Admiralty,2016-10-24,3
+Admiralty,2016-11-07,1
+Admiralty,2016-11-28,2
+Admiralty,2016-12-12,2
+Admiralty,2016-12-19,1
+Admiralty,2016-12-27,2
+Admiralty,2017-01-31,1
+Admiralty,2017-02-06,1
+Admiralty,2017-04-03,3
+Admiralty,2017-04-10,1
+Admiralty,2017-04-17,2
+Admiralty,2017-04-24,2
+Admiralty,2017-05-02,3
+Admiralty,2017-05-22,2
+Admiralty,2017-05-29,1
+Admiralty,2017-06-05,1
+Admiralty,2017-06-28,2
+Admiralty,2017-07-03,3
+Admiralty,2017-07-10,3
+Admiralty,2017-07-24,1
+Admiralty,2017-08-10,3
+Admiralty,2017-08-14,2
+Admiralty,2017-09-04,1
+Admiralty,2017-09-11,2
+Admiralty,2017-11-14,1
+Admiralty,2017-11-20,1
+Admiralty,2017-11-27,1
+Admiralty,2018-07-30,1
+Admiralty,2018-08-06,1
+Admiralty,2018-08-13,1
+Admiralty,2018-08-20,3
+Admiralty,2018-08-27,1
+Admiralty,2018-09-10,1
+Admiralty,2018-09-17,1
+Admiralty,2018-09-25,5
+Admiralty,2018-10-01,7
+Admiralty,2018-10-08,5
+Admiralty,2018-10-15,4
+Admiralty,2018-10-22,7
+Admiralty,2018-10-29,14
+Admiralty,2018-11-05,9
+Admiralty,2018-11-16,13
+Admiralty,2018-11-19,10
+Admiralty,2018-11-26,13
+Admiralty,2018-12-03,4
+Admiralty,2018-12-10,4
+Admiralty,2018-12-17,5
+Admiralty,2018-12-24,7
+Admiralty,2018-12-31,2
+Admiralty,2019-01-07,6
+Admiralty,2019-01-14,10
+Admiralty,2019-01-21,12
+Admiralty,2019-01-29,12
+Admiralty,2019-04-03,21
+Admiralty,2019-04-09,21
+Admiralty,2019-04-16,40
+Admiralty,2019-04-23,40
+Admiralty,2019-04-29,40
+Admiralty,2019-05-06,41
+Admiralty,2019-05-13,102
+Admiralty,2019-05-22,95
+Admiralty,2019-05-27,72
+Admiralty,2019-06-03,108
+Admiralty,2019-06-10,100
+Admiralty,2019-06-19,58
+Admiralty,2019-06-26,51
+Admiralty,2019-07-02,32
+Admiralty,2019-07-08,24
+Admiralty,2019-07-16,13
+Admiralty,2019-07-26,15
+Admiralty,2019-08-08,17
+Admiralty,2019-08-16,10
+Admiralty,2019-08-23,13
+Admiralty,2019-08-30,15
+Admiralty,2019-09-06,15
+Admiralty,2019-09-13,18
+Admiralty,2019-09-20,11
+Admiralty,2019-09-27,15
+Admiralty,2019-10-04,12
+Admiralty,2019-10-11,2
+Admiralty,2019-10-18,5
+Admiralty,2019-10-25,1
+Admiralty,2019-11-01,5
+Admiralty,2019-11-08,3
+Admiralty,2019-11-15,7
+Admiralty,2019-11-22,4
+Admiralty,2019-11-29,3
+Admiralty,2019-12-13,2
+Admiralty,2019-12-20,6
+Admiralty,2019-12-27,3
+Admiralty,2020-01-03,15
+Admiralty,2020-01-10,16
+Admiralty,2020-01-17,6
+Admiralty,2020-01-24,12
+Admiralty,2020-01-31,16
+Admiralty,2020-02-07,16
+Admiralty,2020-02-14,15
+Admiralty,2020-02-21,12
+Admiralty,2020-02-28,3
+Admiralty,2020-03-06,9
+Admiralty,2020-03-13,14
+Admiralty,2020-03-20,11
+Admiralty,2020-03-27,10
+Admiralty,2020-04-03,12
+Admiralty,2020-04-09,10
+Admiralty,2020-04-17,11
+Admiralty,2020-04-24,13
+Admiralty,2020-04-30,25
+Admiralty,2020-05-08,20
+Admiralty,2020-05-15,24
+Admiralty,2020-05-22,20
+Admiralty,2020-05-29,29
+Admiralty,2020-06-05,33
+Admiralty,2020-07-03,64
+Admiralty,2020-08-07,95
+Admiralty,2020-09-18,71
+Admiralty,2020-11-06,20
+Ang Mo Kio,2013-05-23,-1
+Ang Mo Kio,2013-05-27,-2
+Ang Mo Kio,2013-06-11,-6
+Ang Mo Kio,2013-06-17,-4
+Ang Mo Kio,2013-06-24,-2
+Ang Mo Kio,2013-07-04,-1
+Ang Mo Kio,2013-07-08,-1
+Ang Mo Kio,2013-07-18,-2
+Ang Mo Kio,2013-07-26,-1
+Ang Mo Kio,2013-08-07,-1
+Ang Mo Kio,2013-08-13,-2
+Ang Mo Kio,2013-08-21,-1
+Ang Mo Kio,2013-08-30,-4
+Ang Mo Kio,2013-09-06,-5
+Ang Mo Kio,2013-09-13,-7
+Ang Mo Kio,2013-10-30,-5
+Ang Mo Kio,2013-11-04,-5
+Ang Mo Kio,2013-11-11,-4
+Ang Mo Kio,2013-11-18,-3
+Ang Mo Kio,2013-11-25,16
+Ang Mo Kio,2013-12-02,13
+Ang Mo Kio,2013-12-09,10
+Ang Mo Kio,2013-12-16,3
+Ang Mo Kio,2013-12-24,7
+Ang Mo Kio,2013-12-31,10
+Ang Mo Kio,2014-01-06,2
+Ang Mo Kio,2014-01-10,6
+Ang Mo Kio,2014-01-17,10
+Ang Mo Kio,2014-02-04,7
+Ang Mo Kio,2014-02-14,5
+Ang Mo Kio,2014-03-04,5
+Ang Mo Kio,2014-03-14,10
+Ang Mo Kio,2014-05-02,1
+Ang Mo Kio,2014-05-12,1
+Ang Mo Kio,2014-06-03,10
+Ang Mo Kio,2014-06-13,4
+Ang Mo Kio,2014-07-01,16
+Ang Mo Kio,2014-07-14,24
+Ang Mo Kio,2014-07-21,4
+Ang Mo Kio,2014-07-25,12
+Ang Mo Kio,2014-07-29,9
+Ang Mo Kio,2014-08-01,10
+Ang Mo Kio,2014-08-05,7
+Ang Mo Kio,2014-08-08,13
+Ang Mo Kio,2014-08-12,17
+Ang Mo Kio,2014-08-15,13
+Ang Mo Kio,2014-09-22,9
+Ang Mo Kio,2014-09-26,7
+Ang Mo Kio,2014-09-29,8
+Ang Mo Kio,2014-10-03,9
+Ang Mo Kio,2014-10-07,7
+Ang Mo Kio,2014-10-10,8
+Ang Mo Kio,2014-10-13,11
+Ang Mo Kio,2014-10-17,10
+Ang Mo Kio,2014-11-24,2
+Ang Mo Kio,2014-11-28,5
+Ang Mo Kio,2014-12-01,5
+Ang Mo Kio,2014-12-05,5
+Ang Mo Kio,2014-12-09,5
+Ang Mo Kio,2014-12-12,3
+Ang Mo Kio,2014-12-15,2
+Ang Mo Kio,2014-12-19,16
+Ang Mo Kio,2014-12-22,15
+Ang Mo Kio,2014-12-26,8
+Ang Mo Kio,2014-12-30,15
+Ang Mo Kio,2015-01-02,13
+Ang Mo Kio,2015-01-07,16
+Ang Mo Kio,2015-01-09,19
+Ang Mo Kio,2015-01-12,18
+Ang Mo Kio,2015-01-19,9
+Ang Mo Kio,2015-01-26,9
+Ang Mo Kio,2015-02-02,17
+Ang Mo Kio,2015-02-09,9
+Ang Mo Kio,2015-02-16,10
+Ang Mo Kio,2015-02-23,5
+Ang Mo Kio,2015-02-27,6
+Ang Mo Kio,2015-03-02,6
+Ang Mo Kio,2015-03-06,5
+Ang Mo Kio,2015-03-09,3
+Ang Mo Kio,2015-03-16,10
+Ang Mo Kio,2015-03-20,6
+Ang Mo Kio,2015-03-23,5
+Ang Mo Kio,2015-03-27,3
+Ang Mo Kio,2015-03-30,1
+Ang Mo Kio,2015-04-02,2
+Ang Mo Kio,2015-04-06,3
+Ang Mo Kio,2015-04-10,3
+Ang Mo Kio,2015-07-03,46
+Ang Mo Kio,2015-07-16,36
+Ang Mo Kio,2015-08-06,14
+Ang Mo Kio,2015-08-11,11
+Ang Mo Kio,2015-08-14,6
+Ang Mo Kio,2015-08-17,2
+Ang Mo Kio,2015-08-21,7
+Ang Mo Kio,2015-08-25,15
+Ang Mo Kio,2015-08-28,13
+Ang Mo Kio,2015-08-31,9
+Ang Mo Kio,2015-09-04,16
+Ang Mo Kio,2015-09-07,12
+Ang Mo Kio,2015-09-10,13
+Ang Mo Kio,2015-09-14,8
+Ang Mo Kio,2015-09-18,18
+Ang Mo Kio,2015-09-22,17
+Ang Mo Kio,2015-09-25,24
+Ang Mo Kio,2015-09-28,21
+Ang Mo Kio,2015-10-02,21
+Ang Mo Kio,2015-10-05,17
+Ang Mo Kio,2015-10-09,13
+Ang Mo Kio,2015-10-12,13
+Ang Mo Kio,2015-10-19,9
+Ang Mo Kio,2015-10-26,11
+Ang Mo Kio,2015-11-02,9
+Ang Mo Kio,2015-11-09,10
+Ang Mo Kio,2015-11-16,8
+Ang Mo Kio,2015-11-23,9
+Ang Mo Kio,2015-11-30,14
+Ang Mo Kio,2015-12-07,7
+Ang Mo Kio,2015-12-14,9
+Ang Mo Kio,2015-12-21,24
+Ang Mo Kio,2015-12-28,10
+Ang Mo Kio,2016-01-04,8
+Ang Mo Kio,2016-01-11,12
+Ang Mo Kio,2016-01-18,17
+Ang Mo Kio,2016-01-26,16
+Ang Mo Kio,2016-02-01,24
+Ang Mo Kio,2016-02-10,17
+Ang Mo Kio,2016-02-15,21
+Ang Mo Kio,2016-02-23,38
+Ang Mo Kio,2016-03-01,24
+Ang Mo Kio,2016-03-07,24
+Ang Mo Kio,2016-03-14,22
+Ang Mo Kio,2016-03-22,17
+Ang Mo Kio,2016-03-29,16
+Ang Mo Kio,2016-04-04,14
+Ang Mo Kio,2016-04-11,4
+Ang Mo Kio,2016-04-18,1
+Ang Mo Kio,2016-05-03,11
+Ang Mo Kio,2016-05-09,9
+Ang Mo Kio,2016-05-24,4
+Ang Mo Kio,2016-05-30,3
+Ang Mo Kio,2016-06-06,4
+Ang Mo Kio,2016-06-13,8
+Ang Mo Kio,2016-06-20,2
+Ang Mo Kio,2016-06-30,7
+Ang Mo Kio,2016-07-04,8
+Ang Mo Kio,2016-07-12,10
+Ang Mo Kio,2016-07-18,4
+Ang Mo Kio,2016-07-26,3
+Ang Mo Kio,2016-08-01,9
+Ang Mo Kio,2016-08-10,6
+Ang Mo Kio,2016-08-16,5
+Ang Mo Kio,2016-08-23,2
+Ang Mo Kio,2016-08-29,6
+Ang Mo Kio,2016-09-13,2
+Ang Mo Kio,2016-09-26,1
+Ang Mo Kio,2016-10-17,1
+Ang Mo Kio,2016-11-07,1
+Ang Mo Kio,2016-11-14,1
+Ang Mo Kio,2016-12-19,1
+Ang Mo Kio,2016-12-27,2
+Ang Mo Kio,2017-01-03,2
+Ang Mo Kio,2017-01-09,2
+Ang Mo Kio,2017-01-16,3
+Ang Mo Kio,2017-01-23,4
+Ang Mo Kio,2017-01-31,2
+Ang Mo Kio,2017-04-24,4
+Ang Mo Kio,2017-05-02,1
+Ang Mo Kio,2017-05-15,2
+Ang Mo Kio,2017-07-31,2
+Ang Mo Kio,2017-08-21,2
+Ang Mo Kio,2017-11-06,1
+Ang Mo Kio,2018-06-11,2
+Ang Mo Kio,2018-07-09,2
+Ang Mo Kio,2018-07-23,2
+Ang Mo Kio,2018-07-30,4
+Ang Mo Kio,2018-09-03,3
+Ang Mo Kio,2018-09-10,5
+Ang Mo Kio,2018-09-17,2
+Ang Mo Kio,2018-09-25,2
+Ang Mo Kio,2018-10-01,3
+Ang Mo Kio,2018-10-08,3
+Ang Mo Kio,2018-10-15,5
+Ang Mo Kio,2018-10-22,4
+Ang Mo Kio,2018-10-29,4
+Ang Mo Kio,2018-11-16,5
+Ang Mo Kio,2018-11-19,5
+Ang Mo Kio,2018-12-31,4
+Ang Mo Kio,2019-01-07,3
+Ang Mo Kio,2019-01-14,7
+Ang Mo Kio,2019-01-29,4
+Ang Mo Kio,2019-04-03,3
+Ang Mo Kio,2019-04-09,3
+Ang Mo Kio,2019-04-16,4
+Ang Mo Kio,2019-04-23,10
+Ang Mo Kio,2019-04-29,6
+Ang Mo Kio,2019-05-06,7
+Ang Mo Kio,2019-05-13,21
+Ang Mo Kio,2019-05-22,18
+Ang Mo Kio,2019-05-27,32
+Ang Mo Kio,2019-06-03,50
+Ang Mo Kio,2019-06-10,52
+Ang Mo Kio,2019-06-19,50
+Ang Mo Kio,2019-06-26,52
+Ang Mo Kio,2019-07-02,41
+Ang Mo Kio,2019-07-08,50
+Ang Mo Kio,2019-07-16,79
+Ang Mo Kio,2019-07-26,78
+Ang Mo Kio,2019-08-08,95
+Ang Mo Kio,2019-08-16,84
+Ang Mo Kio,2019-08-23,65
+Ang Mo Kio,2019-08-30,90
+Ang Mo Kio,2019-09-06,65
+Ang Mo Kio,2019-09-13,48
+Ang Mo Kio,2019-09-20,36
+Ang Mo Kio,2019-09-27,27
+Ang Mo Kio,2019-10-04,16
+Ang Mo Kio,2019-10-11,25
+Ang Mo Kio,2019-10-18,21
+Ang Mo Kio,2019-10-25,21
+Ang Mo Kio,2019-11-01,29
+Ang Mo Kio,2019-11-08,46
+Ang Mo Kio,2019-11-15,43
+Ang Mo Kio,2019-11-22,53
+Ang Mo Kio,2019-11-29,49
+Ang Mo Kio,2019-12-06,34
+Ang Mo Kio,2019-12-13,28
+Ang Mo Kio,2019-12-20,28
+Ang Mo Kio,2019-12-27,26
+Ang Mo Kio,2020-01-03,13
+Ang Mo Kio,2020-01-10,39
+Ang Mo Kio,2020-01-17,41
+Ang Mo Kio,2020-01-24,57
+Ang Mo Kio,2020-01-31,57
+Ang Mo Kio,2020-02-07,72
+Ang Mo Kio,2020-02-14,71
+Ang Mo Kio,2020-02-21,60
+Ang Mo Kio,2020-02-28,60
+Ang Mo Kio,2020-03-06,38
+Ang Mo Kio,2020-03-13,35
+Ang Mo Kio,2020-03-20,25
+Ang Mo Kio,2020-03-27,29
+Ang Mo Kio,2020-04-03,29
+Ang Mo Kio,2020-04-09,44
+Ang Mo Kio,2020-04-17,36
+Ang Mo Kio,2020-04-24,48
+Ang Mo Kio,2020-04-30,68
+Ang Mo Kio,2020-05-08,59
+Ang Mo Kio,2020-05-15,67
+Ang Mo Kio,2020-05-22,81
+Ang Mo Kio,2020-05-29,100
+Ang Mo Kio,2020-06-05,125
+Ang Mo Kio,2020-07-03,182
+Ang Mo Kio,2020-08-07,247
+Ang Mo Kio,2020-09-18,63
+Ang Mo Kio,2020-11-06,22
+Botanic Garden,2013-05-23,-1
+Botanic Garden,2013-05-27,-1
+Botanic Garden,2013-06-17,-2
+Botanic Garden,2013-06-24,-2
+Botanic Garden,2013-07-04,-3
+Botanic Garden,2013-07-08,-1
+Botanic Garden,2013-07-18,-1
+Botanic Garden,2013-08-30,-1
+Botanic Garden,2013-09-06,-2
+Botanic Garden,2013-10-30,-2
+Botanic Garden,2013-11-04,-2
+Botanic Garden,2013-11-11,-2
+Botanic Garden,2013-11-18,-2
+Botanic Garden,2013-11-25,4
+Botanic Garden,2013-12-16,2
+Botanic Garden,2013-12-31,2
+Botanic Garden,2014-01-06,1
+Botanic Garden,2014-01-10,5
+Botanic Garden,2014-01-17,3
+Botanic Garden,2014-02-04,10
+Botanic Garden,2014-02-14,4
+Botanic Garden,2014-05-02,40
+Botanic Garden,2014-05-12,22
+Botanic Garden,2014-06-03,7
+Botanic Garden,2014-07-01,4
+Botanic Garden,2014-07-21,6
+Botanic Garden,2014-07-25,3
+Botanic Garden,2015-01-26,1
+Botanic Garden,2015-07-03,2
+Botanic Garden,2015-08-14,2
+Botanic Garden,2015-08-17,2
+Botanic Garden,2015-08-21,2
+Botanic Garden,2015-08-25,1
+Botanic Garden,2015-08-31,2
+Botanic Garden,2015-09-04,2
+Botanic Garden,2015-09-07,1
+Botanic Garden,2015-10-09,1
+Botanic Garden,2015-10-12,3
+Botanic Garden,2015-10-19,1
+Botanic Garden,2015-11-09,1
+Botanic Garden,2016-01-26,3
+Botanic Garden,2016-02-01,2
+Botanic Garden,2016-02-10,1
+Botanic Garden,2016-03-14,3
+Botanic Garden,2016-03-22,7
+Botanic Garden,2016-03-29,4
+Botanic Garden,2016-07-18,2
+Botanic Garden,2016-07-26,1
+Botanic Garden,2016-09-13,1
+Botanic Garden,2017-05-29,1
+Botanic Garden,2018-05-21,2
+Botanic Garden,2018-09-25,1
+Botanic Garden,2018-11-26,1
+Botanic Garden,2019-01-29,3
+Botanic Garden,2019-06-19,2
+Botanic Garden,2019-06-26,2
+Botanic Garden,2019-07-08,2
+Botanic Garden,2019-07-26,6
+Botanic Garden,2019-08-08,4
+Botanic Garden,2019-08-16,9
+Botanic Garden,2019-08-23,14
+Botanic Garden,2019-08-30,9
+Botanic Garden,2019-09-06,16
+Botanic Garden,2019-09-13,12
+Botanic Garden,2019-09-20,4
+Botanic Garden,2019-09-27,2
+Botanic Garden,2019-10-04,2
+Botanic Garden,2019-10-11,4
+Botanic Garden,2019-11-01,3
+Botanic Garden,2019-11-15,2
+Botanic Garden,2020-03-27,6
+Botanic Garden,2020-04-03,4
+Botanic Garden,2020-05-08,2
+Botanic Garden,2020-07-03,21
+Botanic Garden,2020-08-07,35
+Botanic Garden,2020-09-18,12
+Buangkok,2013-05-23,-6
+Buangkok,2013-05-27,-6
+Buangkok,2013-06-11,-9
+Buangkok,2013-06-17,-5
+Buangkok,2013-06-24,-3
+Buangkok,2013-07-04,-2
+Buangkok,2013-07-08,-2
+Buangkok,2013-07-18,-9
+Buangkok,2013-07-26,-6
+Buangkok,2013-08-07,-9
+Buangkok,2013-08-13,-7
+Buangkok,2013-08-21,-5
+Buangkok,2013-08-30,-6
+Buangkok,2013-09-06,-6
+Buangkok,2013-09-13,-7
+Buangkok,2013-10-30,-9
+Buangkok,2013-11-04,-8
+Buangkok,2013-11-11,-5
+Buangkok,2013-11-18,-5
+Buangkok,2013-11-25,21
+Buangkok,2013-12-02,15
+Buangkok,2013-12-09,6
+Buangkok,2013-12-24,17
+Buangkok,2013-12-31,16
+Buangkok,2014-01-06,15
+Buangkok,2014-01-10,30
+Buangkok,2014-01-17,29
+Buangkok,2014-02-04,19
+Buangkok,2014-02-14,21
+Buangkok,2014-03-04,12
+Buangkok,2014-03-14,40
+Buangkok,2014-04-04,71
+Buangkok,2014-04-14,46
+Buangkok,2014-05-02,46
+Buangkok,2014-05-12,14
+Buangkok,2014-06-03,103
+Buangkok,2014-06-13,161
+Buangkok,2014-07-01,125
+Buangkok,2014-07-14,105
+Buangkok,2014-07-21,34
+Buangkok,2014-07-25,54
+Buangkok,2014-07-29,41
+Buangkok,2014-08-01,36
+Buangkok,2014-08-05,35
+Buangkok,2014-08-08,35
+Buangkok,2014-08-12,41
+Buangkok,2014-08-15,26
+Buangkok,2014-09-22,12
+Buangkok,2014-09-26,16
+Buangkok,2014-09-29,18
+Buangkok,2014-10-03,15
+Buangkok,2014-10-07,9
+Buangkok,2014-10-10,13
+Buangkok,2014-10-13,16
+Buangkok,2014-10-17,5
+Buangkok,2014-11-28,3
+Buangkok,2014-12-01,2
+Buangkok,2014-12-05,4
+Buangkok,2014-12-09,8
+Buangkok,2014-12-12,8
+Buangkok,2014-12-15,3
+Buangkok,2014-12-19,8
+Buangkok,2014-12-22,6
+Buangkok,2014-12-26,4
+Buangkok,2014-12-30,7
+Buangkok,2015-01-02,6
+Buangkok,2015-01-07,13
+Buangkok,2015-01-09,13
+Buangkok,2015-01-12,18
+Buangkok,2015-01-19,21
+Buangkok,2015-01-26,7
+Buangkok,2015-02-02,8
+Buangkok,2015-02-09,6
+Buangkok,2015-02-16,3
+Buangkok,2015-02-23,6
+Buangkok,2015-02-27,14
+Buangkok,2015-03-02,19
+Buangkok,2015-03-06,7
+Buangkok,2015-03-09,4
+Buangkok,2015-03-16,5
+Buangkok,2015-03-23,2
+Buangkok,2015-03-27,2
+Buangkok,2015-03-30,2
+Buangkok,2015-04-02,3
+Buangkok,2015-04-06,2
+Buangkok,2015-04-10,4
+Buangkok,2015-04-13,2
+Buangkok,2015-07-03,6
+Buangkok,2015-07-16,5
+Buangkok,2015-08-06,4
+Buangkok,2015-08-11,1
+Buangkok,2015-08-14,9
+Buangkok,2015-08-17,8
+Buangkok,2015-08-21,8
+Buangkok,2015-08-25,5
+Buangkok,2015-08-28,3
+Buangkok,2015-08-31,5
+Buangkok,2015-09-04,26
+Buangkok,2015-09-07,26
+Buangkok,2015-09-10,28
+Buangkok,2015-09-14,20
+Buangkok,2015-09-18,17
+Buangkok,2015-09-22,15
+Buangkok,2015-09-25,19
+Buangkok,2015-09-28,14
+Buangkok,2015-10-02,6
+Buangkok,2015-10-05,10
+Buangkok,2015-10-09,14
+Buangkok,2015-10-12,12
+Buangkok,2015-10-19,3
+Buangkok,2015-10-26,17
+Buangkok,2015-11-02,11
+Buangkok,2015-11-09,9
+Buangkok,2015-11-16,13
+Buangkok,2015-11-23,10
+Buangkok,2015-11-30,19
+Buangkok,2015-12-07,12
+Buangkok,2015-12-14,14
+Buangkok,2015-12-21,11
+Buangkok,2015-12-28,11
+Buangkok,2016-01-04,16
+Buangkok,2016-01-11,27
+Buangkok,2016-01-18,31
+Buangkok,2016-01-26,49
+Buangkok,2016-02-01,50
+Buangkok,2016-02-10,28
+Buangkok,2016-02-15,26
+Buangkok,2016-02-23,21
+Buangkok,2016-03-01,44
+Buangkok,2016-03-07,35
+Buangkok,2016-03-14,22
+Buangkok,2016-03-22,28
+Buangkok,2016-03-29,19
+Buangkok,2016-04-04,27
+Buangkok,2016-04-11,18
+Buangkok,2016-04-18,15
+Buangkok,2016-04-25,12
+Buangkok,2016-05-03,16
+Buangkok,2016-05-09,7
+Buangkok,2016-05-24,5
+Buangkok,2016-05-30,6
+Buangkok,2016-06-06,4
+Buangkok,2016-06-13,7
+Buangkok,2016-06-20,10
+Buangkok,2016-06-30,16
+Buangkok,2016-07-04,14
+Buangkok,2016-07-12,19
+Buangkok,2016-07-18,15
+Buangkok,2016-07-26,5
+Buangkok,2016-08-01,7
+Buangkok,2016-08-10,2
+Buangkok,2016-08-23,2
+Buangkok,2016-08-29,1
+Buangkok,2016-09-05,8
+Buangkok,2016-09-13,1
+Buangkok,2016-09-19,5
+Buangkok,2016-09-26,6
+Buangkok,2016-10-10,2
+Buangkok,2016-10-17,5
+Buangkok,2016-10-24,2
+Buangkok,2016-10-31,1
+Buangkok,2016-11-14,7
+Buangkok,2016-11-21,6
+Buangkok,2016-11-28,7
+Buangkok,2016-12-05,12
+Buangkok,2016-12-12,11
+Buangkok,2016-12-19,9
+Buangkok,2016-12-27,12
+Buangkok,2017-01-03,3
+Buangkok,2017-01-09,2
+Buangkok,2017-01-16,8
+Buangkok,2017-01-23,6
+Buangkok,2017-01-31,1
+Buangkok,2017-02-06,1
+Buangkok,2017-06-12,1
+Buangkok,2017-06-19,3
+Buangkok,2017-06-28,4
+Buangkok,2017-07-17,6
+Buangkok,2017-07-24,6
+Buangkok,2017-07-31,2
+Buangkok,2017-08-10,5
+Buangkok,2017-08-14,3
+Buangkok,2017-08-21,5
+Buangkok,2017-08-29,3
+Buangkok,2017-09-04,1
+Buangkok,2017-09-18,4
+Buangkok,2017-09-25,6
+Buangkok,2017-10-02,1
+Buangkok,2017-12-26,7
+Buangkok,2018-01-02,8
+Buangkok,2018-01-11,43
+Buangkok,2018-01-15,37
+Buangkok,2018-01-22,10
+Buangkok,2018-01-29,8
+Buangkok,2018-02-05,3
+Buangkok,2018-02-12,3
+Buangkok,2018-03-12,1
+Buangkok,2018-07-09,1
+Buangkok,2018-07-16,1
+Buangkok,2018-09-17,1
+Buangkok,2018-11-16,2
+Buangkok,2018-11-19,2
+Buangkok,2018-11-26,1
+Buangkok,2018-12-03,3
+Buangkok,2018-12-10,3
+Buangkok,2018-12-17,2
+Buangkok,2018-12-24,4
+Buangkok,2018-12-31,6
+Buangkok,2019-01-07,9
+Buangkok,2019-01-14,20
+Buangkok,2019-01-21,16
+Buangkok,2019-01-29,22
+Buangkok,2019-04-03,6
+Buangkok,2019-04-09,5
+Buangkok,2019-04-16,10
+Buangkok,2019-04-23,14
+Buangkok,2019-04-29,5
+Buangkok,2019-05-06,7
+Buangkok,2019-05-13,12
+Buangkok,2019-05-22,16
+Buangkok,2019-05-27,25
+Buangkok,2019-06-03,39
+Buangkok,2019-06-10,42
+Buangkok,2019-06-19,56
+Buangkok,2019-06-26,58
+Buangkok,2019-07-02,46
+Buangkok,2019-07-08,63
+Buangkok,2019-07-16,77
+Buangkok,2019-07-26,57
+Buangkok,2019-08-08,57
+Buangkok,2019-08-16,52
+Buangkok,2019-08-23,47
+Buangkok,2019-08-30,46
+Buangkok,2019-09-06,55
+Buangkok,2019-09-13,57
+Buangkok,2019-09-20,43
+Buangkok,2019-09-27,37
+Buangkok,2019-10-04,21
+Buangkok,2019-10-11,32
+Buangkok,2019-10-18,37
+Buangkok,2019-10-25,54
+Buangkok,2019-11-01,52
+Buangkok,2019-11-08,38
+Buangkok,2019-11-15,46
+Buangkok,2019-11-22,59
+Buangkok,2019-11-29,48
+Buangkok,2019-12-06,60
+Buangkok,2019-12-13,33
+Buangkok,2019-12-20,29
+Buangkok,2019-12-27,42
+Buangkok,2020-01-03,41
+Buangkok,2020-01-10,60
+Buangkok,2020-01-17,48
+Buangkok,2020-01-24,57
+Buangkok,2020-01-31,60
+Buangkok,2020-02-07,50
+Buangkok,2020-02-14,42
+Buangkok,2020-02-21,69
+Buangkok,2020-02-28,62
+Buangkok,2020-03-06,58
+Buangkok,2020-03-13,64
+Buangkok,2020-03-20,55
+Buangkok,2020-03-27,66
+Buangkok,2020-04-03,50
+Buangkok,2020-04-09,54
+Buangkok,2020-04-17,44
+Buangkok,2020-04-24,38
+Buangkok,2020-04-30,49
+Buangkok,2020-05-08,44
+Buangkok,2020-05-15,58
+Buangkok,2020-05-22,59
+Buangkok,2020-05-29,50
+Buangkok,2020-06-05,63
+Buangkok,2020-07-03,195
+Buangkok,2020-08-07,301
+Buangkok,2020-09-18,115
+Buangkok,2020-11-06,53
+Bukit Panjang,2013-05-23,-1
+Bukit Panjang,2013-05-27,-1
+Bukit Panjang,2013-06-11,-5
+Bukit Panjang,2013-06-17,-5
+Bukit Panjang,2013-06-24,-3
+Bukit Panjang,2013-07-04,-3
+Bukit Panjang,2013-07-08,-4
+Bukit Panjang,2013-07-18,-3
+Bukit Panjang,2013-07-26,-2
+Bukit Panjang,2013-08-07,-1
+Bukit Panjang,2013-08-13,-2
+Bukit Panjang,2013-08-21,-3
+Bukit Panjang,2013-08-30,-2
+Bukit Panjang,2013-09-06,-1
+Bukit Panjang,2013-09-13,-1
+Bukit Panjang,2013-10-30,-4
+Bukit Panjang,2013-11-04,-3
+Bukit Panjang,2013-11-18,-2
+Bukit Panjang,2013-11-25,9
+Bukit Panjang,2013-12-02,1
+Bukit Panjang,2013-12-09,2
+Bukit Panjang,2013-12-16,12
+Bukit Panjang,2013-12-24,5
+Bukit Panjang,2014-01-06,3
+Bukit Panjang,2014-01-10,5
+Bukit Panjang,2014-01-17,4
+Bukit Panjang,2014-02-04,2
+Bukit Panjang,2014-03-04,1
+Bukit Panjang,2014-03-14,2
+Bukit Panjang,2014-04-04,3
+Bukit Panjang,2014-04-14,1
+Bukit Panjang,2014-06-03,2
+Bukit Panjang,2014-06-13,5
+Bukit Panjang,2014-07-14,16
+Bukit Panjang,2014-07-21,3
+Bukit Panjang,2014-07-25,21
+Bukit Panjang,2014-07-29,19
+Bukit Panjang,2014-08-01,25
+Bukit Panjang,2014-08-05,17
+Bukit Panjang,2014-08-08,9
+Bukit Panjang,2014-08-12,11
+Bukit Panjang,2014-08-15,11
+Bukit Panjang,2014-09-22,32
+Bukit Panjang,2014-09-26,26
+Bukit Panjang,2014-09-29,19
+Bukit Panjang,2014-10-03,16
+Bukit Panjang,2014-10-07,11
+Bukit Panjang,2014-10-10,9
+Bukit Panjang,2014-10-13,5
+Bukit Panjang,2014-10-17,11
+Bukit Panjang,2014-11-24,3
+Bukit Panjang,2014-11-28,3
+Bukit Panjang,2014-12-01,2
+Bukit Panjang,2014-12-05,1
+Bukit Panjang,2014-12-09,2
+Bukit Panjang,2014-12-19,2
+Bukit Panjang,2014-12-22,1
+Bukit Panjang,2014-12-26,1
+Bukit Panjang,2014-12-30,1
+Bukit Panjang,2015-01-19,7
+Bukit Panjang,2015-01-26,2
+Bukit Panjang,2015-02-02,5
+Bukit Panjang,2015-02-09,2
+Bukit Panjang,2015-02-16,3
+Bukit Panjang,2015-02-23,1
+Bukit Panjang,2015-03-27,2
+Bukit Panjang,2015-03-30,2
+Bukit Panjang,2015-04-02,2
+Bukit Panjang,2015-04-06,1
+Bukit Panjang,2015-04-17,2
+Bukit Panjang,2015-07-16,1
+Bukit Panjang,2015-08-14,5
+Bukit Panjang,2015-08-17,3
+Bukit Panjang,2015-08-28,2
+Bukit Panjang,2015-08-31,2
+Bukit Panjang,2015-09-04,1
+Bukit Panjang,2015-09-07,1
+Bukit Panjang,2015-09-10,6
+Bukit Panjang,2015-09-14,6
+Bukit Panjang,2015-09-18,2
+Bukit Panjang,2015-09-22,5
+Bukit Panjang,2015-09-25,4
+Bukit Panjang,2015-09-28,2
+Bukit Panjang,2015-10-09,1
+Bukit Panjang,2015-10-12,1
+Bukit Panjang,2015-10-19,3
+Bukit Panjang,2015-10-26,2
+Bukit Panjang,2015-11-23,1
+Bukit Panjang,2015-11-30,3
+Bukit Panjang,2015-12-07,3
+Bukit Panjang,2015-12-14,3
+Bukit Panjang,2015-12-21,2
+Bukit Panjang,2015-12-28,8
+Bukit Panjang,2016-01-04,6
+Bukit Panjang,2016-01-11,15
+Bukit Panjang,2016-01-18,19
+Bukit Panjang,2016-01-26,11
+Bukit Panjang,2016-02-01,6
+Bukit Panjang,2016-02-10,6
+Bukit Panjang,2016-02-15,10
+Bukit Panjang,2016-02-23,4
+Bukit Panjang,2016-03-01,12
+Bukit Panjang,2016-03-07,7
+Bukit Panjang,2016-03-14,1
+Bukit Panjang,2016-03-22,2
+Bukit Panjang,2016-04-25,4
+Bukit Panjang,2016-05-03,1
+Bukit Panjang,2016-05-24,4
+Bukit Panjang,2016-05-30,5
+Bukit Panjang,2016-06-06,2
+Bukit Panjang,2016-06-13,2
+Bukit Panjang,2016-06-30,2
+Bukit Panjang,2016-07-04,1
+Bukit Panjang,2016-07-12,2
+Bukit Panjang,2016-07-18,2
+Bukit Panjang,2016-07-26,5
+Bukit Panjang,2016-08-01,5
+Bukit Panjang,2016-08-10,4
+Bukit Panjang,2016-08-16,3
+Bukit Panjang,2016-08-23,6
+Bukit Panjang,2016-08-29,12
+Bukit Panjang,2016-09-05,12
+Bukit Panjang,2016-09-13,7
+Bukit Panjang,2016-09-19,8
+Bukit Panjang,2016-09-26,6
+Bukit Panjang,2016-10-03,3
+Bukit Panjang,2016-10-10,2
+Bukit Panjang,2016-10-24,5
+Bukit Panjang,2016-10-31,1
+Bukit Panjang,2016-12-05,8
+Bukit Panjang,2016-12-12,7
+Bukit Panjang,2016-12-19,4
+Bukit Panjang,2016-12-27,8
+Bukit Panjang,2017-01-03,2
+Bukit Panjang,2017-01-09,2
+Bukit Panjang,2017-01-23,1
+Bukit Panjang,2017-01-31,2
+Bukit Panjang,2017-02-06,2
+Bukit Panjang,2017-02-13,1
+Bukit Panjang,2017-05-22,1
+Bukit Panjang,2017-07-24,2
+Bukit Panjang,2017-09-04,1
+Bukit Panjang,2017-09-11,1
+Bukit Panjang,2017-11-06,1
+Bukit Panjang,2018-01-22,4
+Bukit Panjang,2018-02-12,4
+Bukit Panjang,2018-02-19,6
+Bukit Panjang,2018-02-26,4
+Bukit Panjang,2018-03-05,4
+Bukit Panjang,2018-03-12,4
+Bukit Panjang,2018-03-20,1
+Bukit Panjang,2018-04-09,4
+Bukit Panjang,2018-04-16,2
+Bukit Panjang,2018-04-23,1
+Bukit Panjang,2018-04-30,8
+Bukit Panjang,2018-05-07,4
+Bukit Panjang,2018-05-14,2
+Bukit Panjang,2018-05-21,3
+Bukit Panjang,2018-05-28,4
+Bukit Panjang,2018-06-04,2
+Bukit Panjang,2018-06-11,2
+Bukit Panjang,2018-06-18,6
+Bukit Panjang,2018-06-25,1
+Bukit Panjang,2018-07-23,1
+Bukit Panjang,2018-07-30,3
+Bukit Panjang,2018-08-13,1
+Bukit Panjang,2018-08-20,4
+Bukit Panjang,2018-09-03,1
+Bukit Panjang,2018-09-10,2
+Bukit Panjang,2018-10-15,4
+Bukit Panjang,2018-10-22,1
+Bukit Panjang,2018-11-16,10
+Bukit Panjang,2018-11-19,7
+Bukit Panjang,2018-11-26,12
+Bukit Panjang,2018-12-03,7
+Bukit Panjang,2018-12-10,14
+Bukit Panjang,2018-12-17,5
+Bukit Panjang,2018-12-24,4
+Bukit Panjang,2018-12-31,5
+Bukit Panjang,2019-01-07,10
+Bukit Panjang,2019-01-14,12
+Bukit Panjang,2019-01-21,7
+Bukit Panjang,2019-01-29,15
+Bukit Panjang,2019-04-03,3
+Bukit Panjang,2019-04-09,1
+Bukit Panjang,2019-05-22,2
+Bukit Panjang,2019-05-27,4
+Bukit Panjang,2019-06-10,3
+Bukit Panjang,2019-06-26,2
+Bukit Panjang,2019-07-02,2
+Bukit Panjang,2019-07-08,13
+Bukit Panjang,2019-07-16,10
+Bukit Panjang,2019-07-26,24
+Bukit Panjang,2019-08-08,18
+Bukit Panjang,2019-08-16,25
+Bukit Panjang,2019-08-23,20
+Bukit Panjang,2019-08-30,27
+Bukit Panjang,2019-09-06,7
+Bukit Panjang,2019-09-13,9
+Bukit Panjang,2019-09-20,12
+Bukit Panjang,2019-09-27,18
+Bukit Panjang,2019-10-04,14
+Bukit Panjang,2019-10-11,18
+Bukit Panjang,2019-10-18,3
+Bukit Panjang,2019-10-25,6
+Bukit Panjang,2019-11-01,19
+Bukit Panjang,2019-11-08,14
+Bukit Panjang,2019-11-15,22
+Bukit Panjang,2019-11-22,31
+Bukit Panjang,2019-11-29,21
+Bukit Panjang,2019-12-06,23
+Bukit Panjang,2019-12-13,40
+Bukit Panjang,2019-12-20,39
+Bukit Panjang,2019-12-27,45
+Bukit Panjang,2020-01-03,33
+Bukit Panjang,2020-01-10,42
+Bukit Panjang,2020-01-17,47
+Bukit Panjang,2020-01-24,38
+Bukit Panjang,2020-01-31,38
+Bukit Panjang,2020-02-07,42
+Bukit Panjang,2020-02-14,44
+Bukit Panjang,2020-02-21,63
+Bukit Panjang,2020-02-28,56
+Bukit Panjang,2020-03-06,49
+Bukit Panjang,2020-03-13,60
+Bukit Panjang,2020-03-20,67
+Bukit Panjang,2020-03-27,74
+Bukit Panjang,2020-04-03,68
+Bukit Panjang,2020-04-09,67
+Bukit Panjang,2020-04-17,66
+Bukit Panjang,2020-04-24,54
+Bukit Panjang,2020-04-30,56
+Bukit Panjang,2020-05-08,55
+Bukit Panjang,2020-05-15,69
+Bukit Panjang,2020-05-22,58
+Bukit Panjang,2020-05-29,42
+Bukit Panjang,2020-06-05,50
+Bukit Panjang,2020-07-03,156
+Bukit Panjang,2020-08-07,108
+Bukit Panjang,2020-09-18,38
+Bukit Panjang,2020-11-06,18
+Bukit Timah,2013-05-23,-1
+Bukit Timah,2013-05-27,-1
+Bukit Timah,2013-06-11,-1
+Bukit Timah,2013-07-18,-1
+Bukit Timah,2013-11-04,-1
+Bukit Timah,2013-11-18,-2
+Bukit Timah,2013-11-25,6
+Bukit Timah,2013-12-02,8
+Bukit Timah,2013-12-09,3
+Bukit Timah,2014-01-10,2
+Bukit Timah,2014-01-17,2
+Bukit Timah,2014-02-04,8
+Bukit Timah,2014-02-14,1
+Bukit Timah,2014-04-14,10
+Bukit Timah,2014-05-02,44
+Bukit Timah,2014-05-12,21
+Bukit Timah,2014-06-03,18
+Bukit Timah,2014-06-13,5
+Bukit Timah,2014-07-14,2
+Bukit Timah,2015-07-03,6
+Bukit Timah,2015-07-16,5
+Bukit Timah,2015-08-14,2
+Bukit Timah,2015-08-17,1
+Bukit Timah,2015-09-14,2
+Bukit Timah,2015-09-18,1
+Bukit Timah,2015-10-09,4
+Bukit Timah,2015-10-12,2
+Bukit Timah,2015-11-09,2
+Bukit Timah,2016-01-18,2
+Bukit Timah,2016-01-26,5
+Bukit Timah,2016-02-01,2
+Bukit Timah,2016-02-15,2
+Bukit Timah,2016-02-23,1
+Bukit Timah,2016-03-01,1
+Bukit Timah,2016-03-07,2
+Bukit Timah,2016-03-14,2
+Bukit Timah,2016-04-11,1
+Bukit Timah,2016-08-23,4
+Bukit Timah,2016-09-05,2
+Bukit Timah,2016-09-26,2
+Bukit Timah,2017-11-27,2
+Bukit Timah,2018-10-22,2
+Bukit Timah,2018-10-29,3
+Bukit Timah,2019-05-13,2
+Bukit Timah,2019-06-10,1
+Bukit Timah,2019-07-16,2
+Bukit Timah,2019-07-26,13
+Bukit Timah,2019-08-08,14
+Bukit Timah,2019-08-16,19
+Bukit Timah,2019-08-23,14
+Bukit Timah,2019-08-30,20
+Bukit Timah,2019-09-06,24
+Bukit Timah,2019-09-13,24
+Bukit Timah,2019-09-20,8
+Bukit Timah,2019-10-04,4
+Bukit Timah,2019-12-13,2
+Bukit Timah,2019-12-20,2
+Bukit Timah,2020-01-10,2
+Bukit Timah,2020-01-17,2
+Bukit Timah,2020-02-07,3
+Bukit Timah,2020-02-14,6
+Bukit Timah,2020-03-13,2
+Bukit Timah,2020-03-27,3
+Bukit Timah,2020-05-08,2
+Bukit Timah,2020-05-15,2
+Bukit Timah,2020-05-29,3
+Bukit Timah,2020-07-03,2
+Bukit Timah,2020-08-07,3
+Bukit Timah,2020-09-18,5
+Bukit Timah,2020-11-06,8
+Buona Vista,2013-09-06,-1
+Buona Vista,2013-12-02,1
+Buona Vista,2014-01-17,2
+Buona Vista,2014-03-04,2
+Buona Vista,2014-06-03,2
+Buona Vista,2015-04-17,1
+Buona Vista,2015-07-03,3
+Buona Vista,2015-12-07,2
+Buona Vista,2015-12-14,1
+Buona Vista,2016-01-04,1
+Buona Vista,2016-01-26,5
+Buona Vista,2016-02-01,2
+Buona Vista,2016-02-10,2
+Buona Vista,2016-02-23,1
+Buona Vista,2016-03-01,1
+Buona Vista,2018-06-25,1
+Buona Vista,2019-01-07,2
+Buona Vista,2019-06-26,2
+Buona Vista,2019-07-02,5
+Buona Vista,2019-07-08,6
+Buona Vista,2019-07-16,12
+Buona Vista,2019-07-26,18
+Buona Vista,2019-08-08,17
+Buona Vista,2019-08-16,20
+Buona Vista,2019-08-23,12
+Buona Vista,2019-08-30,22
+Buona Vista,2019-09-06,24
+Buona Vista,2019-09-13,24
+Buona Vista,2019-09-20,8
+Buona Vista,2019-10-04,4
+Buona Vista,2019-11-08,2
+Buona Vista,2020-01-03,2
+Buona Vista,2020-01-10,2
+Buona Vista,2020-01-24,2
+Buona Vista,2020-01-31,1
+Buona Vista,2020-02-21,4
+Buona Vista,2020-05-08,2
+Buona Vista,2020-05-15,3
+Buona Vista,2020-05-22,3
+Buona Vista,2020-06-05,2
+Buona Vista,2020-07-03,2
+Buona Vista,2020-08-07,11
+Buona Vista,2020-09-18,6
+Buona Vista,2020-11-06,2
+Chai Chee,2013-05-23,-5
+Chai Chee,2013-05-27,-5
+Chai Chee,2013-06-11,-1
+Chai Chee,2013-06-17,-4
+Chai Chee,2013-06-24,-4
+Chai Chee,2013-07-04,-10
+Chai Chee,2013-07-08,-11
+Chai Chee,2013-07-18,-11
+Chai Chee,2013-07-26,-9
+Chai Chee,2013-08-07,-3
+Chai Chee,2013-08-13,-3
+Chai Chee,2013-08-21,-4
+Chai Chee,2013-08-30,-2
+Chai Chee,2013-09-06,-7
+Chai Chee,2013-09-13,-4
+Chai Chee,2013-10-30,-8
+Chai Chee,2013-11-04,-8
+Chai Chee,2013-11-11,-5
+Chai Chee,2013-11-18,-4
+Chai Chee,2013-11-25,2
+Chai Chee,2013-12-02,10
+Chai Chee,2013-12-16,4
+Chai Chee,2013-12-24,5
+Chai Chee,2013-12-31,13
+Chai Chee,2014-01-06,11
+Chai Chee,2014-01-10,22
+Chai Chee,2014-01-17,14
+Chai Chee,2014-02-04,16
+Chai Chee,2014-02-14,12
+Chai Chee,2014-03-04,16
+Chai Chee,2014-03-14,19
+Chai Chee,2014-04-04,27
+Chai Chee,2014-04-14,7
+Chai Chee,2014-05-02,2
+Chai Chee,2014-05-12,4
+Chai Chee,2014-06-03,13
+Chai Chee,2014-06-13,18
+Chai Chee,2014-07-01,20
+Chai Chee,2014-07-14,32
+Chai Chee,2014-07-21,23
+Chai Chee,2014-07-25,18
+Chai Chee,2014-07-29,15
+Chai Chee,2014-08-01,20
+Chai Chee,2014-08-05,28
+Chai Chee,2014-08-08,36
+Chai Chee,2014-08-12,16
+Chai Chee,2014-08-15,20
+Chai Chee,2014-09-22,13
+Chai Chee,2014-09-26,20
+Chai Chee,2014-09-29,15
+Chai Chee,2014-10-03,31
+Chai Chee,2014-10-07,12
+Chai Chee,2014-10-10,21
+Chai Chee,2014-10-13,9
+Chai Chee,2014-10-17,23
+Chai Chee,2014-11-24,11
+Chai Chee,2014-11-28,3
+Chai Chee,2014-12-01,3
+Chai Chee,2014-12-05,3
+Chai Chee,2014-12-09,4
+Chai Chee,2014-12-12,12
+Chai Chee,2014-12-15,11
+Chai Chee,2014-12-19,9
+Chai Chee,2014-12-22,7
+Chai Chee,2014-12-26,1
+Chai Chee,2014-12-30,2
+Chai Chee,2015-01-02,2
+Chai Chee,2015-01-07,5
+Chai Chee,2015-01-09,6
+Chai Chee,2015-01-12,5
+Chai Chee,2015-01-19,9
+Chai Chee,2015-01-26,8
+Chai Chee,2015-02-02,13
+Chai Chee,2015-02-09,16
+Chai Chee,2015-02-16,19
+Chai Chee,2015-02-23,8
+Chai Chee,2015-02-27,2
+Chai Chee,2015-03-02,12
+Chai Chee,2015-03-06,13
+Chai Chee,2015-03-09,7
+Chai Chee,2015-03-16,12
+Chai Chee,2015-03-20,3
+Chai Chee,2015-03-23,2
+Chai Chee,2015-03-30,2
+Chai Chee,2015-04-06,2
+Chai Chee,2015-04-10,1
+Chai Chee,2015-04-17,2
+Chai Chee,2015-07-03,6
+Chai Chee,2015-07-16,13
+Chai Chee,2015-08-06,15
+Chai Chee,2015-08-11,8
+Chai Chee,2015-08-14,18
+Chai Chee,2015-08-17,12
+Chai Chee,2015-08-21,11
+Chai Chee,2015-08-25,13
+Chai Chee,2015-08-28,29
+Chai Chee,2015-08-31,29
+Chai Chee,2015-09-04,28
+Chai Chee,2015-09-07,23
+Chai Chee,2015-09-10,23
+Chai Chee,2015-09-14,15
+Chai Chee,2015-09-18,22
+Chai Chee,2015-09-22,28
+Chai Chee,2015-09-25,16
+Chai Chee,2015-09-28,14
+Chai Chee,2015-10-02,19
+Chai Chee,2015-10-05,19
+Chai Chee,2015-10-09,17
+Chai Chee,2015-10-12,20
+Chai Chee,2015-10-19,24
+Chai Chee,2015-10-26,15
+Chai Chee,2015-11-02,20
+Chai Chee,2015-11-09,22
+Chai Chee,2015-11-16,28
+Chai Chee,2015-11-23,11
+Chai Chee,2015-11-30,18
+Chai Chee,2015-12-07,20
+Chai Chee,2015-12-14,22
+Chai Chee,2015-12-21,30
+Chai Chee,2015-12-28,26
+Chai Chee,2016-01-04,36
+Chai Chee,2016-01-11,51
+Chai Chee,2016-01-18,96
+Chai Chee,2016-01-26,79
+Chai Chee,2016-02-01,66
+Chai Chee,2016-02-10,51
+Chai Chee,2016-02-15,46
+Chai Chee,2016-02-23,64
+Chai Chee,2016-03-01,39
+Chai Chee,2016-03-07,34
+Chai Chee,2016-03-14,36
+Chai Chee,2016-03-22,39
+Chai Chee,2016-03-29,27
+Chai Chee,2016-04-04,20
+Chai Chee,2016-04-11,16
+Chai Chee,2016-04-18,11
+Chai Chee,2016-04-25,11
+Chai Chee,2016-05-03,21
+Chai Chee,2016-05-09,19
+Chai Chee,2016-05-24,17
+Chai Chee,2016-05-30,15
+Chai Chee,2016-06-06,13
+Chai Chee,2016-06-13,11
+Chai Chee,2016-06-20,24
+Chai Chee,2016-06-30,68
+Chai Chee,2016-07-04,48
+Chai Chee,2016-07-12,52
+Chai Chee,2016-07-18,38
+Chai Chee,2016-07-26,55
+Chai Chee,2016-08-01,47
+Chai Chee,2016-08-10,37
+Chai Chee,2016-08-16,39
+Chai Chee,2016-08-23,37
+Chai Chee,2016-08-29,34
+Chai Chee,2016-09-05,46
+Chai Chee,2016-09-13,35
+Chai Chee,2016-09-19,38
+Chai Chee,2016-09-26,19
+Chai Chee,2016-10-03,19
+Chai Chee,2016-10-10,16
+Chai Chee,2016-10-17,14
+Chai Chee,2016-10-24,10
+Chai Chee,2016-10-31,3
+Chai Chee,2016-11-07,4
+Chai Chee,2016-11-14,2
+Chai Chee,2016-11-21,4
+Chai Chee,2016-11-28,3
+Chai Chee,2016-12-05,6
+Chai Chee,2017-02-13,1
+Chai Chee,2017-02-20,1
+Chai Chee,2017-02-27,1
+Chai Chee,2017-04-03,5
+Chai Chee,2017-04-10,3
+Chai Chee,2017-04-17,3
+Chai Chee,2017-04-24,1
+Chai Chee,2017-05-15,4
+Chai Chee,2017-05-22,3
+Chai Chee,2017-05-29,8
+Chai Chee,2017-06-05,3
+Chai Chee,2017-06-19,7
+Chai Chee,2017-06-28,4
+Chai Chee,2017-07-03,3
+Chai Chee,2017-07-10,4
+Chai Chee,2017-07-17,7
+Chai Chee,2017-07-24,3
+Chai Chee,2017-07-31,1
+Chai Chee,2017-08-10,2
+Chai Chee,2017-08-14,3
+Chai Chee,2017-08-21,2
+Chai Chee,2017-08-29,2
+Chai Chee,2017-09-04,2
+Chai Chee,2017-09-11,3
+Chai Chee,2017-10-02,2
+Chai Chee,2017-10-09,7
+Chai Chee,2017-10-16,8
+Chai Chee,2017-10-23,15
+Chai Chee,2017-10-30,13
+Chai Chee,2017-11-06,7
+Chai Chee,2017-11-14,5
+Chai Chee,2017-11-20,7
+Chai Chee,2017-11-27,4
+Chai Chee,2017-12-04,2
+Chai Chee,2017-12-18,3
+Chai Chee,2017-12-26,3
+Chai Chee,2018-02-05,6
+Chai Chee,2018-02-12,3
+Chai Chee,2018-02-19,1
+Chai Chee,2018-03-12,2
+Chai Chee,2018-03-20,10
+Chai Chee,2018-03-26,4
+Chai Chee,2018-04-02,7
+Chai Chee,2018-04-09,11
+Chai Chee,2018-04-16,5
+Chai Chee,2018-04-23,7
+Chai Chee,2018-04-30,8
+Chai Chee,2018-05-07,10
+Chai Chee,2018-05-14,7
+Chai Chee,2018-05-21,5
+Chai Chee,2018-05-28,10
+Chai Chee,2018-06-04,6
+Chai Chee,2018-06-11,4
+Chai Chee,2018-06-18,2
+Chai Chee,2018-06-25,1
+Chai Chee,2018-07-02,2
+Chai Chee,2018-07-09,3
+Chai Chee,2018-08-20,4
+Chai Chee,2018-08-27,4
+Chai Chee,2018-09-03,2
+Chai Chee,2018-10-01,1
+Chai Chee,2018-10-15,3
+Chai Chee,2018-10-22,7
+Chai Chee,2018-10-29,8
+Chai Chee,2018-11-05,17
+Chai Chee,2018-11-16,11
+Chai Chee,2018-11-19,12
+Chai Chee,2018-11-26,12
+Chai Chee,2018-12-03,17
+Chai Chee,2018-12-10,20
+Chai Chee,2018-12-17,16
+Chai Chee,2018-12-24,23
+Chai Chee,2018-12-31,43
+Chai Chee,2019-01-07,45
+Chai Chee,2019-01-14,56
+Chai Chee,2019-01-21,47
+Chai Chee,2019-01-29,61
+Chai Chee,2019-04-03,16
+Chai Chee,2019-04-09,15
+Chai Chee,2019-04-16,28
+Chai Chee,2019-04-23,16
+Chai Chee,2019-04-29,8
+Chai Chee,2019-05-06,35
+Chai Chee,2019-05-13,72
+Chai Chee,2019-05-22,84
+Chai Chee,2019-05-27,83
+Chai Chee,2019-06-03,112
+Chai Chee,2019-06-10,119
+Chai Chee,2019-06-19,100
+Chai Chee,2019-06-26,128
+Chai Chee,2019-07-02,139
+Chai Chee,2019-07-08,187
+Chai Chee,2019-07-16,219
+Chai Chee,2019-07-26,173
+Chai Chee,2019-08-08,113
+Chai Chee,2019-08-16,95
+Chai Chee,2019-08-23,88
+Chai Chee,2019-08-30,79
+Chai Chee,2019-09-06,42
+Chai Chee,2019-09-13,42
+Chai Chee,2019-09-20,64
+Chai Chee,2019-09-27,51
+Chai Chee,2019-10-04,43
+Chai Chee,2019-10-11,37
+Chai Chee,2019-10-18,31
+Chai Chee,2019-10-25,35
+Chai Chee,2019-11-01,40
+Chai Chee,2019-11-08,26
+Chai Chee,2019-11-15,46
+Chai Chee,2019-11-22,54
+Chai Chee,2019-11-29,30
+Chai Chee,2019-12-06,28
+Chai Chee,2019-12-13,38
+Chai Chee,2019-12-20,25
+Chai Chee,2019-12-27,14
+Chai Chee,2020-01-03,29
+Chai Chee,2020-01-10,34
+Chai Chee,2020-01-17,25
+Chai Chee,2020-01-24,34
+Chai Chee,2020-01-31,30
+Chai Chee,2020-02-07,15
+Chai Chee,2020-02-14,20
+Chai Chee,2020-02-21,30
+Chai Chee,2020-02-28,18
+Chai Chee,2020-03-06,32
+Chai Chee,2020-03-13,38
+Chai Chee,2020-03-20,25
+Chai Chee,2020-03-27,16
+Chai Chee,2020-04-03,17
+Chai Chee,2020-04-09,19
+Chai Chee,2020-04-17,37
+Chai Chee,2020-04-24,42
+Chai Chee,2020-04-30,38
+Chai Chee,2020-05-08,27
+Chai Chee,2020-05-15,30
+Chai Chee,2020-05-22,28
+Chai Chee,2020-05-29,44
+Chai Chee,2020-06-05,87
+Chai Chee,2020-07-03,259
+Chai Chee,2020-08-07,356
+Chai Chee,2020-09-18,149
+Chai Chee,2020-11-06,84
+Changi,2013-08-13,-1
+Changi,2013-08-21,-1
+Changi,2013-08-30,-2
+Changi,2013-09-06,-1
+Changi,2013-09-13,-1
+Changi,2013-11-25,3
+Changi,2014-01-06,1
+Changi,2014-06-03,29
+Changi,2014-06-13,41
+Changi,2014-07-01,23
+Changi,2014-07-21,4
+Changi,2014-07-25,7
+Changi,2014-07-29,9
+Changi,2014-08-01,12
+Changi,2014-08-05,6
+Changi,2014-08-08,9
+Changi,2014-08-12,8
+Changi,2014-08-15,6
+Changi,2014-09-26,3
+Changi,2014-09-29,2
+Changi,2014-10-03,4
+Changi,2014-10-07,3
+Changi,2014-10-10,2
+Changi,2014-10-13,1
+Changi,2014-10-17,2
+Changi,2015-01-07,2
+Changi,2015-01-09,2
+Changi,2015-02-23,1
+Changi,2015-03-20,2
+Changi,2015-03-23,2
+Changi,2015-03-27,2
+Changi,2015-03-30,1
+Changi,2015-04-10,3
+Changi,2015-04-13,2
+Changi,2015-04-17,4
+Changi,2015-07-03,5
+Changi,2015-07-16,4
+Changi,2015-08-06,2
+Changi,2015-08-11,2
+Changi,2015-08-14,3
+Changi,2015-08-17,1
+Changi,2015-08-25,1
+Changi,2015-08-28,3
+Changi,2015-08-31,1
+Changi,2015-09-04,1
+Changi,2015-09-07,1
+Changi,2015-09-18,3
+Changi,2015-10-02,2
+Changi,2015-10-05,2
+Changi,2016-03-01,2
+Changi,2016-03-07,2
+Changi,2016-03-29,1
+Changi,2016-04-04,1
+Changi,2016-04-11,2
+Changi,2016-05-03,2
+Changi,2016-06-20,3
+Changi,2016-06-30,3
+Changi,2016-07-04,1
+Changi,2016-07-12,3
+Changi,2016-07-18,2
+Changi,2016-07-26,3
+Changi,2016-08-01,6
+Changi,2016-08-10,4
+Changi,2016-08-16,3
+Changi,2016-08-23,7
+Changi,2016-08-29,6
+Changi,2016-09-05,4
+Changi,2016-09-13,2
+Changi,2016-09-19,1
+Changi,2016-09-26,2
+Changi,2016-10-03,1
+Changi,2016-10-10,1
+Changi,2016-10-17,1
+Changi,2016-11-14,5
+Changi,2016-11-21,1
+Changi,2019-01-07,4
+Changi,2019-01-14,4
+Changi,2019-01-21,4
+Changi,2019-01-29,7
+Changi,2019-05-06,3
+Changi,2019-07-08,6
+Changi,2019-07-16,6
+Changi,2019-07-26,7
+Changi,2019-08-08,19
+Changi,2019-08-16,26
+Changi,2019-08-23,20
+Changi,2019-08-30,21
+Changi,2019-09-06,12
+Changi,2019-09-13,13
+Changi,2019-09-20,5
+Changi,2019-09-27,9
+Changi,2019-10-04,5
+Changi,2019-10-11,4
+Changi,2019-10-18,3
+Changi,2019-10-25,2
+Changi,2019-11-15,2
+Changi,2019-11-22,2
+Changi,2020-01-24,2
+Changi,2020-04-24,2
+Changi,2020-04-30,2
+Changi,2020-07-03,2
+Changi,2020-08-07,7
+Changi,2020-09-18,2
+Choa Chu Kang (Central),2013-05-23,-3
+Choa Chu Kang (Central),2013-05-27,-3
+Choa Chu Kang (Central),2013-06-11,-4
+Choa Chu Kang (Central),2013-06-17,-4
+Choa Chu Kang (Central),2013-06-24,-4
+Choa Chu Kang (Central),2013-07-04,-4
+Choa Chu Kang (Central),2013-07-08,-5
+Choa Chu Kang (Central),2013-07-18,-2
+Choa Chu Kang (Central),2013-07-26,-2
+Choa Chu Kang (Central),2013-08-07,-1
+Choa Chu Kang (Central),2013-08-13,-1
+Choa Chu Kang (Central),2013-08-21,-1
+Choa Chu Kang (Central),2013-08-30,-3
+Choa Chu Kang (Central),2013-09-06,-2
+Choa Chu Kang (Central),2013-09-13,-3
+Choa Chu Kang (Central),2013-10-30,-3
+Choa Chu Kang (Central),2013-11-04,-4
+Choa Chu Kang (Central),2013-11-11,-3
+Choa Chu Kang (Central),2013-11-18,-3
+Choa Chu Kang (Central),2013-11-25,3
+Choa Chu Kang (Central),2013-12-09,7
+Choa Chu Kang (Central),2013-12-16,3
+Choa Chu Kang (Central),2013-12-24,6
+Choa Chu Kang (Central),2013-12-31,5
+Choa Chu Kang (Central),2014-01-06,2
+Choa Chu Kang (Central),2014-01-10,6
+Choa Chu Kang (Central),2014-01-17,4
+Choa Chu Kang (Central),2014-02-04,3
+Choa Chu Kang (Central),2014-05-12,4
+Choa Chu Kang (Central),2014-07-01,16
+Choa Chu Kang (Central),2014-07-14,240
+Choa Chu Kang (Central),2014-07-21,235
+Choa Chu Kang (Central),2014-07-25,221
+Choa Chu Kang (Central),2014-07-29,101
+Choa Chu Kang (Central),2014-08-01,90
+Choa Chu Kang (Central),2014-08-05,51
+Choa Chu Kang (Central),2014-08-08,30
+Choa Chu Kang (Central),2014-08-12,24
+Choa Chu Kang (Central),2014-08-15,20
+Choa Chu Kang (Central),2014-09-22,2
+Choa Chu Kang (Central),2014-09-26,12
+Choa Chu Kang (Central),2014-09-29,11
+Choa Chu Kang (Central),2014-10-03,12
+Choa Chu Kang (Central),2014-10-07,10
+Choa Chu Kang (Central),2014-10-10,15
+Choa Chu Kang (Central),2014-10-13,10
+Choa Chu Kang (Central),2014-10-17,12
+Choa Chu Kang (Central),2014-11-24,4
+Choa Chu Kang (Central),2014-11-28,2
+Choa Chu Kang (Central),2014-12-01,1
+Choa Chu Kang (Central),2014-12-05,1
+Choa Chu Kang (Central),2014-12-09,1
+Choa Chu Kang (Central),2014-12-12,2
+Choa Chu Kang (Central),2014-12-15,2
+Choa Chu Kang (Central),2014-12-19,2
+Choa Chu Kang (Central),2014-12-22,2
+Choa Chu Kang (Central),2015-01-07,3
+Choa Chu Kang (Central),2015-01-09,5
+Choa Chu Kang (Central),2015-01-12,4
+Choa Chu Kang (Central),2015-01-19,5
+Choa Chu Kang (Central),2015-01-26,2
+Choa Chu Kang (Central),2015-02-02,3
+Choa Chu Kang (Central),2015-02-09,4
+Choa Chu Kang (Central),2015-02-16,4
+Choa Chu Kang (Central),2015-02-23,1
+Choa Chu Kang (Central),2015-03-06,2
+Choa Chu Kang (Central),2015-03-09,2
+Choa Chu Kang (Central),2015-03-16,5
+Choa Chu Kang (Central),2015-03-20,2
+Choa Chu Kang (Central),2015-03-23,3
+Choa Chu Kang (Central),2015-03-27,3
+Choa Chu Kang (Central),2015-03-30,2
+Choa Chu Kang (Central),2015-07-03,3
+Choa Chu Kang (Central),2015-07-16,2
+Choa Chu Kang (Central),2015-08-14,1
+Choa Chu Kang (Central),2015-08-17,1
+Choa Chu Kang (Central),2015-08-25,2
+Choa Chu Kang (Central),2015-08-28,1
+Choa Chu Kang (Central),2015-08-31,1
+Choa Chu Kang (Central),2015-09-04,1
+Choa Chu Kang (Central),2015-09-07,1
+Choa Chu Kang (Central),2015-10-09,2
+Choa Chu Kang (Central),2015-10-12,2
+Choa Chu Kang (Central),2015-10-19,2
+Choa Chu Kang (Central),2015-10-26,3
+Choa Chu Kang (Central),2015-11-02,1
+Choa Chu Kang (Central),2015-11-30,3
+Choa Chu Kang (Central),2015-12-07,2
+Choa Chu Kang (Central),2015-12-14,2
+Choa Chu Kang (Central),2015-12-28,2
+Choa Chu Kang (Central),2016-01-04,1
+Choa Chu Kang (Central),2016-01-11,6
+Choa Chu Kang (Central),2016-01-18,2
+Choa Chu Kang (Central),2016-01-26,2
+Choa Chu Kang (Central),2016-02-01,4
+Choa Chu Kang (Central),2016-02-10,1
+Choa Chu Kang (Central),2016-02-15,1
+Choa Chu Kang (Central),2016-03-01,10
+Choa Chu Kang (Central),2016-03-07,9
+Choa Chu Kang (Central),2016-03-14,2
+Choa Chu Kang (Central),2016-03-22,1
+Choa Chu Kang (Central),2016-03-29,3
+Choa Chu Kang (Central),2016-04-18,2
+Choa Chu Kang (Central),2016-05-24,2
+Choa Chu Kang (Central),2016-05-30,1
+Choa Chu Kang (Central),2016-06-06,1
+Choa Chu Kang (Central),2016-06-20,1
+Choa Chu Kang (Central),2016-07-18,1
+Choa Chu Kang (Central),2016-08-16,3
+Choa Chu Kang (Central),2016-08-23,5
+Choa Chu Kang (Central),2016-08-29,4
+Choa Chu Kang (Central),2016-09-05,4
+Choa Chu Kang (Central),2016-09-13,3
+Choa Chu Kang (Central),2016-09-19,6
+Choa Chu Kang (Central),2016-09-26,2
+Choa Chu Kang (Central),2016-10-03,1
+Choa Chu Kang (Central),2016-10-10,3
+Choa Chu Kang (Central),2016-10-17,1
+Choa Chu Kang (Central),2017-01-09,1
+Choa Chu Kang (Central),2017-02-20,1
+Choa Chu Kang (Central),2017-05-08,1
+Choa Chu Kang (Central),2017-05-22,2
+Choa Chu Kang (Central),2017-05-29,1
+Choa Chu Kang (Central),2017-06-05,3
+Choa Chu Kang (Central),2017-06-12,2
+Choa Chu Kang (Central),2017-06-19,2
+Choa Chu Kang (Central),2017-06-28,2
+Choa Chu Kang (Central),2017-07-03,3
+Choa Chu Kang (Central),2017-07-10,1
+Choa Chu Kang (Central),2017-07-24,2
+Choa Chu Kang (Central),2017-10-09,3
+Choa Chu Kang (Central),2017-12-26,5
+Choa Chu Kang (Central),2018-01-02,1
+Choa Chu Kang (Central),2018-06-25,1
+Choa Chu Kang (Central),2018-07-09,1
+Choa Chu Kang (Central),2018-10-08,1
+Choa Chu Kang (Central),2018-12-03,2
+Choa Chu Kang (Central),2018-12-24,2
+Choa Chu Kang (Central),2018-12-31,2
+Choa Chu Kang (Central),2019-01-07,2
+Choa Chu Kang (Central),2019-01-29,3
+Choa Chu Kang (Central),2019-04-03,5
+Choa Chu Kang (Central),2019-04-09,3
+Choa Chu Kang (Central),2019-04-29,2
+Choa Chu Kang (Central),2019-05-13,3
+Choa Chu Kang (Central),2019-05-22,13
+Choa Chu Kang (Central),2019-05-27,20
+Choa Chu Kang (Central),2019-06-03,12
+Choa Chu Kang (Central),2019-06-10,19
+Choa Chu Kang (Central),2019-06-19,18
+Choa Chu Kang (Central),2019-06-26,18
+Choa Chu Kang (Central),2019-07-02,13
+Choa Chu Kang (Central),2019-07-08,20
+Choa Chu Kang (Central),2019-07-16,35
+Choa Chu Kang (Central),2019-07-26,42
+Choa Chu Kang (Central),2019-08-08,59
+Choa Chu Kang (Central),2019-08-16,77
+Choa Chu Kang (Central),2019-08-23,74
+Choa Chu Kang (Central),2019-08-30,57
+Choa Chu Kang (Central),2019-09-06,37
+Choa Chu Kang (Central),2019-09-13,29
+Choa Chu Kang (Central),2019-09-20,7
+Choa Chu Kang (Central),2019-09-27,10
+Choa Chu Kang (Central),2019-10-04,13
+Choa Chu Kang (Central),2019-10-11,16
+Choa Chu Kang (Central),2019-10-18,13
+Choa Chu Kang (Central),2019-10-25,4
+Choa Chu Kang (Central),2019-11-01,6
+Choa Chu Kang (Central),2019-11-08,18
+Choa Chu Kang (Central),2019-11-15,21
+Choa Chu Kang (Central),2019-11-22,30
+Choa Chu Kang (Central),2019-11-29,12
+Choa Chu Kang (Central),2019-12-06,10
+Choa Chu Kang (Central),2019-12-13,10
+Choa Chu Kang (Central),2019-12-20,5
+Choa Chu Kang (Central),2019-12-27,8
+Choa Chu Kang (Central),2020-01-03,12
+Choa Chu Kang (Central),2020-01-10,17
+Choa Chu Kang (Central),2020-01-17,6
+Choa Chu Kang (Central),2020-01-24,4
+Choa Chu Kang (Central),2020-01-31,3
+Choa Chu Kang (Central),2020-02-07,8
+Choa Chu Kang (Central),2020-02-14,4
+Choa Chu Kang (Central),2020-02-21,5
+Choa Chu Kang (Central),2020-02-28,4
+Choa Chu Kang (Central),2020-03-06,8
+Choa Chu Kang (Central),2020-03-13,7
+Choa Chu Kang (Central),2020-03-20,10
+Choa Chu Kang (Central),2020-03-27,6
+Choa Chu Kang (Central),2020-04-03,8
+Choa Chu Kang (Central),2020-04-09,6
+Choa Chu Kang (Central),2020-04-17,2
+Choa Chu Kang (Central),2020-04-24,2
+Choa Chu Kang (Central),2020-04-30,6
+Choa Chu Kang (Central),2020-05-08,6
+Choa Chu Kang (Central),2020-05-15,7
+Choa Chu Kang (Central),2020-05-22,11
+Choa Chu Kang (Central),2020-05-29,8
+Choa Chu Kang (Central),2020-06-05,8
+Choa Chu Kang (Central),2020-07-03,28
+Choa Chu Kang (Central),2020-08-07,37
+Choa Chu Kang (Central),2020-09-18,12
+Clementi,2013-07-04,-1
+Clementi,2013-07-08,-1
+Clementi,2013-08-07,-1
+Clementi,2013-09-13,-1
+Clementi,2013-10-30,-2
+Clementi,2013-11-04,-2
+Clementi,2013-11-11,-1
+Clementi,2013-11-18,-1
+Clementi,2013-12-02,1
+Clementi,2014-02-04,1
+Clementi,2014-02-14,2
+Clementi,2014-07-14,4
+Clementi,2014-07-21,2
+Clementi,2014-07-25,5
+Clementi,2014-07-29,3
+Clementi,2014-08-01,11
+Clementi,2014-08-05,13
+Clementi,2014-08-08,9
+Clementi,2014-09-22,3
+Clementi,2014-09-26,2
+Clementi,2014-09-29,5
+Clementi,2014-10-03,6
+Clementi,2014-10-07,7
+Clementi,2014-10-10,3
+Clementi,2014-10-13,3
+Clementi,2014-10-17,4
+Clementi,2014-11-24,2
+Clementi,2014-11-28,1
+Clementi,2014-12-01,2
+Clementi,2014-12-05,1
+Clementi,2014-12-22,2
+Clementi,2014-12-26,1
+Clementi,2014-12-30,1
+Clementi,2015-01-02,1
+Clementi,2015-01-26,3
+Clementi,2015-02-02,1
+Clementi,2015-02-16,4
+Clementi,2015-02-23,1
+Clementi,2015-02-27,3
+Clementi,2015-03-02,3
+Clementi,2015-04-02,1
+Clementi,2015-04-06,1
+Clementi,2015-08-06,2
+Clementi,2015-08-11,3
+Clementi,2015-08-14,4
+Clementi,2015-08-17,1
+Clementi,2015-08-21,3
+Clementi,2015-08-25,2
+Clementi,2015-08-28,3
+Clementi,2015-08-31,2
+Clementi,2015-09-04,4
+Clementi,2015-09-07,4
+Clementi,2015-09-10,4
+Clementi,2015-09-14,1
+Clementi,2015-09-18,2
+Clementi,2015-09-25,2
+Clementi,2015-09-28,2
+Clementi,2015-10-02,3
+Clementi,2015-10-05,3
+Clementi,2015-10-09,3
+Clementi,2015-10-12,3
+Clementi,2015-11-09,4
+Clementi,2015-11-16,6
+Clementi,2015-11-23,2
+Clementi,2016-01-26,9
+Clementi,2016-02-01,4
+Clementi,2016-02-10,2
+Clementi,2016-02-15,1
+Clementi,2016-02-23,5
+Clementi,2016-03-29,1
+Clementi,2016-04-04,1
+Clementi,2016-04-11,2
+Clementi,2016-04-18,1
+Clementi,2016-05-03,2
+Clementi,2016-05-30,2
+Clementi,2016-08-01,1
+Clementi,2016-08-10,3
+Clementi,2016-08-16,2
+Clementi,2016-08-23,5
+Clementi,2016-08-29,8
+Clementi,2016-09-05,6
+Clementi,2016-09-13,2
+Clementi,2016-09-19,2
+Clementi,2016-09-26,3
+Clementi,2016-11-28,1
+Clementi,2018-07-02,2
+Clementi,2019-01-14,4
+Clementi,2019-01-29,3
+Clementi,2019-06-10,2
+Clementi,2019-06-19,5
+Clementi,2019-06-26,2
+Clementi,2019-07-16,2
+Clementi,2019-07-26,9
+Clementi,2019-08-16,3
+Clementi,2019-08-30,2
+Clementi,2019-09-06,3
+Clementi,2019-09-13,3
+Clementi,2019-09-20,2
+Clementi,2019-10-04,3
+Clementi,2019-10-11,4
+Clementi,2019-10-18,3
+Clementi,2019-10-25,2
+Clementi,2019-11-08,4
+Clementi,2019-11-15,2
+Clementi,2019-11-22,2
+Clementi,2019-11-29,4
+Clementi,2019-12-06,5
+Clementi,2019-12-13,3
+Clementi,2019-12-20,4
+Clementi,2019-12-27,2
+Clementi,2020-01-03,4
+Clementi,2020-01-10,8
+Clementi,2020-01-17,3
+Clementi,2020-01-24,3
+Clementi,2020-01-31,2
+Clementi,2020-02-07,4
+Clementi,2020-02-14,8
+Clementi,2020-02-21,11
+Clementi,2020-02-28,4
+Clementi,2020-03-06,5
+Clementi,2020-03-13,2
+Clementi,2020-03-20,1
+Clementi,2020-04-03,2
+Clementi,2020-04-09,2
+Clementi,2020-04-17,2
+Clementi,2020-05-08,3
+Clementi,2020-05-15,3
+Clementi,2020-05-22,2
+Clementi,2020-07-03,8
+Clementi,2020-08-07,5
+Clementi,2020-09-18,9
+Clementi,2020-11-06,2
+Dhoby Ghaut,2013-07-04,-1
+Dhoby Ghaut,2013-07-08,-1
+Dhoby Ghaut,2013-07-26,-1
+Dhoby Ghaut,2013-08-07,-1
+Dhoby Ghaut,2013-08-21,-2
+Dhoby Ghaut,2013-08-30,-2
+Dhoby Ghaut,2013-09-06,-2
+Dhoby Ghaut,2013-09-13,-3
+Dhoby Ghaut,2013-10-30,-2
+Dhoby Ghaut,2013-11-04,-3
+Dhoby Ghaut,2013-11-11,-2
+Dhoby Ghaut,2013-11-18,-1
+Dhoby Ghaut,2013-12-02,4
+Dhoby Ghaut,2013-12-09,5
+Dhoby Ghaut,2013-12-16,2
+Dhoby Ghaut,2013-12-31,2
+Dhoby Ghaut,2014-01-10,3
+Dhoby Ghaut,2014-01-17,2
+Dhoby Ghaut,2014-02-04,7
+Dhoby Ghaut,2014-04-04,3
+Dhoby Ghaut,2014-05-02,2
+Dhoby Ghaut,2014-07-01,3
+Dhoby Ghaut,2014-08-05,1
+Dhoby Ghaut,2014-08-08,4
+Dhoby Ghaut,2014-08-12,1
+Dhoby Ghaut,2014-08-15,1
+Dhoby Ghaut,2014-09-22,3
+Dhoby Ghaut,2014-09-26,7
+Dhoby Ghaut,2014-09-29,8
+Dhoby Ghaut,2014-10-03,4
+Dhoby Ghaut,2014-10-07,4
+Dhoby Ghaut,2014-10-10,3
+Dhoby Ghaut,2014-10-13,2
+Dhoby Ghaut,2014-10-17,4
+Dhoby Ghaut,2015-01-12,2
+Dhoby Ghaut,2015-02-02,2
+Dhoby Ghaut,2015-02-09,1
+Dhoby Ghaut,2015-07-16,4
+Dhoby Ghaut,2015-08-06,3
+Dhoby Ghaut,2015-08-11,3
+Dhoby Ghaut,2015-08-14,5
+Dhoby Ghaut,2015-08-17,7
+Dhoby Ghaut,2015-08-21,5
+Dhoby Ghaut,2015-08-25,3
+Dhoby Ghaut,2015-08-28,3
+Dhoby Ghaut,2015-08-31,2
+Dhoby Ghaut,2015-09-04,1
+Dhoby Ghaut,2015-09-07,1
+Dhoby Ghaut,2015-09-18,9
+Dhoby Ghaut,2015-09-22,5
+Dhoby Ghaut,2015-09-25,2
+Dhoby Ghaut,2015-09-28,2
+Dhoby Ghaut,2015-10-02,5
+Dhoby Ghaut,2015-10-05,7
+Dhoby Ghaut,2015-10-09,4
+Dhoby Ghaut,2015-10-12,4
+Dhoby Ghaut,2015-10-19,3
+Dhoby Ghaut,2015-11-02,5
+Dhoby Ghaut,2015-11-09,1
+Dhoby Ghaut,2015-11-16,4
+Dhoby Ghaut,2015-11-23,2
+Dhoby Ghaut,2015-11-30,3
+Dhoby Ghaut,2015-12-07,1
+Dhoby Ghaut,2015-12-14,3
+Dhoby Ghaut,2015-12-21,5
+Dhoby Ghaut,2015-12-28,2
+Dhoby Ghaut,2016-01-04,1
+Dhoby Ghaut,2016-01-11,13
+Dhoby Ghaut,2016-01-18,13
+Dhoby Ghaut,2016-01-26,15
+Dhoby Ghaut,2016-02-01,6
+Dhoby Ghaut,2016-02-10,3
+Dhoby Ghaut,2016-02-15,3
+Dhoby Ghaut,2016-03-01,3
+Dhoby Ghaut,2016-03-07,3
+Dhoby Ghaut,2016-03-14,1
+Dhoby Ghaut,2016-05-03,2
+Dhoby Ghaut,2016-07-04,2
+Dhoby Ghaut,2016-07-12,8
+Dhoby Ghaut,2016-07-18,6
+Dhoby Ghaut,2016-07-26,7
+Dhoby Ghaut,2016-08-01,7
+Dhoby Ghaut,2016-08-10,5
+Dhoby Ghaut,2016-08-16,4
+Dhoby Ghaut,2016-08-23,2
+Dhoby Ghaut,2016-09-13,2
+Dhoby Ghaut,2016-10-03,3
+Dhoby Ghaut,2016-11-14,1
+Dhoby Ghaut,2017-01-23,1
+Dhoby Ghaut,2017-06-12,1
+Dhoby Ghaut,2019-05-27,3
+Dhoby Ghaut,2019-06-19,4
+Dhoby Ghaut,2019-06-26,6
+Dhoby Ghaut,2019-07-02,2
+Dhoby Ghaut,2019-07-08,10
+Dhoby Ghaut,2019-07-16,18
+Dhoby Ghaut,2019-07-26,19
+Dhoby Ghaut,2019-08-08,19
+Dhoby Ghaut,2019-08-16,18
+Dhoby Ghaut,2019-08-23,4
+Dhoby Ghaut,2019-08-30,10
+Dhoby Ghaut,2019-09-06,3
+Dhoby Ghaut,2019-09-13,7
+Dhoby Ghaut,2019-09-20,4
+Dhoby Ghaut,2019-10-04,2
+Dhoby Ghaut,2020-01-24,2
+Dhoby Ghaut,2020-01-31,2
+Dhoby Ghaut,2020-02-28,2
+Dhoby Ghaut,2020-03-06,2
+Dhoby Ghaut,2020-03-13,2
+Dhoby Ghaut,2020-03-27,3
+Dhoby Ghaut,2020-04-03,3
+Dhoby Ghaut,2020-04-30,2
+Dhoby Ghaut,2020-05-08,2
+Dhoby Ghaut,2020-05-15,4
+Dhoby Ghaut,2020-05-22,8
+Dhoby Ghaut,2020-05-29,12
+Dhoby Ghaut,2020-06-05,28
+Dhoby Ghaut,2020-07-03,130
+Dhoby Ghaut,2020-08-07,142
+Dhoby Ghaut,2020-09-18,34
+Dhoby Ghaut,2020-11-06,19
+Jurong (East),2013-05-23,-1
+Jurong (East),2013-05-27,-1
+Jurong (East),2013-06-11,-1
+Jurong (East),2013-06-17,-1
+Jurong (East),2013-06-24,-3
+Jurong (East),2013-07-04,-1
+Jurong (East),2013-07-08,-1
+Jurong (East),2013-08-21,-2
+Jurong (East),2013-08-30,-2
+Jurong (East),2013-09-13,-2
+Jurong (East),2013-10-30,-3
+Jurong (East),2013-11-11,-1
+Jurong (East),2013-11-18,-2
+Jurong (East),2013-11-25,2
+Jurong (East),2013-12-02,2
+Jurong (East),2013-12-09,2
+Jurong (East),2013-12-24,2
+Jurong (East),2013-12-31,4
+Jurong (East),2014-01-06,1
+Jurong (East),2014-04-14,2
+Jurong (East),2014-05-02,1
+Jurong (East),2014-06-13,2
+Jurong (East),2014-07-01,2
+Jurong (East),2014-07-25,2
+Jurong (East),2014-10-03,2
+Jurong (East),2014-10-07,2
+Jurong (East),2014-10-10,1
+Jurong (East),2014-10-13,1
+Jurong (East),2014-11-24,1
+Jurong (East),2014-11-28,1
+Jurong (East),2014-12-01,1
+Jurong (East),2015-02-02,1
+Jurong (East),2015-07-03,4
+Jurong (East),2015-07-16,1
+Jurong (East),2015-08-06,2
+Jurong (East),2015-08-11,1
+Jurong (East),2015-08-14,1
+Jurong (East),2015-08-21,3
+Jurong (East),2015-08-25,3
+Jurong (East),2015-08-28,4
+Jurong (East),2015-08-31,4
+Jurong (East),2015-09-18,2
+Jurong (East),2015-09-22,2
+Jurong (East),2015-09-25,2
+Jurong (East),2015-09-28,2
+Jurong (East),2015-10-09,2
+Jurong (East),2015-10-12,2
+Jurong (East),2015-10-19,1
+Jurong (East),2015-10-26,1
+Jurong (East),2015-11-23,1
+Jurong (East),2015-12-14,2
+Jurong (East),2015-12-21,1
+Jurong (East),2016-01-04,2
+Jurong (East),2016-01-11,2
+Jurong (East),2016-01-18,2
+Jurong (East),2016-01-26,4
+Jurong (East),2016-02-01,2
+Jurong (East),2016-02-10,13
+Jurong (East),2016-02-15,12
+Jurong (East),2016-02-23,9
+Jurong (East),2016-03-01,14
+Jurong (East),2016-03-07,6
+Jurong (East),2016-03-14,1
+Jurong (East),2016-03-22,1
+Jurong (East),2016-03-29,2
+Jurong (East),2016-04-11,1
+Jurong (East),2016-04-25,2
+Jurong (East),2016-06-06,2
+Jurong (East),2016-06-13,1
+Jurong (East),2016-11-21,1
+Jurong (East),2017-01-03,3
+Jurong (East),2017-01-09,1
+Jurong (East),2017-01-16,2
+Jurong (East),2017-05-22,2
+Jurong (East),2017-05-29,2
+Jurong (East),2017-06-05,10
+Jurong (East),2017-06-12,7
+Jurong (East),2017-06-28,3
+Jurong (East),2017-07-03,2
+Jurong (East),2017-07-17,1
+Jurong (East),2017-10-30,2
+Jurong (East),2018-07-02,1
+Jurong (East),2018-08-13,1
+Jurong (East),2018-08-20,2
+Jurong (East),2018-09-03,1
+Jurong (East),2018-09-17,1
+Jurong (East),2018-12-17,4
+Jurong (East),2018-12-24,5
+Jurong (East),2018-12-31,9
+Jurong (East),2019-01-07,15
+Jurong (East),2019-01-14,5
+Jurong (East),2019-01-21,4
+Jurong (East),2019-05-22,3
+Jurong (East),2019-05-27,5
+Jurong (East),2019-06-03,12
+Jurong (East),2019-06-10,9
+Jurong (East),2019-06-19,16
+Jurong (East),2019-06-26,12
+Jurong (East),2019-07-02,9
+Jurong (East),2019-07-08,11
+Jurong (East),2019-07-16,22
+Jurong (East),2019-07-26,13
+Jurong (East),2019-08-08,7
+Jurong (East),2019-08-16,12
+Jurong (East),2019-08-23,2
+Jurong (East),2019-08-30,3
+Jurong (East),2019-09-06,3
+Jurong (East),2019-09-13,3
+Jurong (East),2019-09-20,5
+Jurong (East),2019-09-27,4
+Jurong (East),2019-10-04,6
+Jurong (East),2019-10-11,2
+Jurong (East),2019-10-18,2
+Jurong (East),2019-10-25,5
+Jurong (East),2019-11-01,10
+Jurong (East),2019-11-08,19
+Jurong (East),2019-11-15,20
+Jurong (East),2019-11-22,12
+Jurong (East),2019-11-29,4
+Jurong (East),2019-12-06,1
+Jurong (East),2019-12-13,1
+Jurong (East),2019-12-20,6
+Jurong (East),2019-12-27,5
+Jurong (East),2020-01-03,7
+Jurong (East),2020-01-10,12
+Jurong (East),2020-01-17,9
+Jurong (East),2020-01-24,7
+Jurong (East),2020-01-31,4
+Jurong (East),2020-02-07,2
+Jurong (East),2020-02-14,2
+Jurong (East),2020-02-21,3
+Jurong (East),2020-02-28,9
+Jurong (East),2020-03-06,6
+Jurong (East),2020-03-13,2
+Jurong (East),2020-03-20,1
+Jurong (East),2020-04-03,2
+Jurong (East),2020-04-17,2
+Jurong (East),2020-04-24,3
+Jurong (East),2020-04-30,3
+Jurong (East),2020-05-08,2
+Jurong (East),2020-05-15,3
+Jurong (East),2020-05-29,2
+Jurong (East),2020-06-05,2
+Jurong (East),2020-07-03,2
+Jurong (East),2020-08-07,14
+Jurong (East),2020-09-18,9
+Jurong (East),2020-11-06,5
+Jurong (West),2013-05-23,-2
+Jurong (West),2013-05-27,-2
+Jurong (West),2013-06-11,-3
+Jurong (West),2013-06-17,-3
+Jurong (West),2013-06-24,-5
+Jurong (West),2013-07-04,-4
+Jurong (West),2013-07-08,-5
+Jurong (West),2013-07-18,-5
+Jurong (West),2013-07-26,-3
+Jurong (West),2013-08-07,-3
+Jurong (West),2013-08-13,-3
+Jurong (West),2013-08-21,-1
+Jurong (West),2013-08-30,-2
+Jurong (West),2013-09-06,-5
+Jurong (West),2013-09-13,-5
+Jurong (West),2013-10-30,-3
+Jurong (West),2013-11-04,-2
+Jurong (West),2013-11-11,-1
+Jurong (West),2013-11-18,-1
+Jurong (West),2013-11-25,9
+Jurong (West),2013-12-09,2
+Jurong (West),2013-12-16,13
+Jurong (West),2013-12-24,14
+Jurong (West),2013-12-31,11
+Jurong (West),2014-01-06,10
+Jurong (West),2014-01-10,32
+Jurong (West),2014-01-17,24
+Jurong (West),2014-02-04,4
+Jurong (West),2014-02-14,11
+Jurong (West),2014-03-04,3
+Jurong (West),2014-03-14,5
+Jurong (West),2014-04-04,3
+Jurong (West),2014-04-14,5
+Jurong (West),2014-05-02,3
+Jurong (West),2014-06-13,5
+Jurong (West),2014-07-01,2
+Jurong (West),2014-07-14,15
+Jurong (West),2014-07-21,5
+Jurong (West),2014-07-25,18
+Jurong (West),2014-07-29,12
+Jurong (West),2014-08-01,5
+Jurong (West),2014-08-05,11
+Jurong (West),2014-08-08,4
+Jurong (West),2014-08-12,3
+Jurong (West),2014-08-15,9
+Jurong (West),2014-09-22,3
+Jurong (West),2014-09-26,12
+Jurong (West),2014-09-29,9
+Jurong (West),2014-10-03,22
+Jurong (West),2014-10-07,17
+Jurong (West),2014-10-10,20
+Jurong (West),2014-10-13,17
+Jurong (West),2014-10-17,12
+Jurong (West),2014-11-24,1
+Jurong (West),2014-11-28,3
+Jurong (West),2014-12-01,3
+Jurong (West),2014-12-05,5
+Jurong (West),2014-12-09,1
+Jurong (West),2014-12-12,2
+Jurong (West),2014-12-15,4
+Jurong (West),2014-12-19,3
+Jurong (West),2014-12-22,1
+Jurong (West),2014-12-30,2
+Jurong (West),2015-01-02,1
+Jurong (West),2015-01-07,9
+Jurong (West),2015-01-09,12
+Jurong (West),2015-01-12,9
+Jurong (West),2015-01-19,4
+Jurong (West),2015-01-26,3
+Jurong (West),2015-02-02,4
+Jurong (West),2015-02-09,6
+Jurong (West),2015-02-16,1
+Jurong (West),2015-02-27,2
+Jurong (West),2015-03-02,2
+Jurong (West),2015-03-06,8
+Jurong (West),2015-03-09,5
+Jurong (West),2015-03-20,2
+Jurong (West),2015-03-23,2
+Jurong (West),2015-03-27,1
+Jurong (West),2015-04-02,2
+Jurong (West),2015-04-06,2
+Jurong (West),2015-04-10,1
+Jurong (West),2015-04-13,1
+Jurong (West),2015-07-03,3
+Jurong (West),2015-08-06,8
+Jurong (West),2015-08-11,4
+Jurong (West),2015-08-14,3
+Jurong (West),2015-08-17,3
+Jurong (West),2015-08-28,3
+Jurong (West),2015-08-31,2
+Jurong (West),2015-09-04,4
+Jurong (West),2015-09-07,2
+Jurong (West),2015-09-10,3
+Jurong (West),2015-09-14,2
+Jurong (West),2015-09-18,7
+Jurong (West),2015-09-22,3
+Jurong (West),2015-09-25,6
+Jurong (West),2015-09-28,4
+Jurong (West),2015-10-02,4
+Jurong (West),2015-10-05,4
+Jurong (West),2015-10-09,4
+Jurong (West),2015-10-12,6
+Jurong (West),2015-10-19,1
+Jurong (West),2015-10-26,2
+Jurong (West),2015-11-02,8
+Jurong (West),2015-11-09,4
+Jurong (West),2015-11-23,3
+Jurong (West),2015-11-30,2
+Jurong (West),2015-12-07,1
+Jurong (West),2015-12-14,4
+Jurong (West),2015-12-21,11
+Jurong (West),2015-12-28,3
+Jurong (West),2016-01-04,5
+Jurong (West),2016-01-11,12
+Jurong (West),2016-01-18,22
+Jurong (West),2016-01-26,33
+Jurong (West),2016-02-01,20
+Jurong (West),2016-02-10,17
+Jurong (West),2016-02-15,16
+Jurong (West),2016-02-23,26
+Jurong (West),2016-03-01,25
+Jurong (West),2016-03-07,20
+Jurong (West),2016-03-14,11
+Jurong (West),2016-03-22,5
+Jurong (West),2016-03-29,1
+Jurong (West),2016-04-04,2
+Jurong (West),2016-04-11,6
+Jurong (West),2016-04-18,2
+Jurong (West),2016-05-09,2
+Jurong (West),2016-05-30,2
+Jurong (West),2016-06-13,2
+Jurong (West),2016-06-20,2
+Jurong (West),2016-08-10,7
+Jurong (West),2016-08-23,4
+Jurong (West),2016-08-29,7
+Jurong (West),2016-09-05,13
+Jurong (West),2016-09-13,7
+Jurong (West),2016-09-19,3
+Jurong (West),2016-09-26,3
+Jurong (West),2016-10-03,5
+Jurong (West),2016-10-10,2
+Jurong (West),2016-10-17,3
+Jurong (West),2016-11-21,1
+Jurong (West),2016-12-05,1
+Jurong (West),2017-02-13,1
+Jurong (West),2017-05-15,2
+Jurong (West),2017-05-22,1
+Jurong (West),2017-06-05,4
+Jurong (West),2017-06-12,3
+Jurong (West),2017-06-19,2
+Jurong (West),2017-06-28,9
+Jurong (West),2017-07-03,7
+Jurong (West),2017-07-17,1
+Jurong (West),2017-09-18,2
+Jurong (West),2017-09-25,1
+Jurong (West),2017-10-09,1
+Jurong (West),2018-01-11,2
+Jurong (West),2018-01-15,2
+Jurong (West),2018-02-05,1
+Jurong (West),2018-03-26,1
+Jurong (West),2018-04-02,1
+Jurong (West),2018-04-09,4
+Jurong (West),2018-04-16,4
+Jurong (West),2018-04-23,11
+Jurong (West),2018-04-30,17
+Jurong (West),2018-05-07,27
+Jurong (West),2018-05-14,20
+Jurong (West),2018-05-21,8
+Jurong (West),2018-05-28,9
+Jurong (West),2018-06-04,2
+Jurong (West),2018-06-11,2
+Jurong (West),2018-06-18,2
+Jurong (West),2018-06-25,1
+Jurong (West),2018-07-02,4
+Jurong (West),2018-07-09,2
+Jurong (West),2018-07-23,1
+Jurong (West),2018-09-25,2
+Jurong (West),2018-10-01,2
+Jurong (West),2018-10-15,1
+Jurong (West),2018-11-05,1
+Jurong (West),2018-11-26,1
+Jurong (West),2018-12-03,2
+Jurong (West),2018-12-10,2
+Jurong (West),2018-12-17,6
+Jurong (West),2018-12-24,3
+Jurong (West),2018-12-31,8
+Jurong (West),2019-01-07,14
+Jurong (West),2019-01-14,24
+Jurong (West),2019-01-21,24
+Jurong (West),2019-01-29,12
+Jurong (West),2019-04-03,3
+Jurong (West),2019-04-23,1
+Jurong (West),2019-05-13,2
+Jurong (West),2019-05-22,10
+Jurong (West),2019-05-27,12
+Jurong (West),2019-06-03,7
+Jurong (West),2019-06-10,12
+Jurong (West),2019-06-19,23
+Jurong (West),2019-06-26,26
+Jurong (West),2019-07-02,16
+Jurong (West),2019-07-08,22
+Jurong (West),2019-07-16,30
+Jurong (West),2019-07-26,36
+Jurong (West),2019-08-08,15
+Jurong (West),2019-08-16,15
+Jurong (West),2019-08-23,17
+Jurong (West),2019-08-30,12
+Jurong (West),2019-09-06,5
+Jurong (West),2019-09-13,2
+Jurong (West),2019-09-20,17
+Jurong (West),2019-09-27,13
+Jurong (West),2019-10-04,9
+Jurong (West),2019-10-11,11
+Jurong (West),2019-10-18,11
+Jurong (West),2019-10-25,10
+Jurong (West),2019-11-01,12
+Jurong (West),2019-11-08,31
+Jurong (West),2019-11-15,46
+Jurong (West),2019-11-22,47
+Jurong (West),2019-11-29,40
+Jurong (West),2019-12-06,23
+Jurong (West),2019-12-13,7
+Jurong (West),2019-12-20,10
+Jurong (West),2019-12-27,12
+Jurong (West),2020-01-03,11
+Jurong (West),2020-01-10,24
+Jurong (West),2020-01-17,17
+Jurong (West),2020-01-24,18
+Jurong (West),2020-01-31,33
+Jurong (West),2020-02-07,37
+Jurong (West),2020-02-14,47
+Jurong (West),2020-02-21,64
+Jurong (West),2020-02-28,60
+Jurong (West),2020-03-06,61
+Jurong (West),2020-03-13,63
+Jurong (West),2020-03-20,60
+Jurong (West),2020-03-27,40
+Jurong (West),2020-04-03,25
+Jurong (West),2020-04-09,18
+Jurong (West),2020-04-17,12
+Jurong (West),2020-04-24,15
+Jurong (West),2020-04-30,19
+Jurong (West),2020-05-08,9
+Jurong (West),2020-05-15,5
+Jurong (West),2020-05-22,8
+Jurong (West),2020-05-29,5
+Jurong (West),2020-06-05,11
+Jurong (West),2020-07-03,23
+Jurong (West),2020-08-07,41
+Jurong (West),2020-09-18,39
+Jurong (West),2020-11-06,29
+Jurong Island,2016-02-23,13
+Jurong Island,2016-03-01,11
+Jurong Island,2016-03-07,5
+Jurong Island,2016-03-14,1
+Jurong Island,2016-03-22,1
+Jurong Island,2018-09-03,2
+Jurong Island,2018-09-10,1
+Jurong Island,2020-02-14,3
+Jurong Island,2020-02-21,3
+Jurong Island,2020-02-28,5
+Jurong Island,2020-03-06,2
+Jurong Island,2020-03-13,5
+Jurong Island,2020-07-03,10
+Jurong Island,2020-08-07,14
+Jurong Island,2020-09-18,12
+Kampong Bahru,2013-05-27,-1
+Kampong Bahru,2013-06-11,-1
+Kampong Bahru,2013-06-17,-3
+Kampong Bahru,2013-06-24,-3
+Kampong Bahru,2013-07-04,-7
+Kampong Bahru,2013-07-08,-7
+Kampong Bahru,2013-07-18,-3
+Kampong Bahru,2013-08-21,-1
+Kampong Bahru,2013-08-30,-1
+Kampong Bahru,2013-09-06,-1
+Kampong Bahru,2013-09-13,-2
+Kampong Bahru,2013-10-30,-2
+Kampong Bahru,2013-11-04,-4
+Kampong Bahru,2013-11-11,-1
+Kampong Bahru,2013-11-18,-2
+Kampong Bahru,2013-12-02,2
+Kampong Bahru,2013-12-31,2
+Kampong Bahru,2014-01-06,1
+Kampong Bahru,2014-01-10,2
+Kampong Bahru,2014-01-17,3
+Kampong Bahru,2014-02-04,5
+Kampong Bahru,2014-02-14,3
+Kampong Bahru,2014-05-12,1
+Kampong Bahru,2014-06-03,2
+Kampong Bahru,2014-07-01,2
+Kampong Bahru,2014-07-14,2
+Kampong Bahru,2014-08-01,1
+Kampong Bahru,2014-08-05,2
+Kampong Bahru,2014-08-15,2
+Kampong Bahru,2014-09-22,2
+Kampong Bahru,2014-10-03,2
+Kampong Bahru,2014-10-07,1
+Kampong Bahru,2014-11-24,1
+Kampong Bahru,2014-12-26,2
+Kampong Bahru,2014-12-30,2
+Kampong Bahru,2015-01-12,2
+Kampong Bahru,2015-01-19,1
+Kampong Bahru,2015-01-26,2
+Kampong Bahru,2015-02-09,1
+Kampong Bahru,2015-03-16,1
+Kampong Bahru,2015-03-20,1
+Kampong Bahru,2015-04-10,2
+Kampong Bahru,2015-04-13,2
+Kampong Bahru,2015-07-03,3
+Kampong Bahru,2015-08-06,3
+Kampong Bahru,2015-08-11,2
+Kampong Bahru,2015-08-14,2
+Kampong Bahru,2015-08-17,2
+Kampong Bahru,2015-08-21,2
+Kampong Bahru,2015-08-25,1
+Kampong Bahru,2015-10-02,2
+Kampong Bahru,2015-10-05,2
+Kampong Bahru,2015-10-09,1
+Kampong Bahru,2015-11-09,2
+Kampong Bahru,2015-12-21,1
+Kampong Bahru,2016-01-04,2
+Kampong Bahru,2016-01-11,1
+Kampong Bahru,2016-01-26,8
+Kampong Bahru,2016-02-01,5
+Kampong Bahru,2016-02-10,4
+Kampong Bahru,2016-02-23,2
+Kampong Bahru,2016-03-07,1
+Kampong Bahru,2016-03-14,5
+Kampong Bahru,2016-03-22,2
+Kampong Bahru,2016-03-29,2
+Kampong Bahru,2016-04-04,2
+Kampong Bahru,2016-04-18,1
+Kampong Bahru,2016-04-25,2
+Kampong Bahru,2016-05-24,2
+Kampong Bahru,2016-07-04,2
+Kampong Bahru,2016-07-26,2
+Kampong Bahru,2016-08-23,2
+Kampong Bahru,2016-08-29,2
+Kampong Bahru,2016-09-05,2
+Kampong Bahru,2016-09-13,1
+Kampong Bahru,2016-09-19,1
+Kampong Bahru,2016-09-26,2
+Kampong Bahru,2016-11-07,1
+Kampong Bahru,2017-01-16,1
+Kampong Bahru,2017-02-13,1
+Kampong Bahru,2017-07-03,2
+Kampong Bahru,2017-07-31,2
+Kampong Bahru,2018-04-16,2
+Kampong Bahru,2018-04-23,1
+Kampong Bahru,2018-06-04,4
+Kampong Bahru,2018-06-11,4
+Kampong Bahru,2018-06-18,4
+Kampong Bahru,2018-06-25,2
+Kampong Bahru,2018-07-09,2
+Kampong Bahru,2018-07-16,2
+Kampong Bahru,2018-07-23,1
+Kampong Bahru,2018-08-06,2
+Kampong Bahru,2018-08-13,5
+Kampong Bahru,2018-08-20,1
+Kampong Bahru,2018-10-08,2
+Kampong Bahru,2018-10-15,1
+Kampong Bahru,2018-11-19,2
+Kampong Bahru,2018-11-26,1
+Kampong Bahru,2019-01-29,8
+Kampong Bahru,2019-06-03,1
+Kampong Bahru,2019-06-26,2
+Kampong Bahru,2019-07-02,4
+Kampong Bahru,2019-07-08,2
+Kampong Bahru,2019-07-16,8
+Kampong Bahru,2019-07-26,3
+Kampong Bahru,2019-08-08,4
+Kampong Bahru,2019-08-16,2
+Kampong Bahru,2019-08-23,4
+Kampong Bahru,2019-08-30,5
+Kampong Bahru,2019-09-06,6
+Kampong Bahru,2019-09-27,1
+Kampong Bahru,2019-10-04,1
+Kampong Bahru,2019-11-08,4
+Kampong Bahru,2019-11-15,2
+Kampong Bahru,2019-11-29,4
+Kampong Bahru,2019-12-06,4
+Kampong Bahru,2019-12-13,2
+Kampong Bahru,2019-12-20,2
+Kampong Bahru,2020-01-03,2
+Kampong Bahru,2020-01-10,3
+Kampong Bahru,2020-01-17,3
+Kampong Bahru,2020-01-24,1
+Kampong Bahru,2020-02-07,4
+Kampong Bahru,2020-02-21,7
+Kampong Bahru,2020-02-28,7
+Kampong Bahru,2020-03-13,8
+Kampong Bahru,2020-03-27,3
+Kampong Bahru,2020-04-03,2
+Kampong Bahru,2020-04-09,2
+Kampong Bahru,2020-04-17,1
+Kampong Bahru,2020-04-24,2
+Kampong Bahru,2020-05-08,2
+Kampong Bahru,2020-05-15,2
+Kampong Bahru,2020-05-22,3
+Kampong Bahru,2020-05-29,2
+Kampong Bahru,2020-06-05,7
+Kampong Bahru,2020-07-03,23
+Kampong Bahru,2020-08-07,59
+Kampong Bahru,2020-09-18,34
+Kampong Bahru,2020-11-06,9
+Kranji Reservoir,2013-12-31,2
+Kranji Reservoir,2014-01-06,3
+Kranji Reservoir,2014-04-04,2
+Kranji Reservoir,2014-08-05,1
+Kranji Reservoir,2014-08-08,1
+Kranji Reservoir,2014-10-17,2
+Kranji Reservoir,2014-12-19,1
+Kranji Reservoir,2014-12-22,1
+Kranji Reservoir,2015-01-02,4
+Kranji Reservoir,2015-01-07,2
+Kranji Reservoir,2015-01-09,2
+Kranji Reservoir,2015-01-12,1
+Kranji Reservoir,2015-12-28,2
+Kranji Reservoir,2016-02-01,3
+Kranji Reservoir,2016-02-10,3
+Kranji Reservoir,2016-03-01,1
+Kranji Reservoir,2016-04-18,1
+Kranji Reservoir,2017-02-13,3
+Kranji Reservoir,2019-07-16,2
+Kranji Reservoir,2019-07-26,2
+Kranji Reservoir,2019-08-23,2
+Kranji Reservoir,2019-08-30,2
+Kranji Reservoir,2019-11-01,3
+Kranji Reservoir,2020-01-24,3
+Kranji Reservoir,2020-04-09,2
+Kranji Reservoir,2020-04-17,2
+Kranji Reservoir,2020-05-08,3
+Kranji Reservoir,2020-07-03,92
+Kranji Reservoir,2020-08-07,11
+Kranji Reservoir,2020-09-18,6
+Macritchie Reservoir,2016-06-20,11
+Macritchie Reservoir,2016-06-30,26
+Macritchie Reservoir,2016-07-04,19
+Macritchie Reservoir,2016-07-12,29
+Macritchie Reservoir,2016-07-18,12
+Macritchie Reservoir,2016-07-26,9
+Macritchie Reservoir,2016-08-01,13
+Macritchie Reservoir,2016-08-10,5
+Macritchie Reservoir,2016-09-13,3
+Macritchie Reservoir,2016-09-19,2
+Macritchie Reservoir,2019-05-22,3
+Macritchie Reservoir,2019-05-27,5
+Macritchie Reservoir,2019-06-03,3
+Macritchie Reservoir,2019-06-10,8
+Macritchie Reservoir,2019-06-19,8
+Macritchie Reservoir,2019-06-26,3
+Macritchie Reservoir,2019-07-02,4
+Macritchie Reservoir,2019-07-08,7
+Macritchie Reservoir,2019-07-16,8
+Macritchie Reservoir,2019-10-04,4
+Macritchie Reservoir,2019-10-11,3
+Macritchie Reservoir,2019-10-18,2
+Macritchie Reservoir,2020-09-18,3
+Mandai,2013-07-08,-1
+Mandai,2013-08-07,-1
+Mandai,2013-08-13,-1
+Mandai,2013-08-21,-1
+Mandai,2013-09-06,-1
+Mandai,2013-09-13,-1
+Mandai,2013-10-30,-1
+Mandai,2013-11-18,-1
+Mandai,2014-12-05,2
+Mandai,2015-03-27,3
+Mandai,2015-03-30,3
+Mandai,2015-04-02,2
+Mandai,2015-04-06,2
+Mandai,2015-04-10,1
+Mandai,2015-04-13,1
+Mandai,2015-09-04,2
+Mandai,2015-09-07,1
+Mandai,2015-09-10,1
+Mandai,2015-12-14,2
+Mandai,2019-07-16,2
+Marina Barrage,2013-06-11,-1
+Marina Barrage,2013-11-18,-1
+Marina Barrage,2014-08-05,9
+Marina Barrage,2014-12-19,2
+Marina Barrage,2014-12-22,1
+Marina Barrage,2014-12-26,1
+Marina Barrage,2015-03-16,1
+Marina Barrage,2015-03-20,2
+Marina Barrage,2015-03-23,2
+Marina Barrage,2015-03-27,2
+Marina Barrage,2015-03-30,2
+Marina Barrage,2015-04-02,2
+Marina Barrage,2015-04-06,2
+Marina Barrage,2015-08-17,2
+Marina Barrage,2015-08-21,3
+Marina Barrage,2015-08-25,2
+Marina Barrage,2015-10-02,2
+Marina Barrage,2015-10-05,2
+Marina Barrage,2016-01-11,3
+Marina Barrage,2016-02-23,4
+Marina Barrage,2016-08-10,3
+Marina Barrage,2016-08-16,1
+Marina Barrage,2016-08-23,11
+Marina Barrage,2016-08-29,6
+Marina Barrage,2016-09-05,3
+Marina Barrage,2016-09-13,3
+Marina Barrage,2017-06-05,1
+Marina Barrage,2019-06-10,2
+Marina Barrage,2019-06-19,1
+Marina Barrage,2019-12-13,2
+Marina Barrage,2019-12-20,2
+Marina Barrage,2020-06-05,2
+Marina Barrage,2020-08-07,7
+Marine Parade,2013-06-17,-1
+Marine Parade,2013-06-24,-1
+Marine Parade,2013-07-04,-4
+Marine Parade,2013-07-08,-2
+Marine Parade,2013-07-18,-1
+Marine Parade,2013-08-21,-2
+Marine Parade,2013-11-11,-1
+Marine Parade,2013-11-18,-1
+Marine Parade,2013-12-02,3
+Marine Parade,2013-12-31,2
+Marine Parade,2014-01-06,1
+Marine Parade,2014-01-17,1
+Marine Parade,2014-04-04,18
+Marine Parade,2014-04-14,4
+Marine Parade,2014-05-02,6
+Marine Parade,2014-06-03,4
+Marine Parade,2014-06-13,5
+Marine Parade,2014-07-01,6
+Marine Parade,2014-07-14,28
+Marine Parade,2014-07-21,7
+Marine Parade,2014-07-25,12
+Marine Parade,2014-07-29,10
+Marine Parade,2014-08-01,21
+Marine Parade,2014-08-05,18
+Marine Parade,2014-08-08,15
+Marine Parade,2014-08-12,12
+Marine Parade,2014-08-15,10
+Marine Parade,2014-09-22,11
+Marine Parade,2014-09-26,15
+Marine Parade,2014-09-29,11
+Marine Parade,2014-10-03,5
+Marine Parade,2014-10-07,2
+Marine Parade,2014-10-10,1
+Marine Parade,2014-10-13,2
+Marine Parade,2014-10-17,3
+Marine Parade,2014-12-01,1
+Marine Parade,2014-12-05,1
+Marine Parade,2014-12-12,2
+Marine Parade,2014-12-15,1
+Marine Parade,2014-12-19,2
+Marine Parade,2014-12-22,2
+Marine Parade,2014-12-26,2
+Marine Parade,2014-12-30,2
+Marine Parade,2015-01-02,2
+Marine Parade,2015-01-07,1
+Marine Parade,2015-01-26,2
+Marine Parade,2015-04-10,2
+Marine Parade,2015-04-13,2
+Marine Parade,2015-08-06,3
+Marine Parade,2015-08-11,1
+Marine Parade,2015-08-14,2
+Marine Parade,2015-08-17,3
+Marine Parade,2015-08-21,8
+Marine Parade,2015-08-25,2
+Marine Parade,2015-09-04,3
+Marine Parade,2015-09-07,2
+Marine Parade,2015-09-10,3
+Marine Parade,2015-09-14,1
+Marine Parade,2015-09-18,6
+Marine Parade,2015-09-22,12
+Marine Parade,2015-09-25,8
+Marine Parade,2015-09-28,4
+Marine Parade,2015-10-02,2
+Marine Parade,2015-10-05,3
+Marine Parade,2015-10-09,5
+Marine Parade,2015-10-12,5
+Marine Parade,2015-10-19,3
+Marine Parade,2015-10-26,2
+Marine Parade,2015-11-02,1
+Marine Parade,2015-11-30,7
+Marine Parade,2015-12-07,5
+Marine Parade,2015-12-14,5
+Marine Parade,2015-12-21,4
+Marine Parade,2015-12-28,5
+Marine Parade,2016-01-04,4
+Marine Parade,2016-01-11,15
+Marine Parade,2016-01-18,11
+Marine Parade,2016-01-26,22
+Marine Parade,2016-02-01,26
+Marine Parade,2016-02-10,14
+Marine Parade,2016-02-15,5
+Marine Parade,2016-02-23,28
+Marine Parade,2016-03-01,22
+Marine Parade,2016-03-07,20
+Marine Parade,2016-03-14,7
+Marine Parade,2016-03-22,2
+Marine Parade,2016-03-29,3
+Marine Parade,2016-04-04,2
+Marine Parade,2016-04-11,3
+Marine Parade,2016-04-18,8
+Marine Parade,2016-04-25,6
+Marine Parade,2016-05-03,2
+Marine Parade,2016-05-09,1
+Marine Parade,2016-05-24,6
+Marine Parade,2016-06-06,1
+Marine Parade,2016-06-13,2
+Marine Parade,2016-06-20,4
+Marine Parade,2016-06-30,2
+Marine Parade,2016-07-04,2
+Marine Parade,2016-07-12,7
+Marine Parade,2016-07-18,1
+Marine Parade,2016-08-01,3
+Marine Parade,2016-08-10,3
+Marine Parade,2016-08-16,3
+Marine Parade,2016-08-23,5
+Marine Parade,2016-08-29,2
+Marine Parade,2016-09-05,6
+Marine Parade,2016-09-13,3
+Marine Parade,2016-10-24,2
+Marine Parade,2016-11-07,1
+Marine Parade,2017-02-13,1
+Marine Parade,2017-02-20,1
+Marine Parade,2017-04-10,1
+Marine Parade,2017-06-28,1
+Marine Parade,2017-07-03,2
+Marine Parade,2017-09-04,1
+Marine Parade,2018-08-13,2
+Marine Parade,2018-08-20,1
+Marine Parade,2018-09-03,2
+Marine Parade,2018-09-10,1
+Marine Parade,2018-10-29,2
+Marine Parade,2018-11-05,2
+Marine Parade,2018-11-16,1
+Marine Parade,2018-11-19,1
+Marine Parade,2019-05-13,1
+Marine Parade,2019-05-22,3
+Marine Parade,2019-05-27,2
+Marine Parade,2019-06-10,6
+Marine Parade,2019-06-19,5
+Marine Parade,2019-06-26,4
+Marine Parade,2019-07-02,9
+Marine Parade,2019-07-08,9
+Marine Parade,2019-07-16,19
+Marine Parade,2019-07-26,17
+Marine Parade,2019-08-08,18
+Marine Parade,2019-08-16,25
+Marine Parade,2019-08-23,29
+Marine Parade,2019-08-30,30
+Marine Parade,2019-09-06,13
+Marine Parade,2019-09-13,2
+Marine Parade,2019-09-20,4
+Marine Parade,2019-09-27,2
+Marine Parade,2019-10-04,6
+Marine Parade,2019-10-11,11
+Marine Parade,2019-10-18,9
+Marine Parade,2019-10-25,6
+Marine Parade,2019-11-01,2
+Marine Parade,2019-11-08,2
+Marine Parade,2019-11-15,2
+Marine Parade,2019-11-22,3
+Marine Parade,2019-12-06,5
+Marine Parade,2019-12-20,5
+Marine Parade,2019-12-27,5
+Marine Parade,2020-01-03,3
+Marine Parade,2020-01-10,8
+Marine Parade,2020-01-17,10
+Marine Parade,2020-01-24,12
+Marine Parade,2020-01-31,20
+Marine Parade,2020-02-07,9
+Marine Parade,2020-02-14,6
+Marine Parade,2020-02-21,11
+Marine Parade,2020-02-28,12
+Marine Parade,2020-03-06,15
+Marine Parade,2020-03-13,24
+Marine Parade,2020-03-20,26
+Marine Parade,2020-03-27,5
+Marine Parade,2020-04-03,4
+Marine Parade,2020-04-09,9
+Marine Parade,2020-04-17,22
+Marine Parade,2020-04-24,26
+Marine Parade,2020-04-30,21
+Marine Parade,2020-05-08,20
+Marine Parade,2020-05-15,30
+Marine Parade,2020-05-22,40
+Marine Parade,2020-05-29,50
+Marine Parade,2020-06-05,63
+Marine Parade,2020-07-03,142
+Marine Parade,2020-08-07,147
+Marine Parade,2020-09-18,48
+Marine Parade,2020-11-06,6
+Newton,2013-05-23,-1
+Newton,2013-05-27,-1
+Newton,2013-07-04,-2
+Newton,2013-07-08,-2
+Newton,2013-07-18,-3
+Newton,2013-07-26,-3
+Newton,2013-08-30,-2
+Newton,2013-09-06,-2
+Newton,2013-09-13,-3
+Newton,2013-10-30,-2
+Newton,2013-11-04,-4
+Newton,2013-11-11,-5
+Newton,2013-11-18,-6
+Newton,2013-11-25,22
+Newton,2013-12-02,9
+Newton,2013-12-09,19
+Newton,2013-12-16,24
+Newton,2013-12-24,18
+Newton,2013-12-31,27
+Newton,2014-01-06,27
+Newton,2014-01-10,17
+Newton,2014-01-17,12
+Newton,2014-02-04,1
+Newton,2014-02-14,4
+Newton,2014-03-14,2
+Newton,2014-06-13,4
+Newton,2014-07-14,2
+Newton,2014-07-21,3
+Newton,2014-07-25,3
+Newton,2014-07-29,3
+Newton,2014-08-01,3
+Newton,2014-08-05,3
+Newton,2014-08-15,1
+Newton,2014-09-26,2
+Newton,2014-09-29,4
+Newton,2014-10-03,4
+Newton,2014-10-07,3
+Newton,2014-10-10,5
+Newton,2014-10-13,2
+Newton,2014-10-17,2
+Newton,2014-11-24,6
+Newton,2014-11-28,5
+Newton,2014-12-01,2
+Newton,2014-12-05,6
+Newton,2014-12-09,5
+Newton,2014-12-12,6
+Newton,2014-12-15,3
+Newton,2014-12-19,7
+Newton,2014-12-22,6
+Newton,2014-12-26,2
+Newton,2015-01-07,2
+Newton,2015-01-09,2
+Newton,2015-01-12,2
+Newton,2015-01-19,2
+Newton,2015-01-26,2
+Newton,2015-02-02,1
+Newton,2015-08-25,2
+Newton,2015-08-28,2
+Newton,2015-09-07,3
+Newton,2015-09-10,2
+Newton,2015-09-14,1
+Newton,2015-09-18,2
+Newton,2015-09-22,3
+Newton,2015-09-25,3
+Newton,2015-09-28,5
+Newton,2015-10-02,2
+Newton,2015-10-05,2
+Newton,2015-10-09,4
+Newton,2015-10-12,4
+Newton,2015-10-19,5
+Newton,2015-10-26,1
+Newton,2015-11-02,4
+Newton,2015-11-09,7
+Newton,2015-11-16,4
+Newton,2015-11-30,2
+Newton,2015-12-07,2
+Newton,2015-12-14,2
+Newton,2015-12-28,2
+Newton,2016-01-11,6
+Newton,2016-01-18,8
+Newton,2016-01-26,11
+Newton,2016-02-01,11
+Newton,2016-02-10,5
+Newton,2016-02-15,2
+Newton,2016-02-23,16
+Newton,2016-03-01,18
+Newton,2016-03-07,11
+Newton,2016-03-14,12
+Newton,2016-03-22,13
+Newton,2016-03-29,7
+Newton,2016-04-11,1
+Newton,2016-04-18,2
+Newton,2016-04-25,1
+Newton,2016-05-03,1
+Newton,2016-05-09,1
+Newton,2016-05-24,2
+Newton,2016-05-30,2
+Newton,2016-06-06,4
+Newton,2016-06-13,5
+Newton,2016-06-20,6
+Newton,2016-07-12,4
+Newton,2016-07-18,1
+Newton,2016-08-16,2
+Newton,2016-08-23,1
+Newton,2016-09-19,2
+Newton,2016-09-26,2
+Newton,2016-10-10,1
+Newton,2016-11-07,2
+Newton,2016-12-19,2
+Newton,2016-12-27,2
+Newton,2017-01-09,4
+Newton,2017-01-16,4
+Newton,2017-01-23,2
+Newton,2017-01-31,1
+Newton,2017-02-13,1
+Newton,2017-02-20,1
+Newton,2017-02-27,1
+Newton,2017-03-07,3
+Newton,2017-03-13,3
+Newton,2017-10-16,2
+Newton,2018-01-15,2
+Newton,2018-01-22,3
+Newton,2018-04-02,2
+Newton,2018-04-16,2
+Newton,2018-04-23,3
+Newton,2018-04-30,1
+Newton,2018-05-07,1
+Newton,2018-06-04,2
+Newton,2018-06-11,5
+Newton,2018-06-18,5
+Newton,2018-06-25,2
+Newton,2018-07-09,1
+Newton,2018-07-16,3
+Newton,2018-07-23,1
+Newton,2018-08-13,3
+Newton,2018-08-27,4
+Newton,2018-12-03,2
+Newton,2018-12-10,1
+Newton,2019-01-14,2
+Newton,2019-01-21,1
+Newton,2019-06-03,2
+Newton,2019-06-10,3
+Newton,2019-06-19,6
+Newton,2019-07-02,4
+Newton,2019-07-08,5
+Newton,2019-07-16,12
+Newton,2019-07-26,7
+Newton,2019-08-08,8
+Newton,2019-08-16,4
+Newton,2019-08-23,6
+Newton,2019-08-30,3
+Newton,2019-09-06,6
+Newton,2019-09-13,7
+Newton,2019-09-20,3
+Newton,2019-09-27,1
+Newton,2019-11-01,2
+Newton,2019-11-08,3
+Newton,2019-11-15,2
+Newton,2019-11-22,3
+Newton,2019-12-06,2
+Newton,2019-12-13,2
+Newton,2019-12-20,2
+Newton,2019-12-27,1
+Newton,2020-01-03,4
+Newton,2020-01-10,9
+Newton,2020-01-17,10
+Newton,2020-01-24,13
+Newton,2020-01-31,17
+Newton,2020-02-07,11
+Newton,2020-02-14,6
+Newton,2020-02-21,12
+Newton,2020-02-28,18
+Newton,2020-03-06,24
+Newton,2020-03-13,19
+Newton,2020-03-20,15
+Newton,2020-03-27,12
+Newton,2020-04-03,8
+Newton,2020-04-09,4
+Newton,2020-04-17,9
+Newton,2020-04-24,10
+Newton,2020-04-30,18
+Newton,2020-05-08,8
+Newton,2020-05-15,23
+Newton,2020-05-22,25
+Newton,2020-05-29,46
+Newton,2020-06-05,57
+Newton,2020-07-03,64
+Newton,2020-08-07,100
+Newton,2020-09-18,40
+Newton,2020-11-06,9
+Pasir Panjang,2013-06-24,-1
+Pasir Panjang,2013-07-04,-1
+Pasir Panjang,2013-07-08,-1
+Pasir Panjang,2014-07-21,2
+Pasir Panjang,2014-07-25,2
+Pasir Panjang,2014-07-29,1
+Pasir Panjang,2014-08-05,9
+Pasir Panjang,2014-08-08,10
+Pasir Panjang,2014-08-12,8
+Pasir Panjang,2014-08-15,13
+Pasir Panjang,2015-02-09,1
+Pasir Panjang,2015-08-14,1
+Pasir Panjang,2015-08-17,1
+Pasir Panjang,2015-08-21,3
+Pasir Panjang,2015-08-25,2
+Pasir Panjang,2016-03-22,1
+Pasir Panjang,2016-04-04,4
+Pasir Panjang,2016-04-11,5
+Pasir Panjang,2016-04-18,3
+Pasir Panjang,2016-07-26,3
+Pasir Panjang,2016-08-01,1
+Pasir Panjang,2016-09-13,2
+Pasir Panjang,2017-06-12,1
+Pasir Panjang,2017-07-10,2
+Pasir Panjang,2017-07-17,2
+Pasir Panjang,2018-09-25,2
+Pasir Panjang,2018-10-01,1
+Pasir Panjang,2019-07-26,2
+Pasir Panjang,2019-08-08,2
+Pasir Panjang,2019-11-15,2
+Pasir Panjang,2019-11-29,1
+Pasir Panjang,2019-12-06,1
+Pasir Panjang,2020-03-06,2
+Pasir Panjang,2020-03-13,2
+Pasir Panjang,2020-05-22,2
+Pasir Panjang,2020-08-07,10
+Pasir Ris (Central),2013-05-23,-1
+Pasir Ris (Central),2013-05-27,-1
+Pasir Ris (Central),2013-06-11,-4
+Pasir Ris (Central),2013-06-17,-5
+Pasir Ris (Central),2013-06-24,-3
+Pasir Ris (Central),2013-07-04,-4
+Pasir Ris (Central),2013-07-08,-9
+Pasir Ris (Central),2013-07-18,-4
+Pasir Ris (Central),2013-07-26,-4
+Pasir Ris (Central),2013-08-07,-1
+Pasir Ris (Central),2013-08-21,-4
+Pasir Ris (Central),2013-08-30,-1
+Pasir Ris (Central),2013-09-06,-1
+Pasir Ris (Central),2013-09-13,-3
+Pasir Ris (Central),2013-10-30,-4
+Pasir Ris (Central),2013-11-04,-4
+Pasir Ris (Central),2013-11-11,-6
+Pasir Ris (Central),2013-11-18,-4
+Pasir Ris (Central),2013-11-25,11
+Pasir Ris (Central),2013-12-02,4
+Pasir Ris (Central),2013-12-09,4
+Pasir Ris (Central),2013-12-16,1
+Pasir Ris (Central),2013-12-31,4
+Pasir Ris (Central),2014-01-06,6
+Pasir Ris (Central),2014-02-04,1
+Pasir Ris (Central),2014-05-12,2
+Pasir Ris (Central),2014-06-13,1
+Pasir Ris (Central),2014-07-01,35
+Pasir Ris (Central),2014-07-14,40
+Pasir Ris (Central),2014-07-21,7
+Pasir Ris (Central),2014-07-25,4
+Pasir Ris (Central),2014-08-01,11
+Pasir Ris (Central),2014-08-05,15
+Pasir Ris (Central),2014-08-08,7
+Pasir Ris (Central),2014-08-12,6
+Pasir Ris (Central),2014-08-15,11
+Pasir Ris (Central),2014-09-22,15
+Pasir Ris (Central),2014-09-26,4
+Pasir Ris (Central),2014-09-29,2
+Pasir Ris (Central),2014-10-03,9
+Pasir Ris (Central),2014-10-07,6
+Pasir Ris (Central),2014-11-28,3
+Pasir Ris (Central),2014-12-01,6
+Pasir Ris (Central),2014-12-05,10
+Pasir Ris (Central),2014-12-09,7
+Pasir Ris (Central),2014-12-12,5
+Pasir Ris (Central),2014-12-15,3
+Pasir Ris (Central),2014-12-19,8
+Pasir Ris (Central),2014-12-22,5
+Pasir Ris (Central),2014-12-26,4
+Pasir Ris (Central),2014-12-30,8
+Pasir Ris (Central),2015-01-02,6
+Pasir Ris (Central),2015-01-07,7
+Pasir Ris (Central),2015-01-09,9
+Pasir Ris (Central),2015-01-12,10
+Pasir Ris (Central),2015-01-19,2
+Pasir Ris (Central),2015-01-26,6
+Pasir Ris (Central),2015-02-02,11
+Pasir Ris (Central),2015-02-09,1
+Pasir Ris (Central),2015-02-16,5
+Pasir Ris (Central),2015-02-23,2
+Pasir Ris (Central),2015-03-16,2
+Pasir Ris (Central),2015-04-17,2
+Pasir Ris (Central),2015-07-16,4
+Pasir Ris (Central),2015-08-06,4
+Pasir Ris (Central),2015-08-11,3
+Pasir Ris (Central),2015-08-21,1
+Pasir Ris (Central),2015-08-28,4
+Pasir Ris (Central),2015-08-31,1
+Pasir Ris (Central),2015-09-10,2
+Pasir Ris (Central),2015-09-18,4
+Pasir Ris (Central),2015-09-22,5
+Pasir Ris (Central),2015-09-25,8
+Pasir Ris (Central),2015-09-28,6
+Pasir Ris (Central),2015-10-02,12
+Pasir Ris (Central),2015-10-05,11
+Pasir Ris (Central),2015-10-09,22
+Pasir Ris (Central),2015-10-12,15
+Pasir Ris (Central),2015-10-19,17
+Pasir Ris (Central),2015-10-26,15
+Pasir Ris (Central),2015-11-02,6
+Pasir Ris (Central),2015-11-09,13
+Pasir Ris (Central),2015-11-16,8
+Pasir Ris (Central),2015-11-23,13
+Pasir Ris (Central),2015-11-30,9
+Pasir Ris (Central),2015-12-07,3
+Pasir Ris (Central),2015-12-14,11
+Pasir Ris (Central),2015-12-21,12
+Pasir Ris (Central),2015-12-28,15
+Pasir Ris (Central),2016-01-04,13
+Pasir Ris (Central),2016-01-11,14
+Pasir Ris (Central),2016-01-18,8
+Pasir Ris (Central),2016-01-26,15
+Pasir Ris (Central),2016-02-01,6
+Pasir Ris (Central),2016-02-10,2
+Pasir Ris (Central),2016-02-15,11
+Pasir Ris (Central),2016-02-23,9
+Pasir Ris (Central),2016-03-01,8
+Pasir Ris (Central),2016-03-07,3
+Pasir Ris (Central),2016-03-14,9
+Pasir Ris (Central),2016-03-22,18
+Pasir Ris (Central),2016-03-29,16
+Pasir Ris (Central),2016-04-04,27
+Pasir Ris (Central),2016-04-11,26
+Pasir Ris (Central),2016-04-18,3
+Pasir Ris (Central),2016-04-25,4
+Pasir Ris (Central),2016-05-03,15
+Pasir Ris (Central),2016-05-09,4
+Pasir Ris (Central),2016-05-24,2
+Pasir Ris (Central),2016-07-12,2
+Pasir Ris (Central),2016-07-26,1
+Pasir Ris (Central),2016-08-29,2
+Pasir Ris (Central),2016-09-13,5
+Pasir Ris (Central),2016-09-19,3
+Pasir Ris (Central),2016-09-26,5
+Pasir Ris (Central),2016-10-03,1
+Pasir Ris (Central),2016-10-10,4
+Pasir Ris (Central),2016-10-17,3
+Pasir Ris (Central),2016-10-24,1
+Pasir Ris (Central),2016-10-31,2
+Pasir Ris (Central),2016-11-07,4
+Pasir Ris (Central),2017-03-20,1
+Pasir Ris (Central),2017-07-10,1
+Pasir Ris (Central),2017-08-14,2
+Pasir Ris (Central),2017-08-21,1
+Pasir Ris (Central),2017-09-25,2
+Pasir Ris (Central),2017-10-09,1
+Pasir Ris (Central),2017-10-30,2
+Pasir Ris (Central),2017-11-14,2
+Pasir Ris (Central),2018-01-02,2
+Pasir Ris (Central),2018-01-11,1
+Pasir Ris (Central),2018-01-15,1
+Pasir Ris (Central),2018-01-22,2
+Pasir Ris (Central),2018-05-28,1
+Pasir Ris (Central),2018-06-04,1
+Pasir Ris (Central),2018-06-18,1
+Pasir Ris (Central),2018-10-08,1
+Pasir Ris (Central),2018-10-29,2
+Pasir Ris (Central),2018-11-05,1
+Pasir Ris (Central),2018-11-16,2
+Pasir Ris (Central),2018-11-19,3
+Pasir Ris (Central),2018-11-26,4
+Pasir Ris (Central),2018-12-03,3
+Pasir Ris (Central),2019-01-07,3
+Pasir Ris (Central),2019-01-14,2
+Pasir Ris (Central),2019-01-21,7
+Pasir Ris (Central),2019-01-29,3
+Pasir Ris (Central),2019-05-22,2
+Pasir Ris (Central),2019-05-27,3
+Pasir Ris (Central),2019-06-03,6
+Pasir Ris (Central),2019-06-10,10
+Pasir Ris (Central),2019-06-19,20
+Pasir Ris (Central),2019-06-26,42
+Pasir Ris (Central),2019-07-02,39
+Pasir Ris (Central),2019-07-08,58
+Pasir Ris (Central),2019-07-16,67
+Pasir Ris (Central),2019-07-26,47
+Pasir Ris (Central),2019-08-08,17
+Pasir Ris (Central),2019-08-16,11
+Pasir Ris (Central),2019-08-23,3
+Pasir Ris (Central),2019-08-30,14
+Pasir Ris (Central),2019-09-06,13
+Pasir Ris (Central),2019-09-13,13
+Pasir Ris (Central),2019-09-20,17
+Pasir Ris (Central),2019-09-27,18
+Pasir Ris (Central),2019-10-04,8
+Pasir Ris (Central),2019-10-11,6
+Pasir Ris (Central),2019-10-18,18
+Pasir Ris (Central),2019-10-25,30
+Pasir Ris (Central),2019-11-01,30
+Pasir Ris (Central),2019-11-08,26
+Pasir Ris (Central),2019-11-15,26
+Pasir Ris (Central),2019-11-22,42
+Pasir Ris (Central),2019-11-29,38
+Pasir Ris (Central),2019-12-06,30
+Pasir Ris (Central),2019-12-13,20
+Pasir Ris (Central),2019-12-20,20
+Pasir Ris (Central),2019-12-27,15
+Pasir Ris (Central),2020-01-03,6
+Pasir Ris (Central),2020-01-10,12
+Pasir Ris (Central),2020-01-17,4
+Pasir Ris (Central),2020-02-07,2
+Pasir Ris (Central),2020-02-14,2
+Pasir Ris (Central),2020-02-28,2
+Pasir Ris (Central),2020-04-03,4
+Pasir Ris (Central),2020-04-09,2
+Pasir Ris (Central),2020-06-05,2
+Pasir Ris (Central),2020-07-03,11
+Pasir Ris (Central),2020-08-07,40
+Pasir Ris (Central),2020-09-18,27
+Pasir Ris (Central),2020-11-06,29
+Paya Lebar,2013-05-23,-1
+Paya Lebar,2013-05-27,-1
+Paya Lebar,2014-06-03,7
+Paya Lebar,2014-06-13,32
+Paya Lebar,2014-07-01,27
+Paya Lebar,2014-07-14,26
+Paya Lebar,2014-07-21,12
+Paya Lebar,2014-07-25,11
+Paya Lebar,2014-07-29,6
+Paya Lebar,2014-08-01,2
+Paya Lebar,2014-08-05,3
+Paya Lebar,2015-04-10,1
+Paya Lebar,2015-04-13,1
+Paya Lebar,2016-03-14,3
+Paya Lebar,2016-03-22,1
+Paya Lebar,2016-03-29,2
+Paya Lebar,2019-06-03,2
+Paya Lebar,2019-06-10,5
+Paya Lebar,2019-06-19,6
+Paya Lebar,2019-06-26,2
+Paya Lebar,2020-02-28,9
+Paya Lebar,2020-03-06,8
+Paya Lebar,2020-03-13,7
+Paya Lebar,2020-03-20,8
+Paya Lebar,2020-03-27,5
+Paya Lebar,2020-04-03,6
+Paya Lebar,2020-04-09,3
+Paya Lebar,2020-04-17,3
+Paya Lebar,2020-04-24,4
+Paya Lebar,2020-04-30,4
+Paya Lebar,2020-11-06,2
+Punggol,2013-06-11,-1
+Punggol,2013-08-21,-1
+Punggol,2013-09-13,-1
+Punggol,2013-11-18,-1
+Punggol,2014-06-13,3
+Punggol,2014-07-21,4
+Punggol,2014-08-01,2
+Punggol,2015-01-09,1
+Punggol,2015-01-12,1
+Punggol,2015-01-19,2
+Punggol,2015-03-27,2
+Punggol,2015-03-30,1
+Punggol,2015-04-17,2
+Punggol,2015-07-03,4
+Punggol,2015-07-16,2
+Punggol,2015-08-14,2
+Punggol,2015-08-17,1
+Punggol,2015-08-25,1
+Punggol,2015-08-28,2
+Punggol,2015-08-31,4
+Punggol,2015-09-10,2
+Punggol,2015-09-14,2
+Punggol,2015-09-18,2
+Punggol,2015-11-02,1
+Punggol,2015-11-16,1
+Punggol,2015-12-28,2
+Punggol,2016-01-04,2
+Punggol,2016-01-26,15
+Punggol,2016-02-01,15
+Punggol,2016-02-10,6
+Punggol,2016-02-15,1
+Punggol,2016-02-23,2
+Punggol,2016-03-07,2
+Punggol,2016-03-22,3
+Punggol,2016-03-29,2
+Punggol,2016-04-11,2
+Punggol,2016-04-18,1
+Punggol,2016-06-06,1
+Punggol,2016-07-26,2
+Punggol,2016-09-26,2
+Punggol,2016-10-24,2
+Punggol,2017-07-31,1
+Punggol,2018-06-25,3
+Punggol,2018-07-02,7
+Punggol,2018-07-09,8
+Punggol,2018-07-16,1
+Punggol,2018-11-26,1
+Punggol,2019-01-14,3
+Punggol,2019-01-21,1
+Punggol,2019-05-22,2
+Punggol,2019-05-27,2
+Punggol,2019-06-19,2
+Punggol,2019-07-02,7
+Punggol,2019-07-08,3
+Punggol,2019-07-16,5
+Punggol,2019-08-16,2
+Punggol,2019-08-23,2
+Punggol,2019-08-30,3
+Punggol,2019-10-18,2
+Punggol,2019-11-01,5
+Punggol,2019-11-08,8
+Punggol,2019-11-15,2
+Punggol,2019-11-22,4
+Punggol,2019-11-29,6
+Punggol,2019-12-27,2
+Punggol,2020-01-03,2
+Punggol,2020-01-10,2
+Punggol,2020-01-17,3
+Punggol,2020-01-24,7
+Punggol,2020-01-31,12
+Punggol,2020-02-07,12
+Punggol,2020-02-14,7
+Punggol,2020-02-21,8
+Punggol,2020-02-28,7
+Punggol,2020-03-27,3
+Punggol,2020-04-03,3
+Punggol,2020-04-09,3
+Punggol,2020-04-17,1
+Punggol,2020-05-22,2
+Punggol,2020-05-29,5
+Punggol,2020-06-05,2
+Punggol,2020-07-03,28
+Punggol,2020-08-07,43
+Punggol,2020-09-18,13
+Punggol,2020-11-06,4
+Queenstown,2013-05-23,-1
+Queenstown,2013-05-27,-1
+Queenstown,2013-06-11,-1
+Queenstown,2013-06-17,-2
+Queenstown,2013-06-24,-4
+Queenstown,2013-07-04,-3
+Queenstown,2013-07-08,-3
+Queenstown,2013-07-18,-1
+Queenstown,2013-11-04,-1
+Queenstown,2013-11-18,-1
+Queenstown,2013-11-25,2
+Queenstown,2013-12-09,1
+Queenstown,2013-12-16,9
+Queenstown,2013-12-31,3
+Queenstown,2014-01-10,2
+Queenstown,2014-01-17,1
+Queenstown,2014-02-14,1
+Queenstown,2014-04-04,3
+Queenstown,2014-04-14,1
+Queenstown,2014-05-02,2
+Queenstown,2014-05-12,2
+Queenstown,2014-06-13,3
+Queenstown,2014-07-25,3
+Queenstown,2015-02-27,5
+Queenstown,2015-03-02,2
+Queenstown,2015-07-03,1
+Queenstown,2015-08-14,1
+Queenstown,2015-08-17,1
+Queenstown,2015-08-21,5
+Queenstown,2015-08-25,2
+Queenstown,2016-01-11,2
+Queenstown,2016-01-18,2
+Queenstown,2016-01-26,3
+Queenstown,2016-02-10,2
+Queenstown,2016-03-01,3
+Queenstown,2016-03-07,3
+Queenstown,2016-10-31,2
+Queenstown,2017-04-17,1
+Queenstown,2018-07-02,1
+Queenstown,2018-11-05,2
+Queenstown,2018-12-10,1
+Queenstown,2018-12-17,2
+Queenstown,2018-12-24,2
+Queenstown,2019-01-07,4
+Queenstown,2019-01-14,10
+Queenstown,2019-01-21,4
+Queenstown,2019-01-29,8
+Queenstown,2019-06-03,2
+Queenstown,2019-06-19,1
+Queenstown,2019-07-16,2
+Queenstown,2019-07-26,8
+Queenstown,2019-08-08,4
+Queenstown,2019-08-16,7
+Queenstown,2019-09-06,1
+Queenstown,2019-09-13,2
+Queenstown,2019-09-20,2
+Queenstown,2019-10-11,2
+Queenstown,2019-10-18,2
+Queenstown,2019-11-15,2
+Queenstown,2019-11-29,1
+Queenstown,2019-12-13,4
+Queenstown,2019-12-20,3
+Queenstown,2019-12-27,1
+Queenstown,2020-01-03,2
+Queenstown,2020-02-07,1
+Queenstown,2020-02-14,1
+Queenstown,2020-02-21,1
+Queenstown,2020-02-28,4
+Queenstown,2020-03-20,2
+Queenstown,2020-03-27,3
+Queenstown,2020-05-08,2
+Queenstown,2020-05-22,2
+Queenstown,2020-05-29,2
+Queenstown,2020-06-05,2
+Queenstown,2020-08-07,80
+Queenstown,2020-09-18,28
+Queenstown,2020-11-06,4
+Seletar,2015-04-02,1
+Seletar,2015-04-06,1
+Seletar,2016-07-26,3
+Seletar,2016-08-01,2
+Seletar,2016-08-10,1
+Seletar,2016-09-05,1
+Seletar,2016-09-13,1
+Seletar,2018-10-29,2
+Seletar,2018-11-05,1
+Seletar,2019-07-26,3
+Seletar,2019-08-16,2
+Seletar,2019-08-23,2
+Seletar,2020-04-09,2
+Seletar,2020-04-17,3
+Seletar,2020-04-24,3
+Seletar,2020-04-30,3
+Seletar,2020-05-08,1
+Seletar,2020-05-22,2
+Seletar,2020-05-29,2
+Seletar,2020-09-18,2
+Sembawang,2013-07-26,-1
+Sembawang,2013-10-30,-1
+Sembawang,2013-11-04,-1
+Sembawang,2013-11-11,-1
+Sembawang,2013-11-25,5
+Sembawang,2013-12-02,6
+Sembawang,2013-12-09,12
+Sembawang,2013-12-16,7
+Sembawang,2013-12-24,8
+Sembawang,2013-12-31,9
+Sembawang,2014-01-06,2
+Sembawang,2014-01-10,6
+Sembawang,2014-01-17,7
+Sembawang,2014-02-04,2
+Sembawang,2014-07-01,3
+Sembawang,2014-07-14,4
+Sembawang,2014-08-01,2
+Sembawang,2014-08-12,2
+Sembawang,2014-08-15,3
+Sembawang,2014-09-22,1
+Sembawang,2014-10-03,2
+Sembawang,2014-10-07,1
+Sembawang,2015-01-12,2
+Sembawang,2015-02-09,2
+Sembawang,2015-02-16,1
+Sembawang,2015-02-23,2
+Sembawang,2015-02-27,1
+Sembawang,2015-03-30,2
+Sembawang,2015-04-02,7
+Sembawang,2015-04-06,5
+Sembawang,2015-04-10,3
+Sembawang,2015-04-13,2
+Sembawang,2015-04-17,4
+Sembawang,2015-07-03,7
+Sembawang,2015-07-16,19
+Sembawang,2015-08-06,7
+Sembawang,2015-08-11,3
+Sembawang,2015-08-14,4
+Sembawang,2015-08-17,3
+Sembawang,2015-08-21,2
+Sembawang,2015-08-25,2
+Sembawang,2015-09-10,5
+Sembawang,2015-09-14,4
+Sembawang,2015-09-18,2
+Sembawang,2015-09-22,3
+Sembawang,2015-09-25,6
+Sembawang,2015-09-28,2
+Sembawang,2015-10-02,1
+Sembawang,2015-10-05,1
+Sembawang,2015-10-09,3
+Sembawang,2015-10-12,3
+Sembawang,2015-10-19,4
+Sembawang,2015-10-26,4
+Sembawang,2015-11-02,6
+Sembawang,2015-11-09,10
+Sembawang,2015-11-16,8
+Sembawang,2015-11-23,3
+Sembawang,2015-11-30,1
+Sembawang,2015-12-07,4
+Sembawang,2015-12-14,2
+Sembawang,2015-12-21,3
+Sembawang,2015-12-28,6
+Sembawang,2016-01-04,3
+Sembawang,2016-01-11,2
+Sembawang,2016-01-18,6
+Sembawang,2016-01-26,21
+Sembawang,2016-02-01,21
+Sembawang,2016-02-10,11
+Sembawang,2016-02-15,9
+Sembawang,2016-02-23,8
+Sembawang,2016-03-01,6
+Sembawang,2016-03-07,3
+Sembawang,2016-03-14,3
+Sembawang,2016-04-11,1
+Sembawang,2016-04-18,1
+Sembawang,2016-04-25,2
+Sembawang,2016-05-03,1
+Sembawang,2016-05-09,5
+Sembawang,2016-05-24,25
+Sembawang,2016-05-30,22
+Sembawang,2016-06-06,21
+Sembawang,2016-06-13,9
+Sembawang,2016-06-20,8
+Sembawang,2016-06-30,3
+Sembawang,2016-07-04,4
+Sembawang,2016-07-12,6
+Sembawang,2016-07-18,3
+Sembawang,2016-07-26,3
+Sembawang,2016-08-01,7
+Sembawang,2016-08-10,7
+Sembawang,2016-09-05,1
+Sembawang,2016-10-03,1
+Sembawang,2016-10-17,1
+Sembawang,2016-10-24,1
+Sembawang,2017-03-13,2
+Sembawang,2017-08-10,1
+Sembawang,2017-08-14,1
+Sembawang,2018-07-30,4
+Sembawang,2018-08-06,1
+Sembawang,2018-08-13,2
+Sembawang,2018-08-20,2
+Sembawang,2018-08-27,1
+Sembawang,2018-09-03,2
+Sembawang,2018-09-17,15
+Sembawang,2018-09-25,10
+Sembawang,2018-10-01,3
+Sembawang,2018-12-17,2
+Sembawang,2018-12-24,2
+Sembawang,2018-12-31,2
+Sembawang,2019-01-21,2
+Sembawang,2019-01-29,7
+Sembawang,2019-04-03,4
+Sembawang,2019-04-09,2
+Sembawang,2019-04-23,2
+Sembawang,2019-04-29,3
+Sembawang,2019-05-06,1
+Sembawang,2019-05-22,3
+Sembawang,2019-05-27,4
+Sembawang,2019-06-03,4
+Sembawang,2019-06-10,3
+Sembawang,2019-06-19,9
+Sembawang,2019-06-26,2
+Sembawang,2019-07-02,2
+Sembawang,2019-07-08,1
+Sembawang,2019-07-26,2
+Sembawang,2019-08-08,5
+Sembawang,2019-08-23,5
+Sembawang,2019-08-30,3
+Sembawang,2019-09-06,4
+Sembawang,2019-09-20,2
+Sembawang,2019-09-27,4
+Sembawang,2019-10-04,4
+Sembawang,2019-10-11,3
+Sembawang,2019-10-18,6
+Sembawang,2019-10-25,4
+Sembawang,2019-11-01,5
+Sembawang,2019-11-08,1
+Sembawang,2019-12-20,1
+Sembawang,2019-12-27,2
+Sembawang,2020-01-03,4
+Sembawang,2020-01-24,3
+Sembawang,2020-01-31,2
+Sembawang,2020-02-21,4
+Sembawang,2020-02-28,4
+Sembawang,2020-03-06,4
+Sembawang,2020-03-13,2
+Sembawang,2020-03-27,4
+Sembawang,2020-04-03,4
+Sembawang,2020-04-09,4
+Sembawang,2020-04-17,3
+Sembawang,2020-04-24,5
+Sembawang,2020-05-22,3
+Sembawang,2020-05-29,3
+Sembawang,2020-06-05,8
+Sembawang,2020-07-03,16
+Sembawang,2020-08-07,36
+Sembawang,2020-09-18,10
+Sembawang,2020-11-06,18
+Serangoon,2013-05-23,-7
+Serangoon,2013-05-27,-6
+Serangoon,2013-06-11,-6
+Serangoon,2013-06-17,-7
+Serangoon,2013-06-24,-4
+Serangoon,2013-07-04,-3
+Serangoon,2013-07-08,-7
+Serangoon,2013-07-18,-11
+Serangoon,2013-07-26,-4
+Serangoon,2013-08-07,-4
+Serangoon,2013-08-13,-3
+Serangoon,2013-08-21,-3
+Serangoon,2013-08-30,-2
+Serangoon,2013-09-06,-3
+Serangoon,2013-09-13,-2
+Serangoon,2013-10-30,-2
+Serangoon,2013-11-04,-2
+Serangoon,2013-11-11,-1
+Serangoon,2013-11-18,-2
+Serangoon,2013-11-25,3
+Serangoon,2013-12-02,9
+Serangoon,2013-12-09,14
+Serangoon,2013-12-16,13
+Serangoon,2013-12-24,19
+Serangoon,2013-12-31,16
+Serangoon,2014-01-06,15
+Serangoon,2014-01-10,32
+Serangoon,2014-01-17,13
+Serangoon,2014-02-04,8
+Serangoon,2014-02-14,5
+Serangoon,2014-03-04,2
+Serangoon,2014-03-14,14
+Serangoon,2014-04-04,15
+Serangoon,2014-04-14,17
+Serangoon,2014-05-02,18
+Serangoon,2014-05-12,8
+Serangoon,2014-06-03,17
+Serangoon,2014-06-13,37
+Serangoon,2014-07-01,46
+Serangoon,2014-07-14,44
+Serangoon,2014-07-21,29
+Serangoon,2014-07-25,22
+Serangoon,2014-07-29,14
+Serangoon,2014-08-01,16
+Serangoon,2014-08-05,19
+Serangoon,2014-08-08,19
+Serangoon,2014-08-12,14
+Serangoon,2014-08-15,18
+Serangoon,2014-09-22,16
+Serangoon,2014-09-26,23
+Serangoon,2014-09-29,22
+Serangoon,2014-10-03,32
+Serangoon,2014-10-07,20
+Serangoon,2014-10-10,18
+Serangoon,2014-10-13,12
+Serangoon,2014-10-17,15
+Serangoon,2014-11-24,6
+Serangoon,2014-11-28,8
+Serangoon,2014-12-01,9
+Serangoon,2014-12-05,13
+Serangoon,2014-12-09,15
+Serangoon,2014-12-12,7
+Serangoon,2014-12-15,6
+Serangoon,2014-12-19,7
+Serangoon,2014-12-22,6
+Serangoon,2014-12-26,5
+Serangoon,2014-12-30,7
+Serangoon,2015-01-02,5
+Serangoon,2015-01-07,9
+Serangoon,2015-01-09,8
+Serangoon,2015-01-12,10
+Serangoon,2015-01-19,11
+Serangoon,2015-01-26,9
+Serangoon,2015-02-02,9
+Serangoon,2015-02-09,3
+Serangoon,2015-02-16,2
+Serangoon,2015-02-23,2
+Serangoon,2015-02-27,2
+Serangoon,2015-03-02,2
+Serangoon,2015-03-06,1
+Serangoon,2015-03-09,3
+Serangoon,2015-03-16,1
+Serangoon,2015-04-02,2
+Serangoon,2015-04-06,2
+Serangoon,2015-07-03,5
+Serangoon,2015-07-16,7
+Serangoon,2015-08-06,4
+Serangoon,2015-08-11,2
+Serangoon,2015-08-14,2
+Serangoon,2015-08-17,2
+Serangoon,2015-08-21,5
+Serangoon,2015-08-25,1
+Serangoon,2015-09-10,2
+Serangoon,2015-09-14,2
+Serangoon,2015-09-18,5
+Serangoon,2015-09-22,5
+Serangoon,2015-09-25,3
+Serangoon,2015-09-28,5
+Serangoon,2015-10-02,7
+Serangoon,2015-10-05,7
+Serangoon,2015-10-09,8
+Serangoon,2015-10-12,7
+Serangoon,2015-10-19,3
+Serangoon,2015-10-26,6
+Serangoon,2015-11-02,10
+Serangoon,2015-11-09,15
+Serangoon,2015-11-16,10
+Serangoon,2015-11-23,9
+Serangoon,2015-11-30,11
+Serangoon,2015-12-07,22
+Serangoon,2015-12-14,18
+Serangoon,2015-12-21,28
+Serangoon,2015-12-28,29
+Serangoon,2016-01-04,42
+Serangoon,2016-01-11,30
+Serangoon,2016-01-18,44
+Serangoon,2016-01-26,54
+Serangoon,2016-02-01,44
+Serangoon,2016-02-10,45
+Serangoon,2016-02-15,36
+Serangoon,2016-02-23,52
+Serangoon,2016-03-01,41
+Serangoon,2016-03-07,34
+Serangoon,2016-03-14,22
+Serangoon,2016-03-22,32
+Serangoon,2016-03-29,17
+Serangoon,2016-04-04,19
+Serangoon,2016-04-11,8
+Serangoon,2016-04-18,7
+Serangoon,2016-04-25,13
+Serangoon,2016-05-03,13
+Serangoon,2016-05-09,8
+Serangoon,2016-05-24,3
+Serangoon,2016-05-30,4
+Serangoon,2016-06-06,2
+Serangoon,2016-06-13,9
+Serangoon,2016-06-30,10
+Serangoon,2016-07-04,8
+Serangoon,2016-07-12,20
+Serangoon,2016-07-18,19
+Serangoon,2016-07-26,8
+Serangoon,2016-08-01,11
+Serangoon,2016-08-10,12
+Serangoon,2016-08-16,7
+Serangoon,2016-08-23,12
+Serangoon,2016-08-29,6
+Serangoon,2016-09-05,6
+Serangoon,2016-09-13,1
+Serangoon,2016-09-19,8
+Serangoon,2016-09-26,5
+Serangoon,2016-10-03,1
+Serangoon,2016-10-10,3
+Serangoon,2016-10-17,2
+Serangoon,2016-10-24,1
+Serangoon,2016-10-31,4
+Serangoon,2016-11-07,1
+Serangoon,2017-01-03,2
+Serangoon,2017-01-16,3
+Serangoon,2017-01-23,3
+Serangoon,2017-02-27,3
+Serangoon,2017-06-28,5
+Serangoon,2017-07-03,4
+Serangoon,2017-07-10,1
+Serangoon,2017-07-31,7
+Serangoon,2017-08-10,9
+Serangoon,2017-08-14,9
+Serangoon,2017-08-21,4
+Serangoon,2017-08-29,4
+Serangoon,2017-09-04,5
+Serangoon,2017-09-11,5
+Serangoon,2017-09-18,1
+Serangoon,2017-10-09,3
+Serangoon,2017-10-16,2
+Serangoon,2018-09-10,3
+Serangoon,2018-09-17,1
+Serangoon,2018-09-25,9
+Serangoon,2018-12-24,1
+Serangoon,2019-04-03,3
+Serangoon,2019-04-09,1
+Serangoon,2019-04-16,7
+Serangoon,2019-04-23,4
+Serangoon,2019-04-29,1
+Serangoon,2019-05-13,5
+Serangoon,2019-05-22,9
+Serangoon,2019-05-27,7
+Serangoon,2019-06-03,8
+Serangoon,2019-06-10,15
+Serangoon,2019-06-19,8
+Serangoon,2019-06-26,4
+Serangoon,2019-07-02,7
+Serangoon,2019-07-08,13
+Serangoon,2019-07-16,17
+Serangoon,2019-07-26,47
+Serangoon,2019-08-08,38
+Serangoon,2019-08-16,29
+Serangoon,2019-08-23,22
+Serangoon,2019-08-30,31
+Serangoon,2019-09-06,19
+Serangoon,2019-09-13,20
+Serangoon,2019-09-20,22
+Serangoon,2019-09-27,32
+Serangoon,2019-10-04,21
+Serangoon,2019-10-11,9
+Serangoon,2019-10-18,13
+Serangoon,2019-10-25,25
+Serangoon,2019-11-01,37
+Serangoon,2019-11-08,46
+Serangoon,2019-11-15,67
+Serangoon,2019-11-22,80
+Serangoon,2019-11-29,79
+Serangoon,2019-12-06,70
+Serangoon,2019-12-13,45
+Serangoon,2019-12-20,23
+Serangoon,2019-12-27,27
+Serangoon,2020-01-03,39
+Serangoon,2020-01-10,73
+Serangoon,2020-01-17,63
+Serangoon,2020-01-24,79
+Serangoon,2020-01-31,55
+Serangoon,2020-02-07,37
+Serangoon,2020-02-14,46
+Serangoon,2020-02-21,51
+Serangoon,2020-02-28,52
+Serangoon,2020-03-06,51
+Serangoon,2020-03-13,54
+Serangoon,2020-03-20,45
+Serangoon,2020-03-27,38
+Serangoon,2020-04-03,33
+Serangoon,2020-04-09,31
+Serangoon,2020-04-17,19
+Serangoon,2020-04-24,25
+Serangoon,2020-04-30,25
+Serangoon,2020-05-08,20
+Serangoon,2020-05-15,51
+Serangoon,2020-05-22,50
+Serangoon,2020-05-29,84
+Serangoon,2020-06-05,120
+Serangoon,2020-07-03,225
+Serangoon,2020-08-07,239
+Serangoon,2020-09-18,78
+Serangoon,2020-11-06,19
+Serangoon North,2013-07-18,-1
+Serangoon North,2013-11-11,-1
+Serangoon North,2013-11-18,-1
+Serangoon North,2014-01-06,4
+Serangoon North,2014-01-10,3
+Serangoon North,2014-05-02,1
+Serangoon North,2014-06-13,4
+Serangoon North,2014-07-01,3
+Serangoon North,2014-07-14,4
+Serangoon North,2014-08-01,2
+Serangoon North,2014-08-05,2
+Serangoon North,2014-08-08,3
+Serangoon North,2014-08-12,1
+Serangoon North,2014-09-22,2
+Serangoon North,2014-09-26,1
+Serangoon North,2014-09-29,2
+Serangoon North,2014-10-10,2
+Serangoon North,2014-10-13,2
+Serangoon North,2014-10-17,1
+Serangoon North,2015-08-06,2
+Serangoon North,2015-08-11,1
+Serangoon North,2015-08-21,2
+Serangoon North,2015-08-28,3
+Serangoon North,2015-08-31,2
+Serangoon North,2015-09-04,2
+Serangoon North,2015-09-07,2
+Serangoon North,2015-09-18,3
+Serangoon North,2016-07-12,8
+Serangoon North,2016-07-18,8
+Serangoon North,2016-07-26,2
+Serangoon North,2016-08-10,3
+Serangoon North,2016-08-16,6
+Serangoon North,2016-08-23,1
+Serangoon North,2016-08-29,3
+Serangoon North,2016-09-05,1
+Serangoon North,2016-12-27,2
+Serangoon North,2019-09-20,13
+Serangoon North,2019-09-27,6
+Serangoon North,2019-10-04,2
+Serangoon North,2019-10-11,4
+Serangoon North,2019-10-18,2
+Serangoon North,2019-10-25,2
+Serangoon North,2019-11-01,20
+Serangoon North,2019-11-08,31
+Serangoon North,2019-11-15,55
+Serangoon North,2019-11-22,70
+Serangoon North,2019-11-29,66
+Serangoon North,2019-12-06,53
+Serangoon North,2019-12-13,35
+Serangoon North,2019-12-20,17
+Serangoon North,2019-12-27,19
+Serangoon North,2020-01-03,25
+Serangoon North,2020-01-10,33
+Serangoon North,2020-01-17,23
+Serangoon North,2020-01-24,22
+Serangoon North,2020-01-31,15
+Serangoon North,2020-02-07,8
+Serangoon North,2020-02-14,6
+Serangoon North,2020-02-21,8
+Serangoon North,2020-02-28,6
+Serangoon North,2020-03-06,5
+Serangoon North,2020-03-13,1
+Serangoon North,2020-03-20,3
+Serangoon North,2020-04-03,2
+Serangoon North,2020-04-09,2
+Serangoon North,2020-04-30,6
+Serangoon North,2020-05-08,5
+Serangoon North,2020-05-15,8
+Serangoon North,2020-05-22,14
+Serangoon North,2020-05-29,6
+Serangoon North,2020-06-05,9
+Serangoon North,2020-07-03,13
+Serangoon North,2020-08-07,11
+Serangoon North,2020-09-18,3
+Serangoon North,2020-11-06,7
+Simei,2013-05-23,-5
+Simei,2013-05-27,-4
+Simei,2013-06-11,-5
+Simei,2013-06-17,-5
+Simei,2013-06-24,-8
+Simei,2013-07-04,-7
+Simei,2013-07-08,-9
+Simei,2013-07-18,-7
+Simei,2013-07-26,-7
+Simei,2013-08-07,-5
+Simei,2013-08-13,-3
+Simei,2013-08-21,-4
+Simei,2013-08-30,-5
+Simei,2013-09-06,-6
+Simei,2013-09-13,-6
+Simei,2013-10-30,-3
+Simei,2013-11-04,-4
+Simei,2013-11-18,-2
+Simei,2013-11-25,11
+Simei,2013-12-02,9
+Simei,2013-12-09,3
+Simei,2013-12-16,1
+Simei,2013-12-31,4
+Simei,2014-01-06,4
+Simei,2014-01-10,8
+Simei,2014-01-17,6
+Simei,2014-02-04,5
+Simei,2014-03-04,2
+Simei,2014-03-14,4
+Simei,2014-06-03,2
+Simei,2014-06-13,10
+Simei,2014-07-01,14
+Simei,2014-07-14,11
+Simei,2014-07-21,5
+Simei,2014-07-25,9
+Simei,2014-07-29,12
+Simei,2014-08-01,9
+Simei,2014-08-05,7
+Simei,2014-08-08,4
+Simei,2014-08-12,5
+Simei,2014-08-15,12
+Simei,2014-09-22,9
+Simei,2014-09-26,12
+Simei,2014-09-29,9
+Simei,2014-10-03,27
+Simei,2014-10-07,13
+Simei,2014-10-10,21
+Simei,2014-10-13,6
+Simei,2014-10-17,13
+Simei,2014-11-24,3
+Simei,2014-12-05,3
+Simei,2014-12-09,6
+Simei,2014-12-12,4
+Simei,2014-12-15,3
+Simei,2014-12-19,1
+Simei,2014-12-22,1
+Simei,2014-12-26,1
+Simei,2015-01-07,2
+Simei,2015-01-09,3
+Simei,2015-01-12,1
+Simei,2015-01-19,4
+Simei,2015-01-26,4
+Simei,2015-02-02,7
+Simei,2015-02-09,5
+Simei,2015-03-16,1
+Simei,2015-03-27,2
+Simei,2015-03-30,2
+Simei,2015-04-02,4
+Simei,2015-04-06,2
+Simei,2015-07-03,13
+Simei,2015-07-16,9
+Simei,2015-08-06,14
+Simei,2015-08-11,6
+Simei,2015-08-14,7
+Simei,2015-08-17,6
+Simei,2015-08-21,9
+Simei,2015-08-25,5
+Simei,2015-08-28,1
+Simei,2015-08-31,1
+Simei,2015-09-04,19
+Simei,2015-09-07,16
+Simei,2015-09-10,9
+Simei,2015-09-14,4
+Simei,2015-09-18,1
+Simei,2015-09-22,1
+Simei,2015-09-25,5
+Simei,2015-09-28,9
+Simei,2015-10-02,27
+Simei,2015-10-05,23
+Simei,2015-10-09,17
+Simei,2015-10-12,13
+Simei,2015-10-19,12
+Simei,2015-10-26,15
+Simei,2015-11-02,8
+Simei,2015-11-09,17
+Simei,2015-11-16,11
+Simei,2015-11-23,20
+Simei,2015-11-30,36
+Simei,2015-12-07,36
+Simei,2015-12-14,30
+Simei,2015-12-21,31
+Simei,2015-12-28,18
+Simei,2016-01-04,35
+Simei,2016-01-11,51
+Simei,2016-01-18,54
+Simei,2016-01-26,64
+Simei,2016-02-01,61
+Simei,2016-02-10,25
+Simei,2016-02-15,28
+Simei,2016-02-23,20
+Simei,2016-03-01,26
+Simei,2016-03-07,24
+Simei,2016-03-14,19
+Simei,2016-03-22,25
+Simei,2016-03-29,23
+Simei,2016-04-04,17
+Simei,2016-04-11,14
+Simei,2016-04-18,9
+Simei,2016-04-25,11
+Simei,2016-05-03,17
+Simei,2016-05-09,10
+Simei,2016-05-24,10
+Simei,2016-05-30,3
+Simei,2016-06-06,2
+Simei,2016-06-13,7
+Simei,2016-06-20,5
+Simei,2016-06-30,10
+Simei,2016-07-04,7
+Simei,2016-07-12,9
+Simei,2016-07-18,9
+Simei,2016-07-26,8
+Simei,2016-08-01,6
+Simei,2016-08-10,4
+Simei,2016-08-16,8
+Simei,2016-08-23,7
+Simei,2016-08-29,8
+Simei,2016-09-05,4
+Simei,2016-09-13,1
+Simei,2016-09-19,5
+Simei,2016-10-10,5
+Simei,2016-10-17,2
+Simei,2016-11-07,2
+Simei,2016-11-14,7
+Simei,2016-11-21,4
+Simei,2016-11-28,1
+Simei,2016-12-12,5
+Simei,2016-12-27,1
+Simei,2017-01-03,1
+Simei,2017-01-09,6
+Simei,2017-01-16,6
+Simei,2017-01-23,4
+Simei,2017-01-31,8
+Simei,2017-02-06,3
+Simei,2017-02-13,7
+Simei,2017-02-20,2
+Simei,2017-02-27,4
+Simei,2017-03-07,5
+Simei,2017-03-13,1
+Simei,2017-04-10,2
+Simei,2017-06-05,2
+Simei,2017-06-19,1
+Simei,2017-06-28,2
+Simei,2017-07-10,2
+Simei,2017-09-11,2
+Simei,2017-10-16,4
+Simei,2017-11-06,2
+Simei,2017-11-14,1
+Simei,2017-11-27,1
+Simei,2017-12-18,1
+Simei,2017-12-26,4
+Simei,2018-01-02,3
+Simei,2018-01-11,5
+Simei,2018-01-15,4
+Simei,2018-01-22,4
+Simei,2018-01-29,6
+Simei,2018-02-05,7
+Simei,2018-02-12,6
+Simei,2018-02-19,1
+Simei,2018-03-12,3
+Simei,2018-03-20,3
+Simei,2018-03-26,1
+Simei,2018-04-30,1
+Simei,2018-05-28,4
+Simei,2018-06-04,1
+Simei,2018-06-11,8
+Simei,2018-06-18,9
+Simei,2018-07-02,3
+Simei,2018-07-09,1
+Simei,2018-07-30,3
+Simei,2018-08-06,2
+Simei,2018-08-13,5
+Simei,2018-08-27,3
+Simei,2018-09-03,1
+Simei,2018-09-17,1
+Simei,2018-12-10,2
+Simei,2018-12-24,2
+Simei,2019-01-07,6
+Simei,2019-01-14,11
+Simei,2019-01-21,18
+Simei,2019-01-29,19
+Simei,2019-04-03,2
+Simei,2019-04-09,5
+Simei,2019-04-16,3
+Simei,2019-05-13,3
+Simei,2019-06-03,7
+Simei,2019-06-10,12
+Simei,2019-06-19,19
+Simei,2019-06-26,25
+Simei,2019-07-02,32
+Simei,2019-07-08,29
+Simei,2019-07-16,32
+Simei,2019-07-26,15
+Simei,2019-08-08,25
+Simei,2019-08-16,32
+Simei,2019-08-23,32
+Simei,2019-08-30,23
+Simei,2019-09-06,12
+Simei,2019-09-13,18
+Simei,2019-09-20,28
+Simei,2019-09-27,29
+Simei,2019-10-04,18
+Simei,2019-10-11,13
+Simei,2019-10-18,14
+Simei,2019-10-25,10
+Simei,2019-11-01,10
+Simei,2019-11-08,4
+Simei,2019-11-15,7
+Simei,2019-11-22,11
+Simei,2019-11-29,8
+Simei,2019-12-20,2
+Simei,2020-01-03,5
+Simei,2020-01-10,6
+Simei,2020-01-17,7
+Simei,2020-01-24,5
+Simei,2020-01-31,4
+Simei,2020-02-14,9
+Simei,2020-02-28,3
+Simei,2020-03-06,3
+Simei,2020-03-27,3
+Simei,2020-04-03,13
+Simei,2020-04-09,6
+Simei,2020-04-17,4
+Simei,2020-04-24,13
+Simei,2020-04-30,26
+Simei,2020-05-08,28
+Simei,2020-05-15,48
+Simei,2020-05-22,50
+Simei,2020-05-29,38
+Simei,2020-06-05,19
+Simei,2020-07-03,42
+Simei,2020-08-07,59
+Simei,2020-09-18,38
+Simei,2020-11-06,111
+Somerset (Road),2013-08-21,-1
+Somerset (Road),2013-10-30,-2
+Somerset (Road),2013-11-04,-2
+Somerset (Road),2013-11-11,-6
+Somerset (Road),2013-11-18,-7
+Somerset (Road),2013-11-25,12
+Somerset (Road),2013-12-02,6
+Somerset (Road),2013-12-09,3
+Somerset (Road),2020-03-06,13
+Somerset (Road),2020-03-13,9
+Somerset (Road),2020-03-20,7
+Somerset (Road),2020-03-27,4
+Somerset (Road),2020-04-03,2
+Somerset (Road),2020-04-17,2
+Somerset (Road),2020-04-24,7
+Somerset (Road),2020-04-30,8
+Somerset (Road),2020-05-08,5
+Somerset (Road),2020-05-15,18
+Somerset (Road),2020-05-22,20
+Somerset (Road),2020-05-29,25
+Somerset (Road),2020-06-05,25
+Somerset (Road),2020-07-03,58
+Somerset (Road),2020-08-07,42
+Somerset (Road),2020-09-18,24
+Tai Seng,2013-05-23,-3
+Tai Seng,2013-05-27,-3
+Tai Seng,2013-06-11,-3
+Tai Seng,2013-06-17,-1
+Tai Seng,2013-06-24,-3
+Tai Seng,2013-07-04,-10
+Tai Seng,2013-07-08,-11
+Tai Seng,2013-07-18,-12
+Tai Seng,2013-07-26,-10
+Tai Seng,2013-08-07,-5
+Tai Seng,2013-08-13,-6
+Tai Seng,2013-08-21,-7
+Tai Seng,2013-08-30,-4
+Tai Seng,2013-09-06,-9
+Tai Seng,2013-09-13,-10
+Tai Seng,2013-10-30,-7
+Tai Seng,2013-11-04,-6
+Tai Seng,2013-11-11,-3
+Tai Seng,2013-11-18,-7
+Tai Seng,2013-11-25,28
+Tai Seng,2013-12-02,33
+Tai Seng,2013-12-09,27
+Tai Seng,2013-12-16,22
+Tai Seng,2013-12-24,11
+Tai Seng,2013-12-31,11
+Tai Seng,2014-01-06,18
+Tai Seng,2014-01-10,37
+Tai Seng,2014-01-17,40
+Tai Seng,2014-02-04,15
+Tai Seng,2014-02-14,12
+Tai Seng,2014-03-04,4
+Tai Seng,2014-03-14,10
+Tai Seng,2014-04-04,22
+Tai Seng,2014-04-14,14
+Tai Seng,2014-05-02,6
+Tai Seng,2014-05-12,13
+Tai Seng,2014-06-03,23
+Tai Seng,2014-06-13,56
+Tai Seng,2014-07-01,75
+Tai Seng,2014-07-14,109
+Tai Seng,2014-07-21,97
+Tai Seng,2014-07-25,100
+Tai Seng,2014-07-29,77
+Tai Seng,2014-08-01,103
+Tai Seng,2014-08-05,90
+Tai Seng,2014-08-08,74
+Tai Seng,2014-08-12,79
+Tai Seng,2014-08-15,70
+Tai Seng,2014-09-22,31
+Tai Seng,2014-09-26,36
+Tai Seng,2014-09-29,28
+Tai Seng,2014-10-03,25
+Tai Seng,2014-10-07,12
+Tai Seng,2014-10-10,17
+Tai Seng,2014-10-13,12
+Tai Seng,2014-10-17,18
+Tai Seng,2014-11-24,11
+Tai Seng,2014-11-28,7
+Tai Seng,2014-12-01,4
+Tai Seng,2014-12-05,11
+Tai Seng,2014-12-09,14
+Tai Seng,2014-12-12,8
+Tai Seng,2014-12-15,4
+Tai Seng,2014-12-19,7
+Tai Seng,2014-12-22,8
+Tai Seng,2014-12-26,14
+Tai Seng,2014-12-30,14
+Tai Seng,2015-01-02,13
+Tai Seng,2015-01-07,16
+Tai Seng,2015-01-09,8
+Tai Seng,2015-01-12,7
+Tai Seng,2015-01-19,9
+Tai Seng,2015-01-26,5
+Tai Seng,2015-02-02,7
+Tai Seng,2015-02-09,6
+Tai Seng,2015-02-16,4
+Tai Seng,2015-02-23,5
+Tai Seng,2015-02-27,7
+Tai Seng,2015-03-02,7
+Tai Seng,2015-03-06,7
+Tai Seng,2015-03-09,9
+Tai Seng,2015-03-16,2
+Tai Seng,2015-03-20,1
+Tai Seng,2015-03-23,2
+Tai Seng,2015-03-27,10
+Tai Seng,2015-03-30,17
+Tai Seng,2015-04-02,8
+Tai Seng,2015-04-06,6
+Tai Seng,2015-04-10,10
+Tai Seng,2015-04-13,6
+Tai Seng,2015-04-17,13
+Tai Seng,2015-07-03,7
+Tai Seng,2015-07-16,2
+Tai Seng,2015-08-06,5
+Tai Seng,2015-08-11,5
+Tai Seng,2015-08-14,9
+Tai Seng,2015-08-17,5
+Tai Seng,2015-08-21,13
+Tai Seng,2015-08-25,22
+Tai Seng,2015-08-28,18
+Tai Seng,2015-08-31,10
+Tai Seng,2015-09-04,11
+Tai Seng,2015-09-07,8
+Tai Seng,2015-09-10,9
+Tai Seng,2015-09-14,6
+Tai Seng,2015-09-18,10
+Tai Seng,2015-09-22,13
+Tai Seng,2015-09-25,17
+Tai Seng,2015-09-28,10
+Tai Seng,2015-10-02,4
+Tai Seng,2015-10-05,4
+Tai Seng,2015-10-09,2
+Tai Seng,2015-10-26,4
+Tai Seng,2015-11-02,4
+Tai Seng,2015-11-09,6
+Tai Seng,2015-11-16,3
+Tai Seng,2015-11-23,5
+Tai Seng,2015-11-30,12
+Tai Seng,2015-12-07,10
+Tai Seng,2015-12-14,10
+Tai Seng,2015-12-21,20
+Tai Seng,2015-12-28,23
+Tai Seng,2016-01-04,20
+Tai Seng,2016-01-11,24
+Tai Seng,2016-01-18,32
+Tai Seng,2016-01-26,68
+Tai Seng,2016-02-01,53
+Tai Seng,2016-02-10,34
+Tai Seng,2016-02-15,21
+Tai Seng,2016-02-23,67
+Tai Seng,2016-03-01,35
+Tai Seng,2016-03-07,29
+Tai Seng,2016-03-14,16
+Tai Seng,2016-03-22,17
+Tai Seng,2016-03-29,18
+Tai Seng,2016-04-04,27
+Tai Seng,2016-04-11,26
+Tai Seng,2016-04-18,18
+Tai Seng,2016-04-25,10
+Tai Seng,2016-05-03,18
+Tai Seng,2016-05-09,26
+Tai Seng,2016-05-24,31
+Tai Seng,2016-05-30,24
+Tai Seng,2016-06-06,23
+Tai Seng,2016-06-13,16
+Tai Seng,2016-06-20,4
+Tai Seng,2016-06-30,21
+Tai Seng,2016-07-04,15
+Tai Seng,2016-07-12,37
+Tai Seng,2016-07-18,20
+Tai Seng,2016-07-26,12
+Tai Seng,2016-08-01,8
+Tai Seng,2016-08-10,3
+Tai Seng,2016-08-16,8
+Tai Seng,2016-08-23,11
+Tai Seng,2016-08-29,18
+Tai Seng,2016-09-05,21
+Tai Seng,2016-09-13,18
+Tai Seng,2016-09-19,10
+Tai Seng,2016-09-26,4
+Tai Seng,2016-10-03,4
+Tai Seng,2016-10-10,4
+Tai Seng,2016-10-17,3
+Tai Seng,2016-10-24,4
+Tai Seng,2016-10-31,3
+Tai Seng,2016-12-05,2
+Tai Seng,2016-12-27,1
+Tai Seng,2017-01-09,1
+Tai Seng,2017-01-31,1
+Tai Seng,2017-02-13,1
+Tai Seng,2017-02-20,1
+Tai Seng,2017-04-17,1
+Tai Seng,2017-06-28,1
+Tai Seng,2017-07-03,1
+Tai Seng,2017-08-21,2
+Tai Seng,2017-09-04,1
+Tai Seng,2017-10-30,2
+Tai Seng,2017-11-06,1
+Tai Seng,2017-11-14,1
+Tai Seng,2017-11-20,1
+Tai Seng,2017-11-27,2
+Tai Seng,2017-12-04,1
+Tai Seng,2018-01-11,3
+Tai Seng,2018-01-15,1
+Tai Seng,2018-02-12,2
+Tai Seng,2018-02-19,1
+Tai Seng,2018-03-05,2
+Tai Seng,2018-03-20,2
+Tai Seng,2018-04-16,4
+Tai Seng,2018-04-23,4
+Tai Seng,2018-05-28,4
+Tai Seng,2018-06-18,2
+Tai Seng,2018-07-02,5
+Tai Seng,2018-07-09,3
+Tai Seng,2018-07-16,2
+Tai Seng,2018-07-23,1
+Tai Seng,2018-08-06,2
+Tai Seng,2018-08-13,1
+Tai Seng,2018-10-01,2
+Tai Seng,2018-10-29,2
+Tai Seng,2018-11-05,1
+Tai Seng,2018-12-17,2
+Tai Seng,2018-12-24,3
+Tai Seng,2018-12-31,2
+Tai Seng,2019-01-07,2
+Tai Seng,2019-01-14,10
+Tai Seng,2019-01-21,9
+Tai Seng,2019-04-03,9
+Tai Seng,2019-04-09,6
+Tai Seng,2019-04-16,12
+Tai Seng,2019-04-29,10
+Tai Seng,2019-05-06,11
+Tai Seng,2019-05-13,40
+Tai Seng,2019-05-22,37
+Tai Seng,2019-05-27,39
+Tai Seng,2019-06-03,63
+Tai Seng,2019-06-10,78
+Tai Seng,2019-06-19,85
+Tai Seng,2019-06-26,94
+Tai Seng,2019-07-02,59
+Tai Seng,2019-07-08,101
+Tai Seng,2019-07-16,205
+Tai Seng,2019-07-26,114
+Tai Seng,2019-08-08,82
+Tai Seng,2019-08-16,46
+Tai Seng,2019-08-23,39
+Tai Seng,2019-08-30,45
+Tai Seng,2019-09-06,24
+Tai Seng,2019-09-13,30
+Tai Seng,2019-09-20,14
+Tai Seng,2019-09-27,17
+Tai Seng,2019-10-04,8
+Tai Seng,2019-10-11,3
+Tai Seng,2019-10-18,1
+Tai Seng,2019-11-01,3
+Tai Seng,2019-11-08,5
+Tai Seng,2019-11-15,8
+Tai Seng,2019-11-22,11
+Tai Seng,2019-11-29,6
+Tai Seng,2019-12-06,8
+Tai Seng,2019-12-13,6
+Tai Seng,2019-12-20,3
+Tai Seng,2019-12-27,3
+Tai Seng,2020-01-03,2
+Tai Seng,2020-01-10,10
+Tai Seng,2020-01-17,14
+Tai Seng,2020-01-24,19
+Tai Seng,2020-01-31,32
+Tai Seng,2020-02-07,28
+Tai Seng,2020-02-14,20
+Tai Seng,2020-02-21,25
+Tai Seng,2020-02-28,22
+Tai Seng,2020-03-06,28
+Tai Seng,2020-03-13,38
+Tai Seng,2020-03-20,44
+Tai Seng,2020-03-27,35
+Tai Seng,2020-04-03,33
+Tai Seng,2020-04-09,38
+Tai Seng,2020-04-17,33
+Tai Seng,2020-04-24,37
+Tai Seng,2020-04-30,41
+Tai Seng,2020-05-08,36
+Tai Seng,2020-05-15,56
+Tai Seng,2020-05-22,54
+Tai Seng,2020-05-29,60
+Tai Seng,2020-06-05,121
+Tai Seng,2020-07-03,323
+Tai Seng,2020-08-07,395
+Tai Seng,2020-09-18,129
+Tai Seng,2020-11-06,25
+Tanjong Pagar,2013-07-08,-1
+Tanjong Pagar,2013-11-04,-1
+Tanjong Pagar,2013-11-11,-1
+Tanjong Pagar,2013-11-25,4
+Tanjong Pagar,2013-12-02,2
+Tanjong Pagar,2013-12-09,1
+Tanjong Pagar,2014-02-04,1
+Tanjong Pagar,2014-09-26,2
+Tanjong Pagar,2016-01-11,2
+Tanjong Pagar,2016-01-18,1
+Tanjong Pagar,2016-03-14,2
+Tanjong Pagar,2016-05-03,2
+Tanjong Pagar,2016-09-13,1
+Tanjong Pagar,2017-01-16,2
+Tanjong Pagar,2017-01-23,1
+Tanjong Pagar,2017-08-10,3
+Tanjong Pagar,2018-03-12,1
+Tanjong Pagar,2018-06-04,2
+Tanjong Pagar,2018-06-11,2
+Tanjong Pagar,2019-07-16,2
+Tanjong Pagar,2019-12-27,2
+Tanjong Pagar,2020-01-31,3
+Tanjong Pagar,2020-02-07,3
+Tanjong Pagar,2020-02-14,3
+Tanjong Pagar,2020-02-21,5
+Tanjong Pagar,2020-02-28,3
+Tanjong Pagar,2020-07-03,5
+Tanjong Pagar,2020-08-07,26
+Tanjong Pagar,2020-09-18,18
+Tanjong Pagar,2020-11-06,16
+Tengah,2013-11-11,-1
+Tengah,2014-08-15,4
+Tengah,2016-06-13,2
+Tengah,2017-01-23,1
+Tengah,2017-02-06,2
+Tengah,2017-02-13,1
+Tengah,2017-02-20,2
+Tengah,2017-10-23,1
+Tengah,2019-06-19,2
+Tengah,2019-07-02,2
+Tengah,2019-07-16,2
+Tengah,2019-07-26,3
+Tengah,2019-08-16,3
+Tengah,2019-08-23,3
+Tengah,2019-08-30,2
+Tengah,2020-02-07,2
+Tengah,2020-03-13,1
+Tengah,2020-05-15,3
+Tengah,2020-05-22,3
+Tengah,2020-05-29,3
+Toa Payoh,2013-05-23,-1
+Toa Payoh,2013-05-27,-1
+Toa Payoh,2013-06-11,-1
+Toa Payoh,2013-06-17,-1
+Toa Payoh,2013-06-24,-2
+Toa Payoh,2013-07-18,-3
+Toa Payoh,2013-07-26,-2
+Toa Payoh,2013-08-07,-1
+Toa Payoh,2013-08-13,-1
+Toa Payoh,2013-08-21,-1
+Toa Payoh,2013-08-30,-2
+Toa Payoh,2013-09-06,-5
+Toa Payoh,2013-09-13,-6
+Toa Payoh,2013-10-30,-3
+Toa Payoh,2013-11-04,-3
+Toa Payoh,2013-11-11,-3
+Toa Payoh,2013-11-18,-6
+Toa Payoh,2013-11-25,15
+Toa Payoh,2013-12-02,15
+Toa Payoh,2013-12-09,6
+Toa Payoh,2013-12-16,5
+Toa Payoh,2013-12-24,1
+Toa Payoh,2013-12-31,6
+Toa Payoh,2014-01-06,10
+Toa Payoh,2014-01-10,11
+Toa Payoh,2014-01-17,8
+Toa Payoh,2014-02-14,9
+Toa Payoh,2014-03-04,4
+Toa Payoh,2014-03-14,2
+Toa Payoh,2014-04-04,4
+Toa Payoh,2014-04-14,8
+Toa Payoh,2014-05-02,2
+Toa Payoh,2014-06-03,2
+Toa Payoh,2014-06-13,12
+Toa Payoh,2014-07-01,35
+Toa Payoh,2014-07-14,32
+Toa Payoh,2014-07-21,33
+Toa Payoh,2014-07-25,15
+Toa Payoh,2014-07-29,8
+Toa Payoh,2014-08-01,11
+Toa Payoh,2014-08-05,8
+Toa Payoh,2014-08-08,7
+Toa Payoh,2014-08-12,3
+Toa Payoh,2014-08-15,5
+Toa Payoh,2014-09-26,2
+Toa Payoh,2014-09-29,2
+Toa Payoh,2014-10-03,2
+Toa Payoh,2014-10-07,2
+Toa Payoh,2014-10-10,1
+Toa Payoh,2014-10-13,1
+Toa Payoh,2014-10-17,1
+Toa Payoh,2014-12-30,2
+Toa Payoh,2015-01-02,3
+Toa Payoh,2015-01-07,5
+Toa Payoh,2015-01-09,2
+Toa Payoh,2015-01-12,2
+Toa Payoh,2015-01-26,2
+Toa Payoh,2015-02-02,11
+Toa Payoh,2015-02-09,3
+Toa Payoh,2015-02-16,3
+Toa Payoh,2015-02-23,1
+Toa Payoh,2015-02-27,2
+Toa Payoh,2015-03-02,2
+Toa Payoh,2015-03-06,4
+Toa Payoh,2015-03-09,2
+Toa Payoh,2015-03-20,5
+Toa Payoh,2015-03-23,4
+Toa Payoh,2015-03-27,2
+Toa Payoh,2015-04-17,2
+Toa Payoh,2015-07-16,2
+Toa Payoh,2015-08-06,3
+Toa Payoh,2015-08-11,3
+Toa Payoh,2015-08-14,2
+Toa Payoh,2015-08-17,2
+Toa Payoh,2015-08-21,7
+Toa Payoh,2015-08-25,9
+Toa Payoh,2015-08-28,11
+Toa Payoh,2015-08-31,4
+Toa Payoh,2015-09-04,6
+Toa Payoh,2015-09-07,4
+Toa Payoh,2015-09-10,4
+Toa Payoh,2015-09-14,3
+Toa Payoh,2015-09-18,3
+Toa Payoh,2015-09-22,7
+Toa Payoh,2015-09-25,10
+Toa Payoh,2015-09-28,7
+Toa Payoh,2015-10-02,5
+Toa Payoh,2015-10-05,2
+Toa Payoh,2015-10-09,8
+Toa Payoh,2015-10-12,4
+Toa Payoh,2015-10-19,7
+Toa Payoh,2015-10-26,2
+Toa Payoh,2015-11-02,4
+Toa Payoh,2015-11-09,5
+Toa Payoh,2015-11-16,3
+Toa Payoh,2015-12-14,2
+Toa Payoh,2015-12-21,1
+Toa Payoh,2015-12-28,2
+Toa Payoh,2016-01-04,2
+Toa Payoh,2016-01-11,2
+Toa Payoh,2016-01-18,10
+Toa Payoh,2016-01-26,6
+Toa Payoh,2016-02-01,11
+Toa Payoh,2016-02-10,15
+Toa Payoh,2016-02-15,10
+Toa Payoh,2016-02-23,20
+Toa Payoh,2016-03-01,6
+Toa Payoh,2016-03-07,6
+Toa Payoh,2016-03-14,7
+Toa Payoh,2016-03-22,9
+Toa Payoh,2016-03-29,13
+Toa Payoh,2016-04-04,12
+Toa Payoh,2016-04-11,7
+Toa Payoh,2016-04-18,7
+Toa Payoh,2016-04-25,7
+Toa Payoh,2016-05-03,2
+Toa Payoh,2016-05-24,15
+Toa Payoh,2016-05-30,13
+Toa Payoh,2016-06-06,9
+Toa Payoh,2016-06-13,10
+Toa Payoh,2016-06-20,4
+Toa Payoh,2016-07-04,2
+Toa Payoh,2016-07-12,1
+Toa Payoh,2016-07-26,5
+Toa Payoh,2016-08-16,4
+Toa Payoh,2016-08-23,4
+Toa Payoh,2016-08-29,3
+Toa Payoh,2016-09-05,3
+Toa Payoh,2016-09-13,3
+Toa Payoh,2016-09-19,2
+Toa Payoh,2016-10-10,1
+Toa Payoh,2016-11-14,2
+Toa Payoh,2017-01-31,1
+Toa Payoh,2017-02-06,1
+Toa Payoh,2017-05-15,2
+Toa Payoh,2017-05-22,1
+Toa Payoh,2017-06-12,2
+Toa Payoh,2017-06-19,3
+Toa Payoh,2017-06-28,2
+Toa Payoh,2017-07-03,3
+Toa Payoh,2017-09-04,2
+Toa Payoh,2017-09-11,2
+Toa Payoh,2017-12-18,3
+Toa Payoh,2017-12-26,2
+Toa Payoh,2018-04-09,2
+Toa Payoh,2018-10-29,2
+Toa Payoh,2018-11-05,3
+Toa Payoh,2018-12-17,2
+Toa Payoh,2018-12-24,2
+Toa Payoh,2019-01-14,2
+Toa Payoh,2019-01-21,4
+Toa Payoh,2019-04-03,8
+Toa Payoh,2019-04-09,3
+Toa Payoh,2019-04-16,6
+Toa Payoh,2019-04-29,3
+Toa Payoh,2019-05-06,2
+Toa Payoh,2019-05-13,5
+Toa Payoh,2019-05-22,7
+Toa Payoh,2019-05-27,2
+Toa Payoh,2019-06-03,25
+Toa Payoh,2019-06-10,29
+Toa Payoh,2019-06-19,18
+Toa Payoh,2019-06-26,17
+Toa Payoh,2019-07-02,19
+Toa Payoh,2019-07-08,38
+Toa Payoh,2019-07-16,65
+Toa Payoh,2019-07-26,33
+Toa Payoh,2019-08-08,40
+Toa Payoh,2019-08-16,40
+Toa Payoh,2019-08-23,35
+Toa Payoh,2019-08-30,26
+Toa Payoh,2019-09-06,21
+Toa Payoh,2019-09-13,12
+Toa Payoh,2019-09-20,13
+Toa Payoh,2019-09-27,8
+Toa Payoh,2019-10-04,7
+Toa Payoh,2019-10-11,7
+Toa Payoh,2019-10-18,2
+Toa Payoh,2019-10-25,5
+Toa Payoh,2019-11-01,4
+Toa Payoh,2019-11-08,6
+Toa Payoh,2019-11-15,4
+Toa Payoh,2019-11-22,2
+Toa Payoh,2019-11-29,2
+Toa Payoh,2019-12-06,3
+Toa Payoh,2020-01-10,1
+Toa Payoh,2020-01-31,2
+Toa Payoh,2020-02-07,6
+Toa Payoh,2020-02-14,3
+Toa Payoh,2020-02-21,3
+Toa Payoh,2020-02-28,3
+Toa Payoh,2020-03-06,1
+Toa Payoh,2020-03-13,6
+Toa Payoh,2020-03-20,8
+Toa Payoh,2020-03-27,11
+Toa Payoh,2020-04-03,18
+Toa Payoh,2020-04-09,27
+Toa Payoh,2020-04-17,28
+Toa Payoh,2020-04-24,61
+Toa Payoh,2020-04-30,66
+Toa Payoh,2020-05-08,51
+Toa Payoh,2020-05-15,128
+Toa Payoh,2020-05-22,132
+Toa Payoh,2020-05-29,146
+Toa Payoh,2020-06-05,225
+Toa Payoh,2020-07-03,168
+Toa Payoh,2020-08-07,97
+Toa Payoh,2020-09-18,43
+Toa Payoh,2020-11-06,12
+Tuas,2013-11-18,-1
+Tuas,2016-04-11,3
+Tuas,2019-06-10,2
+Tuas,2019-12-06,3
+Tuas,2020-01-17,2
+Tuas,2020-01-31,1
+Tuas,2020-04-24,2
+Tuas,2020-04-30,5
+Tuas,2020-05-08,7
+Tuas,2020-05-15,2
+Tuas,2020-05-22,2
+Tuas,2020-05-29,2
+Tuas,2020-06-05,4
+Tuas,2020-07-03,2
+Ulu Pandan,2013-08-21,-1
+Ulu Pandan,2013-11-04,-1
+Ulu Pandan,2013-11-11,-1
+Ulu Pandan,2013-11-18,-1
+Ulu Pandan,2013-11-25,3
+Ulu Pandan,2013-12-09,3
+Ulu Pandan,2013-12-24,2
+Ulu Pandan,2013-12-31,2
+Ulu Pandan,2014-01-06,1
+Ulu Pandan,2014-01-17,10
+Ulu Pandan,2014-02-14,13
+Ulu Pandan,2014-03-04,5
+Ulu Pandan,2014-07-14,2
+Ulu Pandan,2014-07-21,2
+Ulu Pandan,2014-08-08,1
+Ulu Pandan,2014-08-12,1
+Ulu Pandan,2014-08-15,2
+Ulu Pandan,2014-09-22,1
+Ulu Pandan,2014-09-26,2
+Ulu Pandan,2014-10-03,2
+Ulu Pandan,2014-10-07,1
+Ulu Pandan,2014-10-10,1
+Ulu Pandan,2014-10-13,2
+Ulu Pandan,2014-10-17,2
+Ulu Pandan,2015-01-26,2
+Ulu Pandan,2015-07-03,3
+Ulu Pandan,2015-08-28,2
+Ulu Pandan,2015-08-31,2
+Ulu Pandan,2015-10-09,2
+Ulu Pandan,2015-10-12,2
+Ulu Pandan,2016-01-26,3
+Ulu Pandan,2016-02-01,1
+Ulu Pandan,2016-02-15,2
+Ulu Pandan,2016-02-23,3
+Ulu Pandan,2016-04-04,2
+Ulu Pandan,2016-08-29,3
+Ulu Pandan,2016-09-05,1
+Ulu Pandan,2016-09-19,1
+Ulu Pandan,2018-02-12,2
+Ulu Pandan,2018-02-19,1
+Ulu Pandan,2018-05-28,2
+Ulu Pandan,2018-06-04,1
+Ulu Pandan,2018-08-13,1
+Ulu Pandan,2018-09-03,4
+Ulu Pandan,2018-09-10,1
+Ulu Pandan,2018-10-08,1
+Ulu Pandan,2018-10-15,3
+Ulu Pandan,2018-10-22,1
+Ulu Pandan,2018-11-05,2
+Ulu Pandan,2018-11-16,17
+Ulu Pandan,2018-11-19,15
+Ulu Pandan,2018-11-26,18
+Ulu Pandan,2018-12-03,10
+Ulu Pandan,2018-12-10,10
+Ulu Pandan,2018-12-17,3
+Ulu Pandan,2018-12-24,1
+Ulu Pandan,2019-01-14,2
+Ulu Pandan,2019-01-21,1
+Ulu Pandan,2019-01-29,4
+Ulu Pandan,2019-05-27,2
+Ulu Pandan,2019-06-03,2
+Ulu Pandan,2019-06-10,7
+Ulu Pandan,2019-06-19,2
+Ulu Pandan,2019-06-26,4
+Ulu Pandan,2019-07-02,3
+Ulu Pandan,2019-07-08,5
+Ulu Pandan,2019-07-16,10
+Ulu Pandan,2019-07-26,5
+Ulu Pandan,2019-08-08,6
+Ulu Pandan,2019-08-16,4
+Ulu Pandan,2019-08-30,8
+Ulu Pandan,2019-09-06,8
+Ulu Pandan,2019-09-13,7
+Ulu Pandan,2019-09-27,1
+Ulu Pandan,2019-11-01,6
+Ulu Pandan,2019-11-08,5
+Ulu Pandan,2019-12-06,2
+Ulu Pandan,2020-01-31,2
+Ulu Pandan,2020-02-07,1
+Ulu Pandan,2020-02-14,1
+Ulu Pandan,2020-03-27,3
+Ulu Pandan,2020-04-03,17
+Ulu Pandan,2020-04-09,19
+Ulu Pandan,2020-04-17,27
+Ulu Pandan,2020-04-24,24
+Ulu Pandan,2020-04-30,26
+Ulu Pandan,2020-05-08,27
+Ulu Pandan,2020-05-15,21
+Ulu Pandan,2020-05-22,25
+Ulu Pandan,2020-05-29,17
+Ulu Pandan,2020-06-05,22
+Ulu Pandan,2020-07-03,49
+Ulu Pandan,2020-08-07,67
+Ulu Pandan,2020-09-18,24
+Ulu Pandan,2020-11-06,3
+Whampoa,2013-05-23,-1
+Whampoa,2013-05-27,-1
+Whampoa,2013-06-11,-3
+Whampoa,2013-06-17,-3
+Whampoa,2013-06-24,-3
+Whampoa,2013-07-04,-6
+Whampoa,2013-07-08,-4
+Whampoa,2013-07-18,-5
+Whampoa,2013-07-26,-2
+Whampoa,2013-08-07,-5
+Whampoa,2013-08-13,-4
+Whampoa,2013-08-21,-3
+Whampoa,2013-08-30,-2
+Whampoa,2013-09-06,-4
+Whampoa,2013-09-13,-7
+Whampoa,2013-10-30,-1
+Whampoa,2013-11-04,-4
+Whampoa,2013-11-11,-4
+Whampoa,2013-11-18,-2
+Whampoa,2013-11-25,3
+Whampoa,2013-12-09,6
+Whampoa,2013-12-16,1
+Whampoa,2013-12-24,4
+Whampoa,2013-12-31,5
+Whampoa,2014-01-06,5
+Whampoa,2014-01-10,10
+Whampoa,2014-01-17,11
+Whampoa,2014-02-04,2
+Whampoa,2014-02-14,2
+Whampoa,2014-04-04,3
+Whampoa,2014-05-02,4
+Whampoa,2014-05-12,1
+Whampoa,2014-06-03,2
+Whampoa,2014-06-13,13
+Whampoa,2014-07-01,4
+Whampoa,2014-07-14,14
+Whampoa,2014-07-21,12
+Whampoa,2014-07-25,9
+Whampoa,2014-07-29,10
+Whampoa,2014-08-01,17
+Whampoa,2014-08-05,11
+Whampoa,2014-08-08,9
+Whampoa,2014-08-12,8
+Whampoa,2014-08-15,14
+Whampoa,2014-09-22,4
+Whampoa,2014-09-26,5
+Whampoa,2014-09-29,7
+Whampoa,2014-10-03,5
+Whampoa,2014-10-07,4
+Whampoa,2014-10-10,4
+Whampoa,2014-10-13,3
+Whampoa,2014-10-17,2
+Whampoa,2014-11-24,4
+Whampoa,2014-12-05,1
+Whampoa,2014-12-09,2
+Whampoa,2014-12-12,4
+Whampoa,2014-12-15,4
+Whampoa,2014-12-19,2
+Whampoa,2014-12-22,2
+Whampoa,2014-12-26,3
+Whampoa,2014-12-30,5
+Whampoa,2015-01-02,1
+Whampoa,2015-01-09,1
+Whampoa,2015-01-12,3
+Whampoa,2015-01-19,3
+Whampoa,2015-01-26,1
+Whampoa,2015-02-02,1
+Whampoa,2015-02-09,3
+Whampoa,2015-03-09,2
+Whampoa,2015-03-16,4
+Whampoa,2015-03-27,2
+Whampoa,2015-03-30,2
+Whampoa,2015-08-06,3
+Whampoa,2015-08-11,2
+Whampoa,2015-08-14,1
+Whampoa,2015-08-17,3
+Whampoa,2015-08-21,2
+Whampoa,2015-08-25,1
+Whampoa,2015-09-04,2
+Whampoa,2015-09-07,2
+Whampoa,2015-09-10,2
+Whampoa,2015-09-14,1
+Whampoa,2015-09-18,10
+Whampoa,2015-09-22,11
+Whampoa,2015-09-25,7
+Whampoa,2015-09-28,3
+Whampoa,2015-10-02,12
+Whampoa,2015-10-05,10
+Whampoa,2015-10-09,9
+Whampoa,2015-10-12,6
+Whampoa,2015-10-19,3
+Whampoa,2015-10-26,10
+Whampoa,2015-11-02,19
+Whampoa,2015-11-09,6
+Whampoa,2015-11-16,13
+Whampoa,2015-11-23,9
+Whampoa,2015-11-30,6
+Whampoa,2015-12-07,15
+Whampoa,2015-12-14,16
+Whampoa,2015-12-21,35
+Whampoa,2015-12-28,28
+Whampoa,2016-01-04,25
+Whampoa,2016-01-11,36
+Whampoa,2016-01-18,33
+Whampoa,2016-01-26,41
+Whampoa,2016-02-01,39
+Whampoa,2016-02-10,31
+Whampoa,2016-02-15,21
+Whampoa,2016-02-23,10
+Whampoa,2016-03-01,10
+Whampoa,2016-03-07,16
+Whampoa,2016-03-14,13
+Whampoa,2016-03-22,18
+Whampoa,2016-03-29,34
+Whampoa,2016-04-04,37
+Whampoa,2016-04-11,22
+Whampoa,2016-04-18,23
+Whampoa,2016-04-25,19
+Whampoa,2016-05-03,11
+Whampoa,2016-05-09,7
+Whampoa,2016-05-24,3
+Whampoa,2016-05-30,3
+Whampoa,2016-06-13,2
+Whampoa,2016-06-20,1
+Whampoa,2016-06-30,4
+Whampoa,2016-07-04,6
+Whampoa,2016-07-12,5
+Whampoa,2016-07-18,2
+Whampoa,2016-07-26,10
+Whampoa,2016-08-01,8
+Whampoa,2016-08-10,8
+Whampoa,2016-08-16,8
+Whampoa,2016-08-23,4
+Whampoa,2016-08-29,6
+Whampoa,2016-09-05,9
+Whampoa,2016-09-13,10
+Whampoa,2016-09-26,2
+Whampoa,2016-10-03,1
+Whampoa,2016-10-17,3
+Whampoa,2016-10-24,1
+Whampoa,2016-10-31,2
+Whampoa,2016-11-07,3
+Whampoa,2016-11-14,1
+Whampoa,2016-12-19,2
+Whampoa,2016-12-27,2
+Whampoa,2017-01-03,5
+Whampoa,2017-01-09,1
+Whampoa,2017-02-06,3
+Whampoa,2017-02-13,2
+Whampoa,2017-02-20,2
+Whampoa,2017-02-27,3
+Whampoa,2017-03-07,2
+Whampoa,2017-03-13,2
+Whampoa,2017-10-09,1
+Whampoa,2017-10-16,2
+Whampoa,2017-10-23,2
+Whampoa,2017-10-30,3
+Whampoa,2017-11-06,1
+Whampoa,2017-11-27,1
+Whampoa,2017-12-04,1
+Whampoa,2017-12-26,1
+Whampoa,2018-01-11,2
+Whampoa,2018-06-18,2
+Whampoa,2018-07-02,3
+Whampoa,2018-12-10,2
+Whampoa,2018-12-17,1
+Whampoa,2018-12-24,2
+Whampoa,2018-12-31,1
+Whampoa,2019-01-07,1
+Whampoa,2019-01-14,1
+Whampoa,2019-01-21,2
+Whampoa,2019-01-29,3
+Whampoa,2019-04-03,2
+Whampoa,2019-04-16,3
+Whampoa,2019-04-29,5
+Whampoa,2019-05-06,2
+Whampoa,2019-05-13,4
+Whampoa,2019-05-22,10
+Whampoa,2019-05-27,15
+Whampoa,2019-06-03,20
+Whampoa,2019-06-10,20
+Whampoa,2019-06-19,17
+Whampoa,2019-06-26,15
+Whampoa,2019-07-02,5
+Whampoa,2019-07-08,21
+Whampoa,2019-07-16,33
+Whampoa,2019-07-26,12
+Whampoa,2019-08-08,21
+Whampoa,2019-08-16,22
+Whampoa,2019-08-23,11
+Whampoa,2019-08-30,17
+Whampoa,2019-09-06,3
+Whampoa,2019-09-13,4
+Whampoa,2019-09-20,15
+Whampoa,2019-09-27,8
+Whampoa,2019-10-04,5
+Whampoa,2019-10-11,11
+Whampoa,2019-10-18,9
+Whampoa,2019-10-25,4
+Whampoa,2019-11-01,2
+Whampoa,2019-11-08,5
+Whampoa,2019-11-15,5
+Whampoa,2019-12-27,3
+Whampoa,2020-01-03,4
+Whampoa,2020-01-10,4
+Whampoa,2020-01-17,5
+Whampoa,2020-01-24,6
+Whampoa,2020-02-07,4
+Whampoa,2020-02-14,4
+Whampoa,2020-02-21,3
+Whampoa,2020-02-28,4
+Whampoa,2020-03-06,3
+Whampoa,2020-03-13,13
+Whampoa,2020-03-20,12
+Whampoa,2020-03-27,12
+Whampoa,2020-04-03,8
+Whampoa,2020-04-09,7
+Whampoa,2020-04-17,4
+Whampoa,2020-04-24,8
+Whampoa,2020-04-30,5
+Whampoa,2020-05-15,2
+Whampoa,2020-05-22,6
+Whampoa,2020-05-29,18
+Whampoa,2020-06-05,27
+Whampoa,2020-07-03,123
+Whampoa,2020-08-07,185
+Whampoa,2020-09-18,55
+Whampoa,2020-11-06,27
+Yishun,2013-05-23,-1
+Yishun,2013-05-27,-1
+Yishun,2013-06-11,-6
+Yishun,2013-06-17,-6
+Yishun,2013-06-24,-5
+Yishun,2013-07-04,-8
+Yishun,2013-07-08,-9
+Yishun,2013-07-18,-7
+Yishun,2013-07-26,-6
+Yishun,2013-08-07,-6
+Yishun,2013-08-13,-7
+Yishun,2013-08-21,-5
+Yishun,2013-08-30,-4
+Yishun,2013-09-06,-4
+Yishun,2013-09-13,-3
+Yishun,2013-10-30,-4
+Yishun,2013-11-04,-3
+Yishun,2013-11-11,-5
+Yishun,2013-11-18,-4
+Yishun,2013-11-25,11
+Yishun,2013-12-02,15
+Yishun,2013-12-09,14
+Yishun,2013-12-16,7
+Yishun,2013-12-24,8
+Yishun,2013-12-31,14
+Yishun,2014-01-06,7
+Yishun,2014-01-10,18
+Yishun,2014-01-17,9
+Yishun,2014-02-04,6
+Yishun,2014-03-04,3
+Yishun,2014-03-14,2
+Yishun,2014-07-01,4
+Yishun,2014-07-14,24
+Yishun,2014-07-21,3
+Yishun,2014-07-25,8
+Yishun,2014-07-29,4
+Yishun,2014-08-01,3
+Yishun,2014-08-05,6
+Yishun,2014-08-08,5
+Yishun,2014-08-12,3
+Yishun,2014-08-15,3
+Yishun,2014-09-22,1
+Yishun,2014-09-26,2
+Yishun,2014-09-29,2
+Yishun,2014-10-03,4
+Yishun,2014-10-07,2
+Yishun,2014-10-10,1
+Yishun,2014-10-17,1
+Yishun,2014-12-01,1
+Yishun,2014-12-05,2
+Yishun,2014-12-30,3
+Yishun,2015-01-02,3
+Yishun,2015-02-16,1
+Yishun,2015-02-23,2
+Yishun,2015-02-27,2
+Yishun,2015-03-09,2
+Yishun,2015-03-16,9
+Yishun,2015-03-20,7
+Yishun,2015-03-23,3
+Yishun,2015-03-27,4
+Yishun,2015-03-30,4
+Yishun,2015-04-02,7
+Yishun,2015-04-06,5
+Yishun,2015-04-10,8
+Yishun,2015-04-13,7
+Yishun,2015-04-17,7
+Yishun,2015-07-03,9
+Yishun,2015-07-16,11
+Yishun,2015-08-06,6
+Yishun,2015-08-11,9
+Yishun,2015-08-14,11
+Yishun,2015-08-17,4
+Yishun,2015-08-21,17
+Yishun,2015-08-25,20
+Yishun,2015-08-28,19
+Yishun,2015-08-31,10
+Yishun,2015-09-04,19
+Yishun,2015-09-07,14
+Yishun,2015-09-10,20
+Yishun,2015-09-14,19
+Yishun,2015-09-18,21
+Yishun,2015-09-22,20
+Yishun,2015-09-25,26
+Yishun,2015-09-28,17
+Yishun,2015-10-02,9
+Yishun,2015-10-05,7
+Yishun,2015-10-09,16
+Yishun,2015-10-12,13
+Yishun,2015-10-19,8
+Yishun,2015-10-26,12
+Yishun,2015-11-02,10
+Yishun,2015-11-09,9
+Yishun,2015-11-16,5
+Yishun,2015-11-23,2
+Yishun,2015-12-07,6
+Yishun,2015-12-14,13
+Yishun,2015-12-21,7
+Yishun,2015-12-28,5
+Yishun,2016-01-04,16
+Yishun,2016-01-11,15
+Yishun,2016-01-18,37
+Yishun,2016-01-26,44
+Yishun,2016-02-01,32
+Yishun,2016-02-10,28
+Yishun,2016-02-15,22
+Yishun,2016-02-23,27
+Yishun,2016-03-01,20
+Yishun,2016-03-07,19
+Yishun,2016-03-14,16
+Yishun,2016-03-22,19
+Yishun,2016-03-29,7
+Yishun,2016-04-04,12
+Yishun,2016-04-11,12
+Yishun,2016-04-18,7
+Yishun,2016-04-25,16
+Yishun,2016-05-03,7
+Yishun,2016-05-09,3
+Yishun,2016-05-24,4
+Yishun,2016-05-30,5
+Yishun,2016-06-06,7
+Yishun,2016-06-13,1
+Yishun,2016-06-30,3
+Yishun,2016-07-04,3
+Yishun,2016-07-12,2
+Yishun,2016-07-18,5
+Yishun,2016-07-26,4
+Yishun,2016-08-01,11
+Yishun,2016-08-10,12
+Yishun,2016-08-16,10
+Yishun,2016-08-23,6
+Yishun,2016-08-29,4
+Yishun,2016-09-05,9
+Yishun,2016-09-13,7
+Yishun,2016-09-19,18
+Yishun,2016-09-26,9
+Yishun,2016-10-03,5
+Yishun,2016-10-10,8
+Yishun,2016-10-17,3
+Yishun,2016-10-24,5
+Yishun,2016-10-31,3
+Yishun,2016-11-07,2
+Yishun,2016-11-14,1
+Yishun,2016-12-05,1
+Yishun,2016-12-12,2
+Yishun,2017-02-20,1
+Yishun,2017-02-27,1
+Yishun,2017-04-10,1
+Yishun,2017-04-24,1
+Yishun,2017-05-29,1
+Yishun,2017-06-05,1
+Yishun,2017-10-23,2
+Yishun,2017-10-30,2
+Yishun,2018-01-29,2
+Yishun,2018-04-09,2
+Yishun,2018-04-16,1
+Yishun,2018-06-04,1
+Yishun,2018-07-16,4
+Yishun,2018-07-30,2
+Yishun,2018-08-06,3
+Yishun,2018-08-13,2
+Yishun,2018-08-20,4
+Yishun,2018-08-27,12
+Yishun,2018-09-03,12
+Yishun,2018-09-10,17
+Yishun,2018-09-17,14
+Yishun,2018-09-25,14
+Yishun,2018-10-01,4
+Yishun,2018-10-08,4
+Yishun,2018-10-15,2
+Yishun,2018-10-29,2
+Yishun,2018-12-03,2
+Yishun,2018-12-10,2
+Yishun,2018-12-17,1
+Yishun,2018-12-24,3
+Yishun,2018-12-31,4
+Yishun,2019-01-07,7
+Yishun,2019-01-14,13
+Yishun,2019-01-21,12
+Yishun,2019-01-29,14
+Yishun,2019-04-03,4
+Yishun,2019-04-09,7
+Yishun,2019-04-16,6
+Yishun,2019-04-23,6
+Yishun,2019-04-29,4
+Yishun,2019-05-06,4
+Yishun,2019-05-13,6
+Yishun,2019-05-22,10
+Yishun,2019-05-27,6
+Yishun,2019-06-03,4
+Yishun,2019-06-10,7
+Yishun,2019-06-19,12
+Yishun,2019-06-26,11
+Yishun,2019-07-02,8
+Yishun,2019-07-08,9
+Yishun,2019-07-16,6
+Yishun,2019-07-26,6
+Yishun,2019-08-08,5
+Yishun,2019-08-16,9
+Yishun,2019-08-23,6
+Yishun,2019-08-30,6
+Yishun,2019-09-06,4
+Yishun,2019-09-20,3
+Yishun,2019-09-27,5
+Yishun,2019-10-04,2
+Yishun,2019-10-18,2
+Yishun,2019-10-25,6
+Yishun,2019-11-08,1
+Yishun,2019-12-06,2
+Yishun,2019-12-13,3
+Yishun,2019-12-20,5
+Yishun,2019-12-27,8
+Yishun,2020-01-03,4
+Yishun,2020-01-10,8
+Yishun,2020-01-17,8
+Yishun,2020-01-24,12
+Yishun,2020-01-31,19
+Yishun,2020-02-07,13
+Yishun,2020-02-14,10
+Yishun,2020-02-21,7
+Yishun,2020-02-28,2
+Yishun,2020-03-20,4
+Yishun,2020-03-27,9
+Yishun,2020-04-03,17
+Yishun,2020-04-09,12
+Yishun,2020-04-17,12
+Yishun,2020-04-24,9
+Yishun,2020-04-30,14
+Yishun,2020-05-08,7
+Yishun,2020-05-15,10
+Yishun,2020-05-22,16
+Yishun,2020-05-29,15
+Yishun,2020-06-05,12
+Yishun,2020-07-03,27
+Yishun,2020-08-07,66
+Yishun,2020-09-18,10
