@@ -29,10 +29,26 @@ The data is collected from a few sources as listed below.
 ---
 
 ### Conclusion
+Historically, the top three estates with the most number of dengue cases are:
+1. Chai Chee
+2. Ang Mo Kio
+3. Tai Seng
 
 
+Our best model is:
+
+
+
+The factor that most likely to affect the number of dengue case is:
+
+
+
+Number of cases per fortnight to justify cost of fumigation = 25
 
 ---
 
 ### Recommendation
+1.
+2.
+3. To engage fumigation service only when there are more than 25 cases per fortnight
 
