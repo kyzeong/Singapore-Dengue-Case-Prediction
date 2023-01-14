@@ -59,7 +59,15 @@ The data is collected from a few sources as listed below.
 
 ### Summary
 
+After cleaning and merging the data from different sources into 1 dataset, we began the modelling. 
 
+We fitted 4 different regression models: 
+1. Linear Regression
+2. Support Vector Regression
+3. Random Forest Regression
+4. XGBoost Regression
+
+XGBoost is selected as our final model as this model outperforms the other models that we have tried. The XGBoost model attained the lowest RMSE (15.20) out of all the models and also outperformed the baseline model (RMSE = 28.92). 
 
 ---
 
@@ -70,11 +78,7 @@ Historically, the top three estates with the most number of dengue cases are:
 3. Tai Seng
 
 
-Our best model is:
-
-
-
-The factor that most likely to affect the number of dengue case is:
+The factor that most likely to affect the number of dengue case are the regions. This could be due to the population density at the regions. For improvement in the future, we could possibly add in data on population density such that we are able to get the % of case/population of each region.  
 
 
 
