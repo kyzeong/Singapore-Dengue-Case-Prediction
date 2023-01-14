@@ -87,7 +87,6 @@ Number of cases per fortnight to justify cost of fumigation = 25
 ---
 
 ### Recommendation
-1.
-2.
-3. To engage fumigation service only when there are more than 25 cases per fortnight
+
+To engage fumigation service only when there are more than 25 cases per fortnight
 
