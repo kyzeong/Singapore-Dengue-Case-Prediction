@@ -5,6 +5,12 @@
     2. Jin Min Wood
     3. Adrian Kong
 
+### Project Management
+
+https://trello.com/b/DVjeb1b5/project-management
+![image](https://user-images.githubusercontent.com/110460187/212448768-98335b6d-6e8f-43ee-9551-16e86af89216.png)
+
+
 ### Problem Statement
 
 Total number of Dengue cases from year 2017 to 2020 has increased from 2,767 to 35,266. Dengue fever is a mosquito-borne illness that occurs in tropical and subtropical areas of the world. Mild dengue fever causes a high fever and flu-like symptoms. The severe form of dengue fever, also called dengue hemorrhagic fever, can cause serious bleeding, a sudden drop in blood pressure (shock) and death.
